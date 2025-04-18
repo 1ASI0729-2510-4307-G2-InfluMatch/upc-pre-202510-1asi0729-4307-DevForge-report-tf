@@ -276,6 +276,21 @@ Dado el volumen de perfiles y campañas en InfluMatch, se incorpora un sistema d
 
 ### 4.2.5. Navigation Systems
 
+La navegación de InfluMatch está centrada en la experiencia fluida del usuario, tanto en la Landing Page como en la plataforma interna. Se utilizan menús claros, enlaces visibles y rutas de interacción optimizadas para que cada acción sea intuitiva.
+
+**Landing Page:**
+- **Menú superior sticky:** Permite acceder rápidamente a secciones como "¿Cómo funciona?", "Casos de éxito", "Planes" y "Iniciar sesión".
+- **Scroll guiado:** A través de llamadas a la acción distribuidas en bloques temáticos.
+- **Botones CTA:** Redireccionan al registro, solicitud de demo o exploración de perfiles.
+
+**Aplicación Web:**
+- **Menú lateral (sidebar):** Incluye accesos a secciones principales como Dashboard, Explorar, Campañas, Perfil y Chat.
+- **Barra superior:** Muestra íconos de notificaciones, ayuda y perfil de usuario.
+- **Breadcrumbs:** Presentes en vistas secundarias para mantener contexto.
+- **Componentes interactivos:** Botones, tarjetas, chips y enlaces mantienen consistencia en color y comportamiento.
+
+El sistema permite que tanto empresas como influencers recorran la aplicación sin distracciones, cumpliendo con sus objetivos con la menor cantidad de clics posibles.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe

@@ -256,6 +256,24 @@ Estas etiquetas también se reflejan en las tarjetas, formularios, menú princip
 
 ### 4.2.4. Searching Systems
 
+Dado el volumen de perfiles y campañas en InfluMatch, se incorpora un sistema de búsqueda con múltiples niveles de filtrado para facilitar el acceso a la información deseada sin pérdida de tiempo.
+
+**Opciones de búsqueda disponibles:**
+- **Por nombre o username** del influencer o empresa.
+- **Por red social activa** (Instagram, TikTok, YouTube).
+- **Por categoría de influencia** (moda, fitness, gaming, etc.).
+- **Por tipo de campaña publicada** (historia, post, reseña, sorteo).
+
+**Filtros adicionales:**
+- Rango de seguidores.
+- Nivel de engagement.
+- País o idioma del influencer.
+- Rango de fechas de campañas anteriores.
+
+**Visualización posterior a la búsqueda:**
+- Resultados presentados en tarjetas resumidas con imagen de perfil, datos clave y botón para ver más detalles.
+- Posibilidad de guardar búsquedas frecuentes o marcar influencers como favoritos.
+
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design

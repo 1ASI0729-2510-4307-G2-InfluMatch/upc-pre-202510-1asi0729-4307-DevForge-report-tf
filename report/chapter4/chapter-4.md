@@ -120,9 +120,76 @@ La voz de la marca influye directamente en la experiencia de usuario y la percep
 * **Lenguaje:** Claro, directo, con vocabulario tecnológico sin excesiva jerga técnica.
 * **Relación con el usuario:** Respetuosa, confiable y colaborativa.
 
+
 ### 4.1.2. Web Style Guidelines
 
+El enfoque de **InfluMatch** para la aplicación web se basa en la claridad, tecnología y dinamismo, alineado con su objetivo de conectar marcas con influencers a través de una experiencia intuitiva, profesional y visualmente impactante. La interfaz está diseñada para adaptarse de manera responsiva a distintos dispositivos, garantizando accesibilidad y navegación fluida.
+
+---
+
+#### Tarjetas
+Las tarjetas representan los perfiles de influencers disponibles para colaboración. Cada tarjeta contiene:
+- Foto de perfil del influencer.
+- Nombre y nicho de influencia.
+- Extracto de su comunidad (seguidores, engagement).
+- Botón de acción ("Ver perfil") que redirige a su detalle completo.
+
+Estas tarjetas se presentan en una vista de grilla responsiva para explorar fácilmente las opciones disponibles desde cualquier dispositivo.
+
+---
+
+#### Imágenes
+Las imágenes tienen una función clave dentro del diseño, priorizando representaciones claras del influencer y contenido visual que acompañe las campañas:
+- **Imagen de perfil** para influencers y empresas.
+- **Imagen de encabezado** en el perfil de cada influencer, que puede incluir fotos promocionales o contenido destacado.
+- **Banners de campañas activas** visibles en el dashboard de empresas.
+
+No se utilizan imágenes de fondo para evitar distracciones y mantener el foco en el contenido dinámico.
+
+---
+
+#### Botones
+Los botones están diseñados para guiar al usuario en acciones clave:
+- **Primarios (Azul Confianza):** iniciar contratación, enviar propuesta, contactar influencer.
+- **Secundarios (Púrpura Digital):** ver detalles, compartir perfil, agregar a favoritos.
+- **Acciones Críticas (Rojo):** cancelar colaboración, eliminar propuesta.
+
+Todos los botones poseen texto legible, padding generoso y se ubican en la parte inferior derecha o en tarjetas según el flujo.
+
+---
+
+#### Vistas y Flujo General de Interacción
+
+- **Exploración de Influencers:** Vista de múltiples tarjetas con filtros por red social, categoría, país, etc.
+- **Perfil de Influencer:** Página con imagen de portada, video de presentación, estadísticas, historial de campañas y botón para iniciar conversación.
+- **Chat Interno:** Ventana flotante o pantalla dedicada donde marcas e influencers intercambian mensajes, propuestas y archivos.
+- **Dashboard de Marca:** Vista consolidada con influencers contratados, campañas activas y métricas.
+- **Publicación de Requisitos:** Panel donde la empresa crea una "convocatoria" para buscar influencers según sus necesidades (tipo banner, review, unboxing, etc.).
+
+---
+
+#### Pantallas Emergentes (Pop-ups)
+Se utilizan para confirmar acciones como envío de propuestas, aceptar colaboraciones, visualizar precios o condiciones. Incluyen:
+- Título claro.
+- Ícono representativo.
+- Descripción resumida.
+- Botones para confirmar o cancelar.
+
+Oscurecen el fondo para centrar la atención en la decisión a tomar.
+
+---
+
+#### Layout General y Responsive
+- **Header fijo** con logo y navegación rápida.
+- **Sidebar colapsable** con menú de navegación.
+- **Grid responsivo** basado en 2 columnas para tarjetas y formularios.
+- **Diseño mobile-first**, con menús hamburguesa y componentes apilados.
+- **Espaciado basado en 8px** para mantener consistencia visual y legibilidad.
+
+Este sistema garantiza una experiencia moderna, limpia y adaptada a las necesidades del ecosistema digital de InfluMatch.
+
 ## 4.2. Information Architecture
+
 
 ### 4.2.1. Organization Systems
 

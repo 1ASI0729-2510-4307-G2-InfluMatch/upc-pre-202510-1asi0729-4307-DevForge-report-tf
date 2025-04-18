@@ -189,7 +189,9 @@ Oscurecen el fondo para centrar la atención en la decisión a tomar.
 Este sistema garantiza una experiencia moderna, limpia y adaptada a las necesidades del ecosistema digital de InfluMatch.
 
 ## 4.2. Information Architecture
+Dado que InfluMatch funciona como una plataforma central para la conexión entre marcas e influencers, es fundamental que su arquitectura de información permita una navegación clara, segmentada y adaptable tanto para empresas como para creadores de contenido. Cada flujo y contenido ha sido diseñado para que los usuarios puedan identificar fácilmente sus opciones, comprender su posición dentro del sistema y ejecutar tareas con la menor fricción posible. Tanto en la landing page como en la aplicación web, se ha priorizado una organización orientada al flujo natural de toma de decisiones de los usuarios.
 
+Los perfiles se organizan de forma jerárquica para destacar a influencers verificados y populares. Las convocatorias publicadas por las marcas se estructuran de forma cronológica y etiquetada por categoría de campaña. El área de propuestas y chat permite una navegación secuencial que lleva de la visualización de una tarjeta, al perfil del influencer, al inicio de una conversación y eventualmente al cierre de un contrato. El dashboard muestra vistas matriciales de campañas, métricas e historiales para toma de decisiones estratégicas.
 
 ### 4.2.1. Organization Systems
 

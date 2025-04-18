@@ -231,7 +231,26 @@ Utilizada principalmente en los flujos de colaboración:
 
 Esta arquitectura de organización garantiza que tanto empresas como influencers encuentren y gestionen la información de forma efectiva, sin perder de vista su objetivo principal: establecer colaboraciones auténticas, rápidas y transparentes.
 
+
 ### 4.2.2. Labeling Systems
+
+Para asegurar claridad y simplicidad en la navegación, InfluMatch implementa un sistema de etiquetado consistente, breve y contextualizado. Las etiquetas están diseñadas para ser intuitivas y reflejar con precisión el contenido que representan, evitando ambigüedades y redundancias.
+
+**En la aplicación se incluyen las siguientes etiquetas principales:**
+- **Dashboard:** Inicio personalizado para cada tipo de usuario.
+- **Explorar Influencers:** Lista filtrable de perfiles disponibles.
+- **Mis Campañas:** Sección que agrupa campañas activas, en revisión y finalizadas.
+- **Convocatorias:** Publicaciones creadas por marcas en búsqueda de colaboraciones.
+- **Perfil:** Área de visualización y edición de información personal.
+- **Chat:** Comunicación directa entre marcas e influencers.
+- **Notificaciones:** Alertas sobre nuevas interacciones o actualizaciones.
+
+**Metadatos comunes:**
+- `description`: Resumen breve del propósito de cada sección.
+- `keywords`: influencer, campaña, colaboración, marca, contrato, propuesta.
+- `author`: Nombre de la empresa o influencer correspondiente.
+
+Estas etiquetas también se reflejan en las tarjetas, formularios, menú principal, breadcrumbs y URLs, garantizando consistencia en la experiencia del usuario.
 
 ### 4.2.3. SEO Tags and Meta Tags
 

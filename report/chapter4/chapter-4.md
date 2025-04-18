@@ -194,6 +194,42 @@ Dado que InfluMatch funciona como una plataforma central para la conexión entre
 Los perfiles se organizan de forma jerárquica para destacar a influencers verificados y populares. Las convocatorias publicadas por las marcas se estructuran de forma cronológica y etiquetada por categoría de campaña. El área de propuestas y chat permite una navegación secuencial que lleva de la visualización de una tarjeta, al perfil del influencer, al inicio de una conversación y eventualmente al cierre de un contrato. El dashboard muestra vistas matriciales de campañas, métricas e historiales para toma de decisiones estratégicas.
 
 ### 4.2.1. Organization Systems
+La organización visual y lógica del contenido en InfluMatch se estructura mediante los siguientes sistemas según el contexto:
+
+**Organización Jerárquica:** 
+Se aplica en las siguientes secciones:
+
+  - **Landing Page:** Prioriza secciones de valor como "¿Cómo funciona?", "Casos de Éxito" y llamados a la acción (CTA) visibles desde el primer scroll.
+  - **Perfiles de Influencers:** Resaltan nombre, estadísticas principales, video de presentación y reputación, seguidos de métricas complementarias y detalles históricos.
+
+**Organización Secuencial (Step-by-Step):**
+Utilizada principalmente en los flujos de colaboración:
+
+  - **Exploración y Contratación:** Desde la búsqueda de influencers (vista de tarjetas) → redirección al perfil completo → botón para iniciar conversación → chat en tiempo real → acuerdos → pago → reseña.
+  - **Publicación de Convocatorias:** Empresas siguen un formulario paso a paso para definir objetivos, públicos, presupuesto y condiciones.
+
+  **Organización Matricial:**
+  Se usa en el dashboard principal para ambos tipos de usuarios:
+  - Las **empresas** visualizan campañas activas, en revisión y cerradas en tarjetas modulares junto a estadísticas comparativas.
+  - Los **influencers** acceden desde el dashboard a solicitudes nuevas, campañas en progreso, historial y recompensas, todos agrupados como bloques informativos.
+
+**Categorización del Contenido:**
+
+  - **Por Tópicos:**
+    - Se aplica en la exploración de campañas o búsquedas por categorías como "Moda", "Tecnología", "Alimentos", "Viajes", etc.
+
+  - **Por Audiencia:**
+    - Usuarios nuevos (tanto marcas como influencers) son guiados en su primer acceso con contenido personalizado.
+    - Las marcas verán como pantalla principal un acceso rápido a convocatorias, mensajes y métricas.
+    - Los influencers accederán directamente a su perfil, oportunidades disponibles y su bandeja de entrada.
+
+  - **Cronológica:**
+    - Historial de campañas y mensajes se ordena del más reciente al más antiguo, facilitando el seguimiento de actividades.
+
+  - **Alfabética:**
+    - Aplicada en el buscador de influencers, permitiendo ordenarlos por nombre o username en redes.
+
+Esta arquitectura de organización garantiza que tanto empresas como influencers encuentren y gestionen la información de forma efectiva, sin perder de vista su objetivo principal: establecer colaboraciones auténticas, rápidas y transparentes.
 
 ### 4.2.2. Labeling Systems
 

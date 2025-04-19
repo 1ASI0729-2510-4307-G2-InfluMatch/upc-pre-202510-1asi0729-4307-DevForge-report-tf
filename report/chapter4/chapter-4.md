@@ -292,8 +292,13 @@ El siguiente wireframe pertenece a la vista desktop web browser de nuestro landi
 ![Wireframe2](../../assets/Wireframe2.png "Wireframe2")
 ![Wireframe3](../../assets/WIreframe3.png "Wireframe3")
 
-
 ### 4.3.2. Landing Page Mock-up
+
+En base al Wireframe del landing page, que sirvio para determinar la organizacion de cada elemento, se elaboro el mock-up para ese mismo. Este tiene el mismo contenido y organizacion ademas de aplicar la paleta de colores primarios y secundarios, asi como la tipografia especificada anteriormente.
+
+![Mockup1](../../assets/Mockup1.png "Mockup1")
+![Mockup2](../../assets/Mockup2.png "Mockup2")
+![Mockup3](../../assets/Mockup3.png "Mockup3")
 
 ## 4.4. Web Applications UX/UI Design
 

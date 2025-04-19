@@ -290,7 +290,7 @@ El siguiente wireframe pertenece a la vista desktop web browser de nuestro landi
 
 ![Wireframe IM](../../assets/Wireframe1.png "Wireframe del Landing Page")
 ![Wireframe2 IM](../../assets/Wireframe2.png "Wireframe2 del Landing Page")
-![Wireframe3 IM](../../assets/Wireframe3.png "Wireframe3 del Landing Page")
+![Wireframe3 IM](../../assets/WIreframe3.png "WIreframe3 del Landing Page")
 
 ### 4.3.2. Landing Page Mock-up
 

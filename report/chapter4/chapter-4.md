@@ -288,6 +288,9 @@ El sistema permite que tanto empresas como influencers recorran la aplicación s
 
 El siguiente wireframe pertenece a la vista desktop web browser de nuestro landing page. El cual contiene informacion importante como el objetivo principal del producto y el flujo de funcionamiento, el cual presenta a los usuarios la funcionalidad principal que es generar contratos entre influencers y empresas. Adicionalmente, el header contiene accesos directos a diferentes secciones como "Casos de exito" que serian reviews de los usuarios que utilizaron el producto y obtuvieron resultados positivos. Por ultimo, se cuenta con una seccion de "Planes" que muestra cada tipo de plan disponile con sus respectivas funcionalidades, y la seccion de "Contacto" que sirve para que usuarios o personas interesadas obtengan informacion adicional o resuelvan sus dudas.
 
+![Wireframe IM](../../assets/Wireframe1.png "Wireframe del Landing Page")
+
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design

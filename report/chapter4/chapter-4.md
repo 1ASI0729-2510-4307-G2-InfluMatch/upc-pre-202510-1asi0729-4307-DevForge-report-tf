@@ -316,6 +316,11 @@ En base al Wireframe del landing page, que sirvio para determinar la organizacio
 
 ### 4.6.1. Software Architecture Context Diagram
 
+En el diagrama de contexto mostramos en alto nivel como se relaciona el sistema de InfluMatch con los usuarios y sistemas externos.
+
+![ContextDiag](../../assets/ContextInfluMatch.png "ContextDiag")
+
+
 ### 4.6.2. Software Architecture Container Diagrams
 
 ### 4.6.3. Software Architecture Components Diagrams

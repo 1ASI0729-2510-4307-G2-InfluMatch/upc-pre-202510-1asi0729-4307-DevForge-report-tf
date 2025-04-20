@@ -1,7 +1,7 @@
 # **Capítulo I: Introducción**
 
 ## 1.1. Startup Profile
-
+Esta sección expone una visión general de la startup junto con los perfiles de los integrantes del equipo.
 ### 1.1.1. Descripción de la Startup
 InfluMatch es una plataforma web innovadora que redefine la forma en que las marcas y los influencers colaboran. A través de un ecosistema digital basado en inteligencia artificial, Internet de las Cosas (IoT) y análisis en tiempo real, InfluMatch optimiza las estrategias de marketing de influencia para hacerlas más eficientes, transparentes y medibles.
 

@@ -387,6 +387,31 @@ La sección de **Campañas recomendadas** presenta una **rejilla de seis tarjeta
 
 ## 4.5. Web Applications Prototyping
 
+Para la elaboración de los prototipos de la interfaz de usuario destinados a **Desktop** y **Mobile Web Browser**, se siguieron una serie de criterios fundamentales:
+
+1. **Claridad y Facilidad de Uso**  
+   El objetivo fue que la navegación resultara intuitiva y comprensible, de modo que los usuarios pudieran familiarizarse rápidamente con las funcionalidades clave (registro de procesos, visualización de reportes estadísticos, gestión de agendas, etc.) sin necesidad de formación previa.
+
+2. **Diseño Responsive**  
+   Se priorizó un enfoque “mobile‑first” y se aplicaron **breakpoints** adecuados para garantizar que el prototipo se adaptara fluidamente a distintos tamaños de pantalla, desde smartphones hasta monitores de escritorio, sin perder legibilidad ni usabilidad.
+
+3. **Priorización de Información Relevante**  
+   Cada pantalla muestra únicamente los elementos esenciales para la tarea en curso, minimizando el “ruido” visual. Se utilizaron jerarquías tipográficas y espacios en blanco estratégicos para resaltar acciones primarias y datos críticos.
+
+4. **Consistencia Visual y de Interacción**  
+   Se definieron y aplicaron **componentes reutilizables** (botones, formularios, tarjetas, modales) con un estilo unificado de color, tipografía y espaciado, de modo que el usuario mantenga una experiencia coherente a lo largo de todo el prototipo.
+
+5. **Feedback Inmediato y Accesibilidad**  
+   Todos los elementos interactivos incorporan estados (hover, foco, error) y mensajes de validación claros. Se siguieron pautas de contraste y navegación con teclado para asegurar el cumplimiento de estándares de accesibilidad.
+
+
+**Enlace para acceder al video de explicación del Web Applications Prototyping:**  
+[Ver video explicativo](https://www.ejemplo.com/video-prototyping)
+
+**Enlace para acceder al flujo de navegación (Flow):**  
+[Ver diagrama de flujo](https://www.ejemplo.com/flujo-prototyping)
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram

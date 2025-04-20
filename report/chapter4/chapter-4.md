@@ -300,9 +300,43 @@ En base al Wireframe del landing page, que sirvio para determinar la organizacio
 ![Mockup2](../../assets/Mockup2.png "Mockup2")
 ![Mockup3](../../assets/Mockup3.png "Mockup3")
 
-## 4.4. Web Applications UX/UI Design
+## 4.4. Diseño UX/UI de Aplicaciones Web
 
-### 4.4.1. Web Applications Wireframes
+### 4.4.1. Wireframes de Aplicaciones Web
+
+**Inicio de sesión**  
+La sección de inicio de sesión presenta un formulario centrado en la pantalla con un fondo claro y campos para **correo electrónico** y **contraseña**, acompañados de iconos intuitivos. Incluye validación en tiempo real para formato de email y fuerza de contraseña, mensajes de error debajo de los inputs, un enlace para **recuperar contraseña** en caso de olvido y un botón principal “Iniciar sesión” que destaca en un color sólido. Bajo el botón aparece un texto que invita a **crear cuenta** si el usuario aún no está registrado. El diseño mantiene suficiente espacio entre elementos, tipografía legible y un estilo minimalista que facilita la accesibilidad y la claridad.  
+![WireframeWebApp1](../../assets/WireframeWebApp1.png)
+
+**Agenda**  
+La sección de **Agenda** muestra un calendario mensual con navegación mediante flechas izquierda/derecha y un botón “Hoy” para volver a la fecha actual. Ofrece alternancia entre vista **Mensual** y **Semanal** para adaptar la visualización a distintos niveles de detalle. Cada día aparece como una casilla que, al hacer hover o clic, despliega tarjetas con eventos como reuniones con marcas, publicaciones programadas, entregas de contenido y revisiones de proyectos. Un botón flotante “+” permite agregar rápidamente nuevos eventos, y al pie de cada tarjeta queda visible la hora y un resumen. A la izquierda, una barra lateral fija da acceso a todas las secciones principales de la aplicación.  
+![WireframeWebApp3](../../assets/WireframeWebApp3.png)
+
+
+**Chats**  
+En **Chats** el usuario encuentra en la zona superior un carrusel horizontal con **tarjetas de marcas** (logo, nombre y snippet del último mensaje) que permiten cambiar de conversación rápidamente. Bajo este carrusel, cada ventana de chat muestra mensajes entrantes y salientes como burbujas, con timestamps discretos y la capacidad de adjuntar archivos (PDF, imágenes) que aparecen con su propio placeholder y tamaño. A la derecha de cada burbuja puede haber acciones contextuales (descargar, ver detalles). La parte inferior incluye un campo de texto expansible para redactar nuevos mensajes, botones para adjuntar imágenes o documentos y un indicador de estado de envío.  
+![WireframeWebApp5](../../assets/WireframeWebApp5.png)
+
+**Procesos**  
+La sección **Procesos** comienza con cuatro **tarjetas de métricas** que muestran el total de solicitudes, cuántas han sido aceptadas, cuántas están pendientes y cuántas rechazadas. Debajo, hay controles de filtro y orden (por estado, fecha de postulación, más recientes) y botones para alternar entre **vista lista** y **vista tarjetas**. El listado de postulaciones incluye para cada ítem un thumbnail de campaña, título y marca, fecha de postulación, una etiqueta de estado con color distintivo y un botón “Ver detalles” que abre un modal o despliega información ampliada. La paginación se sitúa al final, permitiendo navegar fácilmente entre páginas.  
+![WireframeWebApp4](../../assets/WireframeWebApp4.png)
+
+**Contratos**  
+En **Contratos** se presenta el nombre de la campaña y la fecha de emisión, seguido del encabezado “CONTRACT OF DIGITAL” y un bloque numerado con todos los términos y condiciones del acuerdo. El texto está organizado en párrafos claros con interlineado adecuado para facilitar la lectura. Al final del contenido, dos botones resaltados permiten al usuario **firmar digitalmente** con un clic o **descargar el PDF** completo. El diseño garantiza que el contrato sea totalmente navegable y compatible con pantallas grandes, manteniendo la barra lateral de navegación siempre accesible.  
+![WireframeWebApp6](../../assets/WireframeWebApp6.png)
+
+
+**Evaluaciones**  
+La pantalla de **Evaluaciones** invita al usuario a elegir una marca de entre varias **tarjetas** presentadas en fila (imagen, nombre). Bajo cada tarjeta, aparece un control de **5 estrellas** que destaca al pasar el cursor, seguido de un campo de texto opcional para comentarios adicionales. Un botón **Submit** en la parte inferior envía la evaluación. Más abajo, la sección **Previous Evaluations** lista las valoraciones ya realizadas con miniaturas de marca, nombre, estrellas rellenadas y un extracto del comentario, todo en una vista paginada que facilita revisar el historial de feedback.  
+![WireframeWebApp7](../../assets/WireframeWebApp7.png)
+
+**Mi Perfil**  
+En **Mi Perfil** se muestra un avatar grande y editable, el nombre de usuario en negrita, el rol o descriptor (por ejemplo, “Tiktoker”) y una fila de iconos de redes sociales vinculadas. Debajo, aparece una breve **biografía** con datos destacados. La sección **Media** despliega una cuadrícula de tarjetas con portadas de contenido (título, fecha de lanzamiento). Luego, **Show History** lista eventos pasados con fechas y un badge “Completed”. Finalmente, **Reviews** muestra reseñas de terceros con su nombre, calificación por estrellas y texto del comentario, todo ello en un layout limpio y organizado.  
+![WireframeWebApp8](../../assets/WireframeWebApp8.png)
+
+**Dashboard**  
+La sección de **Campañas recomendadas** presenta una **rejilla de seis tarjetas**, cada una con placeholder de imagen, el título de la campaña en negrita y una breve descripción de dos líneas. Debajo de cada descripción se sitúa un botón de acción contextual (por ejemplo, “Postulate”, “Donate”, “Volunteer”), con un estilo outline que al pasar el cursor se rellena y cambia de color, invitando al usuario a involucrarse. El espacio entre tarjetas y los márgenes aseguran una lectura cómoda en pantallas de escritorio.  
+![WireframeWebApp2](../../assets/WireframeWebApp2.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 

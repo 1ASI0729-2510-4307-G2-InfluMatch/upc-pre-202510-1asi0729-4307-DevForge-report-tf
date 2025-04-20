@@ -76,20 +76,130 @@ La raíz del problema está en la desconexión entre el entorno digital y físic
 
 El impacto económico puede medirse en términos de eficiencia y retorno de inversión. Para las marcas, se traduce en campañas más rentables, segmentadas y basadas en resultados medibles. Para los influencers, en acceso a oportunidades legítimas y remuneradas. El modelo de negocio basado en comisiones, suscripciones y servicios avanzados garantiza la sostenibilidad y escalabilidad de la plataforma.
 
-## 1.2.2. Lean UX Process.
+## 1.2.2. Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements.
+### 1.2.2.1. Lean UX Problem Statements
+
+Hoy en día, muchas marcas, startups y agencias utilizan el marketing de influencers para promocionar sus productos o servicios. Sin embargo, en la práctica, estas campañas no siempre logran el impacto esperado.
+
+Uno de los principales problemas es que no existen herramientas adecuadas que permitan conectar de forma confiable a las marcas con los influencers correctos, verificar si los perfiles son auténticos, ni medir con claridad los resultados que generan las colaboraciones. Esto genera incertidumbre sobre si realmente la inversión funcionará o no.
+
+A menudo, las marcas se basan en datos poco confiables, como la cantidad de seguidores o los "likes", sin poder comprobar si una campaña ayudó a aumentar las visitas, las ventas o el interés real por su producto, especialmente en espacios físicos como tiendas o eventos.
+
+Al mismo tiempo, muchos influencers, sobre todo los que están creciendo, no tienen cómo demostrar el valor real de su comunidad ni acceder fácilmente a colaboraciones serias y transparentes. Esto los limita y los deja fuera de oportunidades importantes.
+
+Como resultado, existe una gran brecha entre lo que se hace actualmente y lo que se espera lograr. Por un lado, el proceso de encontrar y contratar influencers es lento, poco seguro y muchas veces ineficiente. Por otro lado, las campañas no siempre tienen seguimiento ni herramientas que ayuden a entender su verdadero impacto. Esta situación afecta directamente a las marcas, que pierden dinero en campañas poco efectivas, y a los influencers, que no consiguen crecer profesionalmente.
+
+Además, si este problema continúa sin resolverse, el marketing de influencers se volverá menos confiable, menos rentable y más riesgoso para todos los involucrados.
+
+Resolver este problema es clave para mejorar la forma en que marcas e influencers trabajan juntos. Si se logra contar con una plataforma que conecte a ambos de manera segura, transparente y basada en datos reales, se podrá crear un ecosistema más justo, eficiente y con mejores resultados para todos.
+
+
+### 1.2.2.2. Lean UX Assumptions
+
+**Creencias clave:**
+
+- Creemos que nuestros usuarios necesitan una forma más confiable, rápida y basada en datos para conectar marcas con influencers que realmente generen impacto en sus campañas.
+- Estas necesidades pueden satisfacerse con el desarrollo de una plataforma web que automatice la búsqueda, validación, gestión y medición de resultados en las colaboraciones de marketing de influencia.
+- Nuestros primeros clientes serán pequeñas y medianas empresas, startups en crecimiento y agencias de marketing digital que desean lanzar campañas efectivas con creadores de contenido con audiencias reales.
+- El valor más importante que un cliente quiere de nuestra solución es poder identificar influencers legítimos, automatizar los acuerdos y comprobar con datos concretos el impacto real de sus campañas, tanto en el entorno digital como en el físico.
+- Los clientes también obtendrán beneficios adicionales como informes detallados de engagement, reputación de los influencers, trazabilidad en campañas y análisis de datos recogidos por dispositivos IoT.
+- Vamos a adquirir la mayoría de nuestros clientes mediante publicidad digital, alianzas con agencias de marketing, estrategias inbound y participación en ferias o eventos de tecnología publicitaria y startups.
+- Obtendremos ingresos principalmente mediante un modelo de comisión por campaña, complementado por suscripciones premium que otorguen acceso a funciones avanzadas y visibilidad destacada dentro de la plataforma.
+
+**Competencia y ventaja competitiva:**
+
+- Nuestra competencia directa incluye plataformas como Heepsy, CreatorIQ y otras soluciones parciales enfocadas en la gestión de influencers, pero sin conexión real con el impacto físico ni validación a través de IoT.
+- Nuestra ventaja competitiva es que **InfluMatch** no solo automatiza las colaboraciones, sino que las conecta con el mundo físico mediante tecnologías IoT, permitiendo una medición real del impacto de una campaña, algo que actualmente no ofrecen otras plataformas.
+
+**Riesgos y mitigación:**
+
+- El mayor riesgo es que las marcas no estén dispuestas a adoptar nuevas herramientas tecnológicas si ya tienen métodos tradicionales o relaciones informales con influencers.
+- También existe el riesgo de baja adopción por parte de influencers que desconfíen de nuevos sistemas de validación.
+- Este riesgo se abordará diseñando una plataforma con una interfaz amigable, procesos claros, confianza en la privacidad de los datos y mostrando casos de éxito que evidencien el valor generado para ambas partes.
+
+#### User Assumptions
+
+**¿Quién es el usuario?**
+
+Nuestros usuarios son responsables de marketing y comunicación en empresas, startups y agencias que desean lanzar campañas con creadores de contenido. También lo son los influencers (micro, medianos y macro) que buscan oportunidades legítimas para colaborar con marcas alineadas a su estilo y comunidad.
+
+**¿Qué problemas tiene nuestro usuario que el producto debe resolver?**
+
+Las marcas enfrentan dificultad para encontrar perfiles confiables, validar métricas reales y medir el impacto fuera de las redes. Los influencers, por su parte, no siempre acceden a colaboraciones justas ni tienen herramientas para demostrar el valor de su comunidad.
+
+**¿Qué características son importantes?**
+
+Los usuarios valoran funcionalidades como:
+
+- Búsqueda avanzada de influencers
+- Verificación automática de perfiles mediante APIs
+- Gestión de contratos digitales
+- Comunicación directa
+- Reportes de rendimiento
+- Métricas reales generadas por tecnologías IoT
+
+**¿Dónde encaja el producto en su trabajo o vida diaria?**
+
+La plataforma será una herramienta esencial en el flujo de trabajo de campañas digitales. Permitirá planificar, ejecutar y medir colaboraciones sin salir del entorno digital, agilizando tareas que antes se hacían de forma separada o manual.
+
+**¿Cuándo y cómo se usará el producto?**
+
+Se usará al momento de planificar campañas, seleccionar perfiles, enviar propuestas, firmar contratos, lanzar publicaciones, hacer seguimiento de resultados y obtener métricas de rendimiento en tiempo real.
+
+**¿Cómo debe verse y comportarse el producto?**
+
+Debe tener una interfaz moderna, intuitiva y profesional. La experiencia debe transmitir confianza, facilidad de uso y eficiencia. El sistema debe ser seguro, proteger la información de ambas partes y permitir personalización según el tipo de usuario (marca o influencer).
+
+#### Future Assumptions
+
+- Creemos que la plataforma debe contar con una búsqueda avanzada y filtros inteligentes.
+- Creemos que debe ofrecer verificación automática de perfiles con APIs de redes sociales.
+- Creemos que debe incluir herramientas para redactar, firmar y rastrear acuerdos digitales.
+- Creemos que debe integrar sensores IoT para medición del impacto físico y reportes visuales.
+- Creemos que debe tener un sistema de reputación y badges basado en desempeño.
+- Creemos que debe incorporar paneles visuales para seguimiento de KPIs y métricas clave.
+
+---
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### Hypothesis Statement 01
+
+Creemos que los responsables de marketing en startups, PYMEs y agencias estarán dispuestos a adoptar la plataforma InfluMatch para encontrar y validar influencers de forma automatizada y basada en datos reales.
+
+Sabremos que hemos tenido éxito
+
+Cuando al menos el 70% de los usuarios registrados completen el proceso de búsqueda y selección de influencers utilizando los filtros y validaciones automáticas durante el primer mes de uso.
+
+
+#### Hypothesis Statement 02
+
+Creemos que los influencers (especialmente micro y medianos) estarán interesados en registrarse y verificar sus perfiles dentro de InfluMatch para acceder a oportunidades legítimas de colaboración con marcas.
+
+Sabremos que hemos tenido éxito
+
+Cuando al menos el 60% de los influencers registrados conecten sus redes sociales para validación automática y completen su perfil en los primeros 15 días tras el registro.
 
 
 
-
-#### 1.2.2.2. Lean UX Assumptions.
-
+#### Hypothesis Statement 03
 
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+Creemos que la conexión entre el entorno digital y físico mediante tecnologías como sensores IoT o códigos QR permitirá a las marcas medir el impacto real de sus campañas y justificar mejor su inversión.
+
+Sabremos que hemos tenido éxito
+
+Cuando al menos el 30% de las campañas activas integren alguna forma de medición física y el 40% de esas campañas generen reportes consultados por los responsables de marketing.
 
 
+#### Hypothesis Statement 04
+
+Creemos que la automatización de acuerdos y propuestas mediante contratos digitales con seguimiento reducirá los tiempos y errores en la gestión de colaboraciones entre marcas e influencers.
+
+Sabremos que hemos tenido éxito
+
+Cuando al menos el 80% de las campañas gestionadas en la plataforma utilicen contratos digitales automatizados y se observe una reducción del 40% en el tiempo promedio de cierre de acuerdos en comparación con métodos tradicionales.
 
 
 

@@ -3,11 +3,18 @@
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
+InfluMatch es una plataforma web innovadora que redefine la forma en que las marcas y los influencers colaboran. A través de un ecosistema digital basado en inteligencia artificial, Internet de las Cosas (IoT) y análisis en tiempo real, InfluMatch optimiza las estrategias de marketing de influencia para hacerlas más eficientes, transparentes y medibles.
+
+Dirigida tanto a marcas de todos los tamaños (desde startups hasta grandes corporaciones) como a influencers de diversos niveles (micro, medianos, macro y celebridades), la plataforma permite gestionar colaboraciones desde un solo lugar, con herramientas inteligentes que automatizan la validación, contratación, monitoreo y evaluación del impacto de cada campaña.
+
+Lo que hace única a InfluMatch es su capacidad de cerrar la brecha entre el mundo digital y el físico: mediante dispositivos IoT como sensores de tráfico en tiendas, cámaras o smart tags, se puede rastrear el impacto real de una campaña digital en el entorno offline. Esto permite a las marcas tomar decisiones basadas en datos concretos y evaluar el retorno de inversión de manera más precisa.
+
+Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda avanzada de perfiles, contratos digitales con firma electrónica, sistema de mensajería interna, reputación gamificada, y mecanismos de seguridad avanzados que previenen el fraude y fomentan relaciones confiables.
 
 
-- **Misión:** 
+- **Misión:** Empoderar a marcas e influencers mediante una plataforma inteligente que fomente colaboraciones auténticas, éticas y sostenibles. Buscamos facilitar conexiones basadas en datos reales, donde ambas partes puedan crecer de forma transparente, midiendo resultados tangibles y generando valor mutuo a largo plazo.
 
-- **Visión:** 
+- **Visión:** Ser la plataforma líder en la evolución del marketing de influencia, integrando lo digital con lo físico a través de tecnologías emergentes. Aspiramos a transformar la manera en que se construyen las campañas de marketing, convirtiéndonos en el estándar global para colaboraciones estratégicas entre marcas e influencers, impulsadas por datos, tecnología y confianza.
 
 
 ### 1.1.2. Perfiles de integrantes del equipo

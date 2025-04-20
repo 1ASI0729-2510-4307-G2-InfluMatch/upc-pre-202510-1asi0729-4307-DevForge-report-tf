@@ -420,8 +420,12 @@ En el diagrama de contexto mostramos en alto nivel como se relaciona el sistema 
 
 ![ContextDiag](../../assets/ContextInfluMatch.png "ContextDiag")
 
-
 ### 4.6.2. Software Architecture Container Diagrams
+
+En el diagrama de contenedores se muestra en alto nivel las relaciones entre la webapp/landing con las fuentes de datos del sistema InfluMatch.
+
+![ContainerDiag](../../assets/ContainerInfluMatch.png "ContainerDiag")
+
 
 ### 4.6.3. Software Architecture Components Diagrams
 

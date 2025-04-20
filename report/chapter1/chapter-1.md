@@ -30,23 +30,51 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 
 ## 1.2. Solution Profile
 
-
-
 ### 1.2.1. Antecedentes y problemática
 
+En los últimos años, el marketing de influencers se ha consolidado como una de las estrategias más poderosas para alcanzar audiencias específicas en redes sociales. Sin embargo, a pesar de su crecimiento, muchas marcas enfrentan dificultades para medir el verdadero impacto de sus colaboraciones, identificar perfiles auténticos y asegurar relaciones que generen valor real y sostenible. Al mismo tiempo, influencers con contenido genuino y comunidades activas encuentran limitaciones para acceder a oportunidades transparentes y relevantes. Esto ha generado un entorno donde abundan las campañas poco efectivas, con métricas superficiales y escasa trazabilidad.
 
+En este contexto, se hace necesario repensar la forma en que se gestionan las relaciones entre marcas e influencers, integrando herramientas tecnológicas que permitan validar datos, automatizar procesos y conectar el marketing digital con el mundo físico. Aquí es donde surge la oportunidad de crear una solución que no solo intermedie, sino que también aporte inteligencia, seguridad y medición objetiva a cada colaboración.
 
-#### Uso de la técnica The 5'W's w Y 2'H's
+### Who
 
-| LAS 5W y 2H | Pregunta                                                | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| What?        | ¿Cuál es el problema?                                     |                                                                                                                 |
-| When?       | ¿Cuándo sucede el problema?                                   |                                                                                                                                                                                                          |
-| Where?       | ¿Dónde sucede el problema?                             |                                                                                                                                |
-| Why?      | ¿Por qué sucede el problema?                               |                                                                                                                                                            |
-| Who?        | ¿Qué llevara a las personas a usar nuestro producto?                         |                                                                                                                                                                           |
-| How Much?   | ¿Con qué frecuencia o en qué cantidad se utilizará nuestro producto? |                            |
+Los principales involucrados son las empresas o marcas (especialmente PYMEs, startups y agencias de marketing) que buscan impulsar sus productos mediante colaboraciones auténticas, y los influencers (desde micro hasta celebridades) que desean monetizar su contenido de forma profesional. Además, equipos de marketing digital y analistas de datos también utilizarán esta plataforma para gestionar y optimizar campañas.
 
+---
+
+### What
+
+El problema central es la falta de transparencia, autenticidad y medición real en el marketing de influencia. Muchas marcas invierten sin saber si su colaboración realmente tuvo un efecto concreto en las ventas o en la interacción física con su marca. Por otro lado, también hay fraude en métricas, como seguidores falsos o engagement inflado, lo que afecta la confianza en este tipo de campañas.
+
+---
+
+### Where
+
+Este problema es global, pero se acentúa en mercados emergentes donde aún no existen plataformas maduras que integren tecnologías de validación avanzada. Las campañas pueden ejecutarse digitalmente en redes sociales, pero el impacto esperado muchas veces debe reflejarse en puntos físicos de venta o interacción con el producto.
+
+---
+
+### When
+
+El problema sucede durante todas las etapas de una campaña: desde la búsqueda de influencers, validación de su alcance, ejecución de la campaña, hasta la medición de resultados. Especialmente se manifiesta cuando se requiere evaluar resultados tangibles fuera del entorno digital, como visitas a tiendas o escaneo de productos físicos.
+
+---
+
+### Why
+
+La raíz del problema está en la desconexión entre el entorno digital y físico, la falta de herramientas que permitan medir el impacto real de una campaña, y la ausencia de filtros automáticos que validen datos antes de cerrar un acuerdo. Esto genera inversiones riesgosas y desconfianza en el ecosistema.
+
+---
+
+### How
+
+**InfluMatch** se utilizará como una plataforma web con módulos que integran APIs de redes sociales para la validación automática de perfiles, herramientas de contratación y comunicación, y un sistema IoT que conecta campañas online con medición offline. El desarrollo se realizará combinando tecnologías web, machine learning, procesamiento de datos en tiempo real y hardware de sensores IoT para tiendas físicas o eventos.
+
+---
+
+### How Much
+
+El impacto económico puede medirse en términos de eficiencia y retorno de inversión. Para las marcas, se traduce en campañas más rentables, segmentadas y basadas en resultados medibles. Para los influencers, en acceso a oportunidades legítimas y remuneradas. El modelo de negocio basado en comisiones, suscripciones y servicios avanzados garantiza la sostenibilidad y escalabilidad de la plataforma.
 
 ## 1.2.2. Lean UX Process.
 

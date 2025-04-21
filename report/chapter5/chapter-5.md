@@ -35,9 +35,11 @@ Para el nuestro proyecto usaremos el flujo de trabajo propuesto por el modelo Gi
 
 **Repositorio de Github**
 
-|     Repositorio     |     Landing Page     |       Frontend       |
-| :-----------------: | :------------------: | :------------------: |
-|                     |                      |                      |
+* Repositorio:
+  https://github.com/1ASI0729-2510-4307-G2-InfluMatch
+* Landing Page:
+
+* Frondend:
 
 **Flujo de trabajo GitFlow**
 El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".

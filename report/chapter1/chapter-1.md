@@ -1,7 +1,8 @@
 # **Capítulo I: Introducción**
 
 ## 1.1. Startup Profile
-Esta sección expone una visión general de la startup junto con los perfiles de los integrantes del equipo.
+En un contexto de creciente digitalización, donde la colaboración entre marcas e influencers resulta esencial para el éxito de toda estrategia de marketing, surge InfluMatch. Apoyados en la innovación y un firme compromiso con la excelencia, contamos con un equipo multidisciplinar de profesionales expertos en marketing digital, desarrollo de software y gestión empresarial, que unen sus capacidades para posicionar a InfluMatch como la plataforma de referencia en su sector.
+
 ### 1.1.1. Descripción de la Startup
 InfluMatch es una plataforma web innovadora que redefine la forma en que las marcas y los influencers colaboran. A través de un ecosistema digital basado en inteligencia artificial, Internet de las Cosas (IoT) y análisis en tiempo real, InfluMatch optimiza las estrategias de marketing de influencia para hacerlas más eficientes, transparentes y medibles.
 
@@ -19,13 +20,7 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                    Photo                        |                                                                                                                                                                                                                                                                                                    Description                                                                                                                                                                                                                                                                                                    |
-| :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                      |
-|  |                                                                         |
-|  |  |
-|   sebastian   |  Como estudiante de ingeniería de software, me comprometo a contribuir al máximo en el grupo y a cumplir con las entregas dentro del plazo establecido, manteniendo una comunicación efectiva con mis compañeros y aplicando mis habilidades para desarrollar las tareas asignadas en este proyecto.   |
-|    |     |
+
 
 
 ## 1.2. Solution Profile

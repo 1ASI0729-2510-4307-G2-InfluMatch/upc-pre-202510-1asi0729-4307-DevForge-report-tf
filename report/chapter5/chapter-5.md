@@ -31,6 +31,12 @@ Ruta de referencia https://github.com/
 
 ### **5.1.2. Source Code Management**
 
+**Flujo de trabajo GitFlow**
+Para el nuestro proyecto usaremos el flujo de trabajo propuesto por el modelo GitFlow. Github sera usada como plataforma y sistema de control de versiones. Se detallará a continuación como se implementa GitFlow en el repositorio. Así mismo se proporcionaran los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+|     Repositorio     |     Landing Page     |       Frontend       |
+| :-----------------: | :------------------: | :------------------: |
+|                     |                      |                      |
 
 ### **5.1.3. Source Code Style Guide & Conventions**
 

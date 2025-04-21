@@ -429,6 +429,16 @@ En el diagrama de contenedores se muestra en alto nivel las relaciones entre la 
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+Los diagramas de componentes muestran las relaciones de los componentes principales de nuestro sistema (Pagos/suscripciones y match entre influencer/empresa)
+
+Subscription Bounded Context
+
+![BoundedPago](../../assets/Component2.png "ComponentP")
+
+Matching Bounded Context
+
+![BoundedMatching](../../assets/ComponentM.png "ComponentM")
+
 
 ## 4.7. Software Object-Oriented Design
 

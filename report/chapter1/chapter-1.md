@@ -22,7 +22,6 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-
 |                                             **Integrantes**                                              |                                                                                                                                                                                            **Descripción del Perfil**                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="../../assets/FabrizzioPereira.jpg" width="300"/> | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto  aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
@@ -30,7 +29,6 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 |                     **Nombre Apellido 3 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                     **Nombre Apellido 4 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |                     **Nombre Apellido 5 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-
 
 
 ## 1.2. Solution Profile
@@ -41,49 +39,42 @@ En los últimos años, el marketing de influencers se ha consolidado como una de
 
 En este contexto, se hace necesario repensar la forma en que se gestionan las relaciones entre marcas e influencers, integrando herramientas tecnológicas que permitan validar datos, automatizar procesos y conectar el marketing digital con el mundo físico. Aquí es donde surge la oportunidad de crear una solución que no solo intermedie, sino que también aporte inteligencia, seguridad y medición objetiva a cada colaboración.
 
-### Who
-
-Los principales involucrados son las empresas o marcas (especialmente PYMEs, startups y agencias de marketing) que buscan impulsar sus productos mediante colaboraciones auténticas, y los influencers (desde micro hasta celebridades) que desean monetizar su contenido de forma profesional. Además, equipos de marketing digital y analistas de datos también utilizarán esta plataforma para gestionar y optimizar campañas.
-
----
-
-### What
-
+**What** 
+**¿Cuál es el problema?**
 El problema central es la falta de transparencia, autenticidad y medición real en el marketing de influencia. Muchas marcas invierten sin saber si su colaboración realmente tuvo un efecto concreto en las ventas o en la interacción física con su marca. Por otro lado, también hay fraude en métricas, como seguidores falsos o engagement inflado, lo que afecta la confianza en este tipo de campañas.
 
----
-
-### Where
-
-Este problema es global, pero se acentúa en mercados emergentes donde aún no existen plataformas maduras que integren tecnologías de validación avanzada. Las campañas pueden ejecutarse digitalmente en redes sociales, pero el impacto esperado muchas veces debe reflejarse en puntos físicos de venta o interacción con el producto.
-
----
-
-### When
-
+**When** 
+**¿Cuándo sucede el problema?**
 El problema sucede durante todas las etapas de una campaña: desde la búsqueda de influencers, validación de su alcance, ejecución de la campaña, hasta la medición de resultados. Especialmente se manifiesta cuando se requiere evaluar resultados tangibles fuera del entorno digital, como visitas a tiendas o escaneo de productos físicos.
 
----
+**Where** 
+**¿Dónde surge el problema?** 
+Este problema es global, pero se acentúa en mercados emergentes donde aún no existen plataformas maduras que integren tecnologías de validación avanzada. Las campañas pueden ejecutarse digitalmente en redes sociales, pero el impacto esperado muchas veces debe reflejarse en puntos físicos de venta o interacción con el producto.
 
-### Why
+**Who** 
+**¿Quiénes están involucrados? ¿Quién lo utilizará?** 
+Los principales involucrados son las empresas o marcas (especialmente PYMEs, startups y agencias de marketing) que buscan impulsar sus productos mediante colaboraciones auténticas, y los influencers (desde micro hasta celebridades) que desean monetizar su contenido de forma profesional. Además, equipos de marketing digital y analistas de datos también utilizarán esta plataforma para gestionar y optimizar campañas.
 
+**Why (Por qué)** 
+**¿Cuál es la causa del problema?** 
 La raíz del problema está en la desconexión entre el entorno digital y físico, la falta de herramientas que permitan medir el impacto real de una campaña, y la ausencia de filtros automáticos que validen datos antes de cerrar un acuerdo. Esto genera inversiones riesgosas y desconfianza en el ecosistema.
 
----
+**¿Cuáles son las 2H?** 
 
-### How
-
+**How (Cómo)** 
+**¿Cómo se utilizará el producto?** 
 **InfluMatch** se utilizará como una plataforma web con módulos que integran APIs de redes sociales para la validación automática de perfiles, herramientas de contratación y comunicación, y un sistema IoT que conecta campañas online con medición offline. El desarrollo se realizará combinando tecnologías web, machine learning, procesamiento de datos en tiempo real y hardware de sensores IoT para tiendas físicas o eventos.
 
----
-
-### How Much
-
+**How much (Cuánto)** 
+**¿Cuál es la magnitud del problema?** 
 El impacto económico puede medirse en términos de eficiencia y retorno de inversión. Para las marcas, se traduce en campañas más rentables, segmentadas y basadas en resultados medibles. Para los influencers, en acceso a oportunidades legítimas y remuneradas. El modelo de negocio basado en comisiones, suscripciones y servicios avanzados garantiza la sostenibilidad y escalabilidad de la plataforma.
+
 
 ## 1.2.2. Lean UX Process
 
 ### 1.2.2.1. Lean UX Problem Statements
+
+**Problem Statement**
 
 Hoy en día, muchas marcas, startups y agencias utilizan el marketing de influencers para promocionar sus productos o servicios. Sin embargo, en la práctica, estas campañas no siempre logran el impacto esperado.
 
@@ -102,7 +93,7 @@ Resolver este problema es clave para mejorar la forma en que marcas e influencer
 
 ### 1.2.2.2. Lean UX Assumptions
 
-**Creencias clave:**
+**Business Assumptions**
 
 - Creemos que nuestros usuarios necesitan una forma más confiable, rápida y basada en datos para conectar marcas con influencers que realmente generen impacto en sus campañas.
 - Estas necesidades pueden satisfacerse con el desarrollo de una plataforma web que automatice la búsqueda, validación, gestión y medición de resultados en las colaboraciones de marketing de influencia.
@@ -111,19 +102,14 @@ Resolver este problema es clave para mejorar la forma en que marcas e influencer
 - Los clientes también obtendrán beneficios adicionales como informes detallados de engagement, reputación de los influencers, trazabilidad en campañas y análisis de datos recogidos por dispositivos IoT.
 - Vamos a adquirir la mayoría de nuestros clientes mediante publicidad digital, alianzas con agencias de marketing, estrategias inbound y participación en ferias o eventos de tecnología publicitaria y startups.
 - Obtendremos ingresos principalmente mediante un modelo de comisión por campaña, complementado por suscripciones premium que otorguen acceso a funciones avanzadas y visibilidad destacada dentro de la plataforma.
-
-**Competencia y ventaja competitiva:**
-
 - Nuestra competencia directa incluye plataformas como Heepsy, CreatorIQ y otras soluciones parciales enfocadas en la gestión de influencers, pero sin conexión real con el impacto físico ni validación a través de IoT.
 - Nuestra ventaja competitiva es que **InfluMatch** no solo automatiza las colaboraciones, sino que las conecta con el mundo físico mediante tecnologías IoT, permitiendo una medición real del impacto de una campaña, algo que actualmente no ofrecen otras plataformas.
-
-**Riesgos y mitigación:**
 
 - El mayor riesgo es que las marcas no estén dispuestas a adoptar nuevas herramientas tecnológicas si ya tienen métodos tradicionales o relaciones informales con influencers.
 - También existe el riesgo de baja adopción por parte de influencers que desconfíen de nuevos sistemas de validación.
 - Este riesgo se abordará diseñando una plataforma con una interfaz amigable, procesos claros, confianza en la privacidad de los datos y mostrando casos de éxito que evidencien el valor generado para ambas partes.
 
-#### User Assumptions
+**User Assumptions**
 
 **¿Quién es el usuario?**
 
@@ -156,14 +142,14 @@ Se usará al momento de planificar campañas, seleccionar perfiles, enviar propu
 
 Debe tener una interfaz moderna, intuitiva y profesional. La experiencia debe transmitir confianza, facilidad de uso y eficiencia. El sistema debe ser seguro, proteger la información de ambas partes y permitir personalización según el tipo de usuario (marca o influencer).
 
-#### Future Assumptions
+**Future Assumptions** 
 
-- Creemos que la plataforma debe contar con una búsqueda avanzada y filtros inteligentes.
-- Creemos que debe ofrecer verificación automática de perfiles con APIs de redes sociales.
-- Creemos que debe incluir herramientas para redactar, firmar y rastrear acuerdos digitales.
-- Creemos que debe integrar sensores IoT para medición del impacto físico y reportes visuales.
-- Creemos que debe tener un sistema de reputación y badges basado en desempeño.
-- Creemos que debe incorporar paneles visuales para seguimiento de KPIs y métricas clave.
+- **Creemos que** la plataforma debe contar con una búsqueda avanzada y filtros inteligentes.
+- **Creemos que** debe ofrecer verificación automática de perfiles con APIs de redes sociales.
+- **Creemos que** debe incluir herramientas para redactar, firmar y rastrear acuerdos digitales.
+- **Creemos que** debe integrar sensores IoT para medición del impacto físico y reportes visuales.
+- **Creemos que** debe tener un sistema de reputación y badges basado en desempeño.
+- **Creemos que** debe incorporar paneles visuales para seguimiento de KPIs y métricas clave.
 
 ---
 
@@ -207,10 +193,13 @@ Sabremos que hemos tenido éxito
 Cuando al menos el 80% de las campañas gestionadas en la plataforma utilicen contratos digitales automatizados y se observe una reducción del 40% en el tiempo promedio de cierre de acuerdos en comparación con métodos tradicionales.
 
 
-
-
-
 #### 1.2.2.4. Lean UX Canvas
 
+![LeanUXCanvas_Influmatch](../../assets/LeanUXCanvas.png)
+
+Este Lean UX Canvas de **InfluMatch** ilustra de forma concisa nuestras hipótesis, las necesidades clave de marcas e influencers, las soluciones propuestas y las métricas esenciales para iterar rápidamente y validar la plataforma de manera colaborativa.
+
+**Enlace para acceder al Canvas:**  
+https://miro.com/welcomeonboard/WTJ1T2EwOVdxYndLMGhZb2tIU2I0ckNReWJ5WS8yRlU2ZjBWMDQyQWlHK085MVpuTjl0UmpJZXJkcXp5azNzOWZpRzQ3UXRFdjFSSU9zcUxObjF3R21LNXRvSTA0dU1mZktwcFNxbWdXcFF0TU8vWUhCZ2xuWWc5ODBPYzVscHBQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=286206219531  
 
 ## 1.3. Segmentos objetivo.

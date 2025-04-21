@@ -429,11 +429,138 @@ En el diagrama de contenedores se muestra en alto nivel las relaciones entre la 
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+
 ## 4.7. Software Object-Oriented Design
+
+En esta sección se describen los diagramas de clases que modelan las entidades y relaciones principales del sistema, junto con un diccionario de clases que detalla sus atributos y métodos, sentando las bases para una implementación clara y mantenible basada en principios de diseño orientado a objetos.
 
 ### 4.7.1. Class Diagrams
 
+![Diagrama de Clases del Proyecto](../../assets/ClassDiagram.png)
+
+**Consultar diagrama de clases en PlantUML:**  
+[Ver en PlantUML](https://uml.planttext.com/plantuml/png/bLPRRzis57uNeFz0v6LPXnRRgx27Eh8IQArbGPPRx6cW9Tec9f42IIK8slxt7bAKJKjqvlaXuULSldFvZlXHAYnKtpPXy0jAMDyIWIlA6P6ebxZ6CWm8dAA2DmHz2mE4jfkaqF_JxF7pDidYOVTGBBAbNYoMgpGBWnzMByPjX-c1RHHMlHmiB8l5OwaNwpp91bF_vCNwgKWs6xsDrwlySr8coxEPHTSrjC8AaBcMG7-PPa_6RnmdkT51g4Z-IcAx1jj5yYLDlfwDRNX5SRCYDSM3cJJRb8kdOh7IcpBzLAu_wTNVwssvVKZCuTUqB7MaO4DdAcwmX1HrWhAAThWXaASApYJQIY86gxyXMaTekqsNmuxXbaHeeq3dC9oG5jFcygW36ozSr9Ud0h8VcHeC--g8sO7aLlQUaHUz7dL-ZT0pfxK5Ey1AsRxf2Qk8o0NVqx6OKupG3GUIpO3kUTFm5o9YtZCL8SgKHIjeYyLhtc2rvwADtDGE4ZlABqrLWc15B8Xx7zG7WLbzQmefgtkfnElbQKra9MYdsyNdVMpA-oewDQWFoNZd1wEeQiYDVWtBbk0wGlglBJ-hfqUxlZuGo73D-zrOR6aQFffGoHO0nAWyUlFeSCOVG2TunoLkpY1AsawSpeXdh_jTIrLk3NZTnvmfc2NAxxk2Mw9xwI9B41sfVN2et9Yx2Equi02piyBPkQa0Vs4DntM-VFIZEc9L7g4BhdIOAPHNSqMa17ByZt0Km0TxRJTBBbJUwoFZYkxVh9dNKUt9c0vnaYsWwhyBMS25rtdoZ9l-3TS2xjZ1ON_5s_OcB4Et-Ei1ivFLM2JFOEbsdareepCzPQA2sIed_LKTITrV6JjcQ2sa95TWz68ogjLhHwO5do7jEzsDLq9NvC35wosZpdvs2jACNsT8bo2eCj-XC31VdRi_xj3xz-ZkzmyVO3MV-14wOltDChk9phixEtVTNmGjmw3dfVO-N3lof-deo0_p5UJdtXrDTp952EkTrZaPl29gF0XI4VeyG9ef396V9i-WSSI3y9dvZlsHrQS0G1TJDatfJ7AKrrIMbyRVdLIC2KUuWzb2zNk1AGDfwkA2_YSjD-8tq-eGEBASasxTt9zFnNKqXNR9qrFqbb3_ZSrXLsH9OKjeIU2aRMv8-uANYPon0Cg5YFjg3GFpKltpEzZICPoRnBuRpSru5WRpXwKHS8x3m7qlcjiPm33u2Danh-YV)
+
 ### 4.7.2. Class Dictionary
+
+**Class User**
+
+| Attribute | Type   | Description                                      |
+| --------- | ------ | ------------------------------------------------ |
+| id        | UUID   | Unique identifier of the user                    |
+| name      | String | Full name of the user                            |
+| email     | String | Email address used to log in                     |
+| password  | String | Hashed password for authentication               |
+| role      | Role   | Role of the user (e.g. INFLUENCER, BRAND, ADMIN) |
+
+#### Class InfluencerProfile
+
+| Attribute       | Type        | Description                                             |
+| --------------- | ----------- | ------------------------------------------------------- |
+| id              | UUID        | Unique identifier of the influencer profile             |
+| stageName       | String      | Public or “stage” name under which the influencer posts |
+| followerCount   | int         | Number of followers                                     |
+| primaryPlatform | SocialMedia | Main social network (INSTAGRAM, TIKTOK, etc.)           |
+| bio             | String      | Short biography or description                          |
+
+#### Class Brand
+
+| Attribute   | Type   | Description                               |
+| ----------- | ------ | ----------------------------------------- |
+| id          | UUID   | Unique identifier of the brand            |
+| name        | String | Official name of the brand                |
+| industry    | String | Sector or industry the brand operates in  |
+| description | String | Brief description of the brand’s business |
+
+#### Class Campaign
+
+| Attribute   | Type           | Description                                         |
+| ----------- | -------------- | --------------------------------------------------- |
+| id          | UUID           | Unique identifier of the campaign                   |
+| title       | String         | Name or title of the campaign                       |
+| description | String         | Detailed description of goals and requirements      |
+| startDate   | Date           | Scheduled start date                                |
+| endDate     | Date           | Scheduled end date                                  |
+| budget      | double         | Allocated budget for the campaign                   |
+| status      | CampaignStatus | Current state (DRAFT, OPEN, IN_PROGRESS, COMPLETED) |
+
+#### Class Application
+
+| Attribute    | Type              | Description                                            |
+| ------------ | ----------------- | ------------------------------------------------------ |
+| id           | UUID              | Unique identifier of the application                   |
+| proposalDate | DateTime          | Timestamp when the influencer submitted the proposal   |
+| status       | ApplicationStatus | Current state (PENDING, ACCEPTED, REJECTED, IN_REVIEW) |
+
+#### Class Contract
+
+| Attribute  | Type     | Description                                          |
+| ---------- | -------- | ---------------------------------------------------- |
+| id         | UUID     | Unique identifier of the contract                    |
+| content    | String   | Full text or terms of the agreement                  |
+| signedDate | DateTime | Date and time when the contract was signed           |
+| isSigned   | boolean  | Flag indicating whether the contract has been signed |
+
+#### Class ChatThread
+
+| Attribute | Type | Description                          |
+| --------- | ---- | ------------------------------------ |
+| id        | UUID | Unique identifier of the chat thread |
+
+#### Class Message
+
+| Attribute | Type     | Description                             |
+| --------- | -------- | --------------------------------------- |
+| id        | UUID     | Unique identifier of the message        |
+| content   | String   | Text content of the message             |
+| timestamp | DateTime | Date and time when the message was sent |
+
+#### Class Notification
+
+| Attribute | Type     | Description                                    |
+| --------- | -------- | ---------------------------------------------- |
+| id        | UUID     | Unique identifier of the notification          |
+| content   | String   | Text of the notification                       |
+| date      | DateTime | Date and time when the notification was issued |
+| read      | boolean  | Flag indicating if the user has read it        |
+
+#### Class Evaluation
+
+| Attribute | Type     | Description                                     |
+| --------- | -------- | ----------------------------------------------- |
+| id        | UUID     | Unique identifier of the evaluation             |
+| rating    | int      | Star rating (1–5)                               |
+| comment   | String   | Optional text feedback                          |
+| date      | DateTime | Date and time when the evaluation was submitted |
+
+#### Class CalendarEvent
+
+| Attribute | Type   | Description                                    |
+| --------- | ------ | ---------------------------------------------- |
+| id        | UUID   | Unique identifier of the calendar event        |
+| title     | String | Name or title of the event                     |
+| date      | Date   | Date on which the event occurs                 |
+| time      | String | Time when the event is scheduled               |
+| details   | String | Additional information or agenda for the event |
+
+#### Class MediaAsset
+
+| Attribute | Type   | Description                                       |
+| --------- | ------ | ------------------------------------------------- |
+| id        | UUID   | Unique identifier of the media asset              |
+| url       | String | Public URL or path to the uploaded file           |
+| type      | String | MIME type or category (image, video, audio, etc.) |
+| title     | String | Descriptive title of the media asset              |
+
+#### Class Category
+
+| Attribute | Type   | Description                           |
+| --------- | ------ | ------------------------------------- |
+| id        | UUID   | Unique identifier of the category     |
+| name      | String | Name of the content or niche category |
+
+
+
 
 ## 4.8. Database Design
 

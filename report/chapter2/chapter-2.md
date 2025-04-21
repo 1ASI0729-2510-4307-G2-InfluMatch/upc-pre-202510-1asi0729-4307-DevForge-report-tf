@@ -214,7 +214,106 @@
 </table>
 
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+En base al análisis competitivo y al SWOT previo, definimos un conjunto de estrategias y tácticas para que **InfluMatch** aproveche nuestras fortalezas, subsane nuestras debilidades, explote las oportunidades de mercado y mitigue las amenazas derivadas de la competencia.
+
+**Afrontando las fortalezas de nuestros competidores**  
+**Fortalezas de Heepsy, CreatorIQ y Upfluence**  
+- Heepsy: base de datos masiva y modelo freemium que atrae a pymes y micro‑influencers.  
+- CreatorIQ: integraciones enterprise (Salesforce, BI) y reporting avanzado para grandes agencias.  
+- Upfluence: plugins nativos para e‑commerce y remarketing social.
+
+**Nuestras fortalezas**  
+- Matching y validación automática de perfiles y engagement con IA.  
+- Contratos 100 % digitales y firma integrada.  
+- Gamificación de reputación y feedback estructurado.  
+- Dashboard en tiempo real y mensajería interna.
+
+**Estrategias**  
+1. **Freemium inteligente**  
+   - Ofrecer un plan gratuito con matching IA limitado (500 búsquedas/mes) para captar micro‑influencers y pymes.  
+2. **Integraciones modulares**  
+   - Desplegar conectores “pay‑as‑you‑go” con CRMs y herramientas BI en lugar de un paquete enterprise único.  
+3. **Gamificación y comunidad**  
+   - Lanzar “InfluMatch Leaderboard” público para destacar creadores y marcas más activos.
+
+**Tácticas**  
+- Desarrollar cupones de referidos que amplíen el acceso al plan freemium.  
+- Crear un SDK ligero para integrar métricas de InfluMatch en plataformas como Tableau o Power BI.  
+- Programar eventos virtuales mensuales donde los top scorers de badges compartan casos de éxito.
+
+---
+
+**Afrontando las debilidades de nuestros competidores**  
+**Debilidades de los competidores**  
+- Heepsy: analítica limitada, sin medición offline.  
+- CreatorIQ: costes elevados y curva de aprendizaje alta.  
+- Upfluence: enfoque muy centrado en e‑commerce, sin tracking de campañas offline.
+
+**Nuestras debilidades**  
+- Comunidad inicial y visibilidad reducida en el mercado.  
+- Dependencia de APIs externas que pueden cambiar políticas.  
+- Módulos de gamificación y reputación aún en adopción.
+
+**Estrategias**  
+1. **Soporte y educación intensiva**  
+   - Implementar un knowledge‑base público y chat en vivo 24/7.  
+2. **Diversificación de fuentes de datos**  
+   - Añadir scraping autorizado y partnerships con otras plataformas para reducir dependencia de una sola API.  
+
+**Tácticas**  
+- Integrar un widget de feedback instantáneo (“¿Esta información fue útil?”) en cada módulo de la plataforma.  
+- Desarrollar conexiones con alternativas (p. ej. TikTok API + YouTube Data API) y con servicios de terceros (p. ej. SocialBlade).  
+- Lanzar webinars quincenales centrados en “cómo aprovechar al máximo InfluMatch” para acelerar la curva de adopción.
+
+---
+
+**Aprovechando las oportunidades del mercado**  
+**Oportunidades detectadas**  
+- Crecimiento de los nano‑influencers y demanda de ROI medible.  
+- Baja penetración de soluciones con medición offline en Latinoamérica.  
+- Auge del social commerce y livestream shopping.
+
+**Nuestras oportunidades**  
+- Posicionarnos como la única plataforma con medición real—online y offline—gracias a QR y sensores ligeros.  
+- Expandirnos a nichos emergentes (gaming, fitness) donde florecen micro‑comunidades.  
+
+**Estrategias**  
+1. **Piloto de medición offline**  
+   - Asociarnos con 10 tiendas físicas para probar escaneo QR en campañas.  
+2. **Verticalización ágil**  
+   - Crear “packs” de matching por industria: fitness, gaming, beauty.  
+3. **Social commerce integrado**  
+   - Desarrollar widget de checkout directo en Instagram y TikTok.
+
+**Tácticas**  
+- Instalar códigos QR dinámicos en eventos locales, con tracking en dashboard.  
+- Elaborar “Industry Playbooks” descargables (PDF) con benchmarks por vertical.  
+- Integrar con Shopify y WooCommerce para medir ventas atribuibles a influencers.
+
+---
+
+**Mitigando las amenazas del entorno**  
+**Amenazas principales**  
+- Cambios en políticas de APIs (Instagram, YouTube).  
+- Regulaciones de datos (GDPR, LOPD).  
+- Competidores low‑cost emergentes con IA especializada.
+
+**Nuestras amenazas**  
+- Riesgo de baja adopción inicial ante nuevas plataformas.  
+- Inestabilidad de acceso a datos de redes sociales.
+
+**Estrategias**  
+1. **Cumplimiento y resiliencia**  
+   - Certificar nuestra plataforma en ISO 27001 y adaptar rápidamente la arquitectura ante cambios de API.  
+2. **Diferenciación continuada**  
+   - Invertir en I+D para incorporar machine learning explainable (XAI) y ofrecer insights únicos.  
+
+**Tácticas**  
+- Implementar un proxy local que cachee datos clave y notifique proactivamente cambios de endpoints.  
+- Publicar un “Security & Privacy Report” trimestral que refuerce la confianza de clientes corporativos.  
+- Calendario de lanzamientos bimestrales con mejoras de IA explicable y visualizaciones avanzadas.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas

@@ -1,7 +1,7 @@
 # **Capítulo I: Introducción**
 
 ## 1.1. Startup Profile
-En un contexto de creciente digitalización, donde la colaboración entre marcas e influencers resulta esencial para el éxito de toda estrategia de marketing, surge InfluMatch. Apoyados en la innovación y un firme compromiso con la excelencia, contamos con un equipo multidisciplinar de profesionales expertos en marketing digital, desarrollo de software y gestión empresarial, que unen sus capacidades para posicionar a InfluMatch como la plataforma de referencia en su sector.
+ En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
 ### 1.1.1. Descripción de la Startup
 InfluMatch es una plataforma web innovadora que redefine la forma en que las marcas y los influencers colaboran. A través de un ecosistema digital basado en inteligencia artificial, Internet de las Cosas (IoT) y análisis en tiempo real, InfluMatch optimiza las estrategias de marketing de influencia para hacerlas más eficientes, transparentes y medibles.
@@ -17,9 +17,19 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 
 - **Visión:** Ser la plataforma líder en la evolución del marketing de influencia, integrando lo digital con lo físico a través de tecnologías emergentes. Aspiramos a transformar la manera en que se construyen las campañas de marketing, convirtiéndonos en el estándar global para colaboraciones estratégicas entre marcas e influencers, impulsadas por datos, tecnología y confianza.
 
+**Logotipo del servicio**
+![MockupWebApp1](../../assets/InfluMatchLogo.png)
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+
+|                                             **Integrantes**                                              |                                                                                                                                                                                            **Descripción del Perfil**                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="../../assets/FabrizzioPereira.jpg" width="300"/> | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto  aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
+|                     **Nombre Apellido 2 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                     **Nombre Apellido 3 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                     **Nombre Apellido 4 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                     **Nombre Apellido 5 (UXXXXXXXXX)**<br/><img src="" width="300"/>                     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 

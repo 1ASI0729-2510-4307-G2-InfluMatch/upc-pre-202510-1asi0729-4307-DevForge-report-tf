@@ -52,9 +52,12 @@ El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado 
 
 ### **5.1.4. Software Deployment Configuration**
 
-## **5.2. Landing Page, Services & Applications Implementation**
+## **5.2. Landing Page, Services & Applications** Implementation**
 ### **5.2.1. Sprint 1**
 #### **5.2.1.1. Sprint Planning 1**
+En la siguiente sección se expondrá el sprint #1, el cual contiene la versión inicial del proyecto, mostrando la estructura, el diseño y los resultados obtenidos de la landing page.
+
+
 
 #### **5.2.1.2. Sprint Backlog 1**
 

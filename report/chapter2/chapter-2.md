@@ -405,6 +405,13 @@ User Journey Mapping del Priemer segmento objetivo:
 User Journey Mapping Segundo segmento objetivo:
 ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/586d56516f8ff232f20261751f2f4a1439da639b/assets/User%20Journey%20Mapping%20Influencer.png)
 ### 2.3.4. Empathy Mapping
+
+Empathy Mapping del Priemer segmento objetivo:
+![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/db07dc73543e32ea23454b4aecb80eec7fcf265c/assets/Empathy%20map%20camila%20agencia.png)
+
+Empathy Mapping del Segundo segmento objetivo:
+![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/db07dc73543e32ea23454b4aecb80eec7fcf265c/assets/Empathy%20map%20Diego%20Influencer.png)
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language

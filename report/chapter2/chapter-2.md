@@ -317,6 +317,39 @@ En base al análisis competitivo y al SWOT previo, definimos un conjunto de estr
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+## Diseño de entrevista – Primer segmento objetivo: Empresas
+
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿A qué se dedica?
+4. ¿Cómo das a conocer a tu negocio, emprendimiento o tu producto?
+5. ¿Suelen trabajar con creadores de contenido o influencers en alguna etapa del marketing?
+6. ¿Cómo identifican a las personas con las que colaboran?
+7. ¿Qué factores consideras al momento de decidir si una persona es adecuada para representar tu marca?
+8. ¿Qué herramientas o métodos utilizan para organizar o dar seguimiento a esas colaboraciones?
+9. ¿Cómo definen si una campaña fue exitosa o no?
+10. ¿Hay algo en este proceso que te resulte difícil o te quite demasiado tiempo?
+11. ¿Qué valoras más en una colaboración: la visibilidad, la conversión, la experiencia?
+12. Si pudieras cambiar algo en la forma en que gestionas este tipo de campañas, ¿qué sería?
+
+---
+
+## Diseño de entrevista – Segundo segmento objetivo: Influencers
+
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿A qué se dedica?
+4. ¿Desde hace cuánto tiempo creas contenido en redes sociales?
+5. ¿En qué plataformas estás más activo/a actualmente?
+6. ¿Sueles colaborar con marcas? ¿Con qué frecuencia lo haces?
+7. ¿Cómo sueles conseguir las oportunidades de colaboración? ¿Te buscan o tú los contactas?
+8. ¿Qué suele incluir una propuesta que recibes de una marca? ¿Hay contratos?
+9. ¿Te ha pasado que una marca no cumpliera con lo pactado o el pago fuera tardío?
+10. ¿Alguna vez has tenido dudas sobre si una propuesta era legítima?
+11. ¿Tienes forma de hacer seguimiento o mostrar resultados después de una campaña?
+12. ¿Qué información crees que te ayudaría a mostrar mejor el valor de tu trabajo?
+13. ¿Qué cosas hacen que una marca te genere confianza desde el primer contacto?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 

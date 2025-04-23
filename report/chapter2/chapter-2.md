@@ -316,6 +316,7 @@ En base al análisis competitivo y al SWOT previo, definimos un conjunto de estr
 - Calendario de lanzamientos bimestrales con mejoras de IA explicable y visualizaciones avanzadas.
 
 ## 2.2. Entrevistas
+La sección cubre el proceso de exploración de nuestros segmentos objetivos a través de la recopilación de datos obtenidos mediante entrevistas.
 ### 2.2.1. Diseño de entrevistas
 ## Diseño de entrevista – Primer segmento objetivo: Empresas
 

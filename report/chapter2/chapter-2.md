@@ -352,7 +352,164 @@ La sección cubre el proceso de exploración de nuestros segmentos objetivos a t
 13. ¿Qué cosas hacen que una marca te genere confianza desde el primer contacto?
 
 ### 2.2.2. Registro de entrevistas
+
+## Entrevista para el Segmento Objetivo 1 - Empresas :
+
+**Entrevista N°1:**
+
+**Entrevistado:** Ana Lucia Basurco
+
+**Sexo:** Femenino
+
+**Edad:** 19 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 3:50
+
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/aDx1DyL.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Ana Lucia Basurco, estudiante de Ingeniería Ambiental de 19 años, tiene un emprendimiento llamado Visebaking, enfocado en postres y catering para eventos. Aunque aún no ha colaborado con influencers, cree que sería positivo para su marca.
+Al elegir un representante, priorizaría que su imagen esté alineada con el rubro gastronómico. Usaría redes sociales como Instagram o WhatsApp para coordinar colaboraciones y evaluaría el éxito por la visibilidad del contenido y el impacto en las ventas.
+Destaca que la creación de contenido puede ser difícil por el nivel de creatividad y análisis que requiere. Para ella, lo más valioso de una colaboración es aumentar el alcance y hacer crecer su emprendimiento.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/ES3VcTfkvTFKuIYprU-TrjwBE1_lD6ZHoP90A3VREniFCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gmrMb2 
+
+**Entrevista N°2:**
+
+**Entrevistado:** Camila Sánchez
+
+**Sexo:** Femenino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 4:49
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/WNfG6Fu.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Camila Sánchez, cofundadora de P Care Solutions, una empresa  enfocada en la salud de mascotas, comentó que promocionan sus productos mediante redes sociales, colaboraciones con clínicas veterinarias e influencers en TikTok e Instagram. Seleccionan a sus colaboradores por afinidad con el mundo de las mascotas, autenticidad y alineación con los valores de la empresa.
+Utilizan hojas de cálculo y plataformas especializadas para organizar las campañas, evaluando el éxito por visualizaciones, alcance y objetivos cumplidos. Lo más difícil para ella es coordinar tiempos y encontrar perfiles adecuados. Valora especialmente la conexión con el público, la experiencia y las relaciones a largo plazo. Sugiere automatizar procesos para mejorar la gestión.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EXfVLrHn5MxOkEnCbTHmr60Bz_0zwXxMyT75-blh9Yx4IQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=l1ae0n
+
+**Entrevista N°3:**
+
+**Entrevistado:** Gianella Cardenas
+
+**Sexo:** Femenino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 6:15
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/fmhyPri.png[/img]" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Gianella Cárdenas, de 23 años, es fundadora de “Patitas Heladitas”, un emprendimiento de snacks helados para perros. Promociona su marca en Instagram y Facebook, aunque aún no ha trabajado con influencers. Planea hacerlo en el futuro, priorizando perfiles con experiencia en productos similares y afinidad con el cuidado de mascotas.
+Considera que una campaña es exitosa si genera más consultas y ventas. Destaca como reto el contacto con influencers, ya que los mensajes pueden perderse. Valora la experiencia del colaborador y propone una app que facilite la gestión de campañas.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/ERrPmT52IVtNoyYC-3h3kZkBYWyYRf_IByrh4XJ1wqrjbw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8nTBbh
+
+
+## Entrevista para el Segmento Objetivo 2 - Influencer:
+
+**Entrevista N°1:**
+
+**Entrevistado:** Diego Bastidas
+
+**Sexo:** Masculino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 11:58
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/WuIGPto.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Diego Bastidas, estudiante de Ingeniería de Software y groomer canino, crea contenido en Instagram sobre peluquería de mascotas desde hace 1 año y medio. Ha colaborado con marcas como Mister CAM y Altu Perú, generalmente a cambio de productos. Aunque no ha firmado contratos formales, ha recibido beneficios como descuentos y productos para competencias.
+Destaca que su única mala experiencia fue con otro influencer que no cumplió con el canje acordado. Le gustaría una plataforma como Influmatch que conecte marcas con influencers de forma segura, donde se pueda verificar la legitimidad de las propuestas y evitar estafas o pagos tardíos. Valora especialmente la idea de tener un espacio tipo “LinkedIn para influencers” con perfiles, portafolios y soporte ante inconvenientes.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Efds0pTj839OtqKxrhaCPRwBzs0Iu2iJBxkA8PaxzCiLmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=121CYg
+
+**Entrevista N°2:**
+
+**Entrevistado:** Sebastian Silva
+
+**Sexo:** Masculino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 7:03
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/j30wkp5.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Sebastian Silva es estudiante de Ingeniería de Software y creador de contenido desde hace 5 años, centrado en videos de videojuegos y tutoriales. Principalmente usa YouTube y Twitter. Ha colaborado ocasionalmente con marcas pequeñas, generalmente contactándolas él mismo. Las propuestas suelen incluir contratos con pagos acordados, aunque ha experimentado leves retrasos.
+Verifica cuidadosamente la autenticidad de las propuestas y algunas marcas le proporcionan métricas para evaluar resultados (clics, alcance). Considera útil recibir más información detallada sobre el rendimiento de cada contenido.
+Apoya la idea de una plataforma tipo “LinkedIn para influencers”, que permita conectar con marcas de forma segura y segmentada, evitando estafas y facilitando colaboraciones más profesionales.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EUecjjoGNbFNq2LHVtX2BmYB8kVk9yy6PwFZhbGsJDuy7w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hY7dSf
+
+**Entrevista N°3:**
+
+**Entrevistado:** Sayuri Cardenas
+
+**Sexo:** Femenino
+
+**Edad:** 20 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Duración de la Entrevista:** 4:27
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/NcuoIqR.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Sayuri Cárdenas , influencer de 20 años, crea contenido en Instagram y TikTok desde hace cinco años. Ha colaborado con marcas entre 2 y 4 veces, usualmente contactada por correo. Las propuestas incluyen objetivos, tipo de contenido y suelen ir acompañadas de contrato.
+Ha tenido experiencias con pagos tardíos y propuestas sospechosas. Para medir resultados usa métricas como alcance e interacciones. Valora la transparencia de las marcas. Le parece útil una app que conecte influencers con empresas, ya que facilitaría colaboraciones seguras y rápidas.
+
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EcFNHUUxYFNNhL1px9U3J7EBS0c6KAVsKErv-yjpgEM2sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Uoj4yG 
+
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Empresas**
+
+En los emprendimientos entrevistados, se identifican distintas aproximaciones y retos al momento de trabajar (o planear trabajar) con influencers para promocionar sus marcas. Aunque algunas no han tenido aún experiencias directas, todas coinciden en el potencial valor de estas colaboraciones para aumentar el alcance y las ventas.
+
+El criterio más importante al seleccionar influencers es la afinidad temática: se busca que el perfil del colaborador esté alineado con el rubro del negocio (gastronomía o cuidado de mascotas) y que transmita autenticidad. Esta alineación refuerza la imagen de marca y mejora la conexión con el público objetivo.
+
+Las redes sociales como Instagram, TikTok y Facebook son los principales canales de difusión, y herramientas como hojas de cálculo o plataformas especializadas ayudan en la organización de campañas. Se evalúa el éxito por métricas como alcance, visualizaciones, consultas y ventas, aunque también se destaca el valor de las relaciones a largo plazo.
+
+Entre los retos mencionados se encuentran la falta de experiencia previa, la dificultad para contactar influencers y la coordinación de tiempos. Las entrevistadas sugieren soluciones como la automatización de procesos o el uso de aplicaciones especializadas para facilitar la gestión de campañas, mostrando una necesidad compartida por herramientas que profesionalicen y simplifiquen el vínculo entre marcas e influencers.
+
+**Segmento 2: Influencers**
+
+Entre los creadores de contenido entrevistados, se identifican experiencias diversas pero una preocupación común por la seguridad, formalidad y profesionalización del vínculo con marcas. Aunque la mayoría ha tenido colaboraciones, estas suelen ser informales y con poca estructura contractual.
+
+Los principales canales utilizados son Instagram, TikTok, YouTube y Twitter, dependiendo del tipo de contenido (desde peluquería canina hasta videojuegos y tutoriales). Las colaboraciones se dan tanto por iniciativa de los influencers como por contacto directo de las marcas, siendo frecuente el canje por productos o descuentos en lugar de pagos económicos.
+
+Las principales dificultades mencionadas incluyen pagos tardíos, propuestas poco claras o sospechosas, e incumplimientos en acuerdos, especialmente en colaboraciones entre influencers. Para evaluar el impacto de su trabajo, utilizan métricas como visualizaciones, clics, interacciones y alcance.
+
+Todos coinciden en la necesidad de una plataforma especializada que conecte marcas con influencers de forma segura y profesional. Se valora la idea de un espacio similar a “LinkedIn para influencers”, donde se puedan mostrar portafolios, verificar perfiles, gestionar campañas, y contar con soporte ante inconvenientes. Esta herramienta permitiría reducir riesgos, facilitar colaboraciones y mejorar la eficiencia del trabajo digital.
+
+
 
 ## 2.3. Needfinding
 En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos

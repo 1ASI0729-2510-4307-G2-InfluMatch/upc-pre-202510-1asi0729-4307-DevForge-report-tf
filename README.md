@@ -1,17 +1,16 @@
 <div align="center">
+ <h1>Informe del TB1</h1>
+    <h2>Universidad Peruana de Ciencias Aplicadas</h2>
     <img src="./assets/upcLogo.png" alt="Logo de UPC" >
-    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-    <h2>Carrera de Ingeniería de Software</h2>
-    <p><strong>Ciclo:</strong> 2025 - 01</p>
+     <p><strong>Ingeniería de Software</strong></p>
     <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
-    <p><strong>Sección:</strong> 4307</p>
-    <p><strong>Profesor:</strong> Angel Augusto Velasquez Nuñez</p>
+    <p><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</p>
     <p><strong>"Informe de TB1"</strong></p>
     <p><strong>Startup:</strong> DevForge</p>
     <p><strong>Producto:</strong> InfluMatch</p>
-    <p><strong>Grupo:</strong> 02</p>
 </div>
 
+### Team members:
 <div align="center" style="width: 100%;">
     <table style="width: 100%; border-collapse: collapse;">
         <thead >
@@ -43,9 +42,9 @@
             </tr>
         </tbody>
     </table>
-    <p><strong>Abril 2025</strong></p>
 </div>
-# Registro de versiones del informe
+
+### Registro de versiones del informe
 
 | Versión |   Fecha    | Autor                                                                                                                                 | Descripción de modificación                                                                                                                                                                                                          |
 | :-----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +66,15 @@
 
 # Project Report Collaboration Insights
 
-URL Project Report (Github): [InfluMatch](https://github.com/1ASI0729-2510-4307-G2-InfluMatch)
+URL del repositorio para el reporte del proyecto: (Github): [InfluMatch](https://github.com/1ASI0729-2510-4307-G2-InfluMatch)
+
+
+
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
 
 
 # Student Outcomes

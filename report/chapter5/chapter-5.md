@@ -35,17 +35,22 @@ Para el nuestro proyecto usaremos el flujo de trabajo propuesto por el modelo Gi
 
 **Repositorio de Github**
 
-* Repositorio:
+* Repositorio: 
   https://github.com/1ASI0729-2510-4307-G2-InfluMatch
-* Landing Page:
+* Landing Page: 
 
-* Frondend:
+* Frondend: https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf
 
 **Flujo de trabajo GitFlow**
 El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
 
 **Estructuras de Branches (Ramas)**
   1. **Master Branch (Rama Principal):** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+  2. **HotFix Branch:** Esta rama incluye todas las versiones que poseen errores y que, con cada arreglo, se despliegue otra vez a la Main Branch además de implementarla en lo que será Develop Branch.
+  3. **Develop Branch:**  Esta rama se añade las constantes implementaciones de los features.
+  4. **Feature Branch:** Esta rama incluye cada funcionalidad desarrollada por el equipo. Cuando una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto.
+  5. **Release Branch:** Esta rama se utiliza para mantener una instancia de la rama develop.
+
 
 ### **5.1.3. Source Code Style Guide & Conventions**
 

@@ -51,9 +51,22 @@ El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado 
   4. **Feature Branch:** Esta rama incluye cada funcionalidad desarrollada por el equipo. Cuando una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto.
   5. **Release Branch:** Esta rama se utiliza para mantener una instancia de la rama develop.
 
-
 ### **5.1.3. Source Code Style Guide & Conventions**
+Usaremos buenas prácticas en cuanto al código de manera que sea coherente y sostenible.
 
+HTML:
+* Cada etiqueta, id, nombre y clase será nombrada usando Lowercase.
+* Utilizar UTF-8.
+* Redacción en inglés.
+* En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+*Terminar cada etiqueta con />.
+
+CSS:
+* Width del body al 100%.
+* En cuanto a las imágenes, especificar el ancho (Width) de acuerdo a la etiqueta padre.
+* Cada etiqueta, nombre y clase será nombrada de acuerdo al propósito y clasificación del elemento.
+* Separación de palabras con un guion "-".
+* Margin y padding en "*" con valor de 0.
 
 ### **5.1.4. Software Deployment Configuration**
 

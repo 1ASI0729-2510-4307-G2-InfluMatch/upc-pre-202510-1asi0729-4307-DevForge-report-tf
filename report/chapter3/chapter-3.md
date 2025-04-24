@@ -66,7 +66,13 @@
 | E5-US3          | Visualizar reputación y calificaciones del usuario | **Como** marca o influencer  <br> **Quiero** ver la calificación promedio, comentarios y badges recibidos  <br> **Para** evaluar el nivel de confianza y desempeño de una cuenta. | **Escenario 1: Usuario con reputación disponible**<br>• Dado que el usuario accede a un perfil con campañas finalizadas<br>• Cuando revisa la sección de reputación<br>• Entonces el sistema muestra calificaciones promedio, comentarios recibidos y distinciones obtenidas.<br><br>**Escenario 2: Usuario sin historial de calificaciones**<br>• Dado que el usuario accede a un perfil sin colaboraciones previas<br>• Entonces el sistema muestra un mensaje indicando que aún no hay evaluaciones disponibles. | 2                          |
 
 ## 3.3. Impact Mapping
-Impact map de representante de marca
+
+**Impact map de Camila, representante de marca**
+
 ![ImpactCamila](../../assets/ImpactCamila.png "ImpactCamila")
+
+**Impact map de Diego, inluencer**
+
+![ImpactDiego](../../assets/ImpactDiego.png "ImpactDiego")
 
 ## 3.4. Product Backlog

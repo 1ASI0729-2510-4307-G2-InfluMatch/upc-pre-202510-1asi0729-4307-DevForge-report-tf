@@ -1,35 +1,50 @@
-![Logo de UPC](/assets/upcLogo.png)
+<div align="center">
+    <img src="./assets/upcLogo.png" alt="Logo de UPC" >
+    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+    <h2>Carrera de Ingeniería de Software</h2>
+    <p><strong>Ciclo:</strong> 2025 - 01</p>
+    <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
+    <p><strong>Sección:</strong> 4307</p>
+    <p><strong>Profesor:</strong> Angel Augusto Velasquez Nuñez</p>
+    <p><strong>"Informe de TB1"</strong></p>
+    <p><strong>Startup:</strong> DevForge</p>
+    <p><strong>Producto:</strong> InfluMatch</p>
+    <p><strong>Grupo:</strong> 02</p>
+</div>
 
-# Universidad Peruana de Ciencias Aplicadas
-
-## Carrera de Ingeniería de Software
-
-Ciclo: 2025 - 01
-
-Curso: Desarrollo de Aplicaciones Open Source
-
-Sección: 4307
-
-Profesor: Angel Augusto Velasquez Nuñez
-
-"Informe de TB1"
-
-Startup: DevForge
-
-Producto: InfluMatch
-
-Grupo: 02
-
-|            Integrantes            |   Código   |
-| :-------------------------------: | :--------: |
-|    Luis Sebastián Rubio Ortiz     |            |
-| Irving Washington Allcca Guerrero |            |
-| Daniel Eduardo Rodriguez Aguilar  |            |
-| Nelson Fabrizzio Pereira Vasquez  | u202417468 |
-| Sebastian Matias Escobar Palomino | u202125968 |
-
-Abril 2025
-
+<div align="center" style="width: 100%;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <thead >
+            <tr>
+                <th style="border: 1px solid ;">Integrantes</th>
+                <th style="border: 1px solid ;">Código</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 1px solid ;">Luis Sebastián Rubio Ortiz</td>
+                <td style="border: 1px solid ;"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid ;">Irving Washington Allcca Guerrero</td>
+                <td style="border: 1px solid ;"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid ;">Daniel Eduardo Rodriguez Aguilar</td>
+                <td style="border: 1px solid ;"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid ;">Nelson Fabrizzio Pereira Vasquez</td>
+                <td style="border: 1px solid ;">u202417468</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid ;">Sebastian Matias Escobar Palomino</td>
+                <td style="border: 1px solid ;">u202125968</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>Abril 2025</strong></p>
+</div>
 # Registro de versiones del informe
 
 | Versión |   Fecha    | Autor                                                                                                                                 | Descripción de modificación                                                                                                                                                                                                          |

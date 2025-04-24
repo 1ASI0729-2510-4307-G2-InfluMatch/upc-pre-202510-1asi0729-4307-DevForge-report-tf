@@ -67,4 +67,6 @@
 
 ## 3.3. Impact Mapping
 Impact map de representante de marca
+![ImpactCamila](../../assets/ImpactCamila.png "ImpactCamila")
+
 ## 3.4. Product Backlog

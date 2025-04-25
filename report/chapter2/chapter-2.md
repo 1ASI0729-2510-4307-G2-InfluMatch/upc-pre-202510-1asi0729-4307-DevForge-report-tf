@@ -573,6 +573,17 @@ Empathy Mapping del Segundo segmento objetivo:
 
 ### 2.3.5. As-is Scenario Mapping
 
+En esta sección describimos el proceso que seguimos para construir los As-Is Scenario Mapping de cada segmento objetivo. Partimos de una lluvia de ideas individual, luego revisamos en equipo las acciones reales de los usuarios, identificamos las fases clave de sus procesos.
+
+
+**As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital**
+![As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/As-Is-Marcas.png)
+
+**As-Is Scenario Mapping – Influencers**
+![As-Is Scenario Mapping – Influencers](../../assets/As-Is-Influencers.png)
+
+As-Is Scenario Mapping: [As-Is Scenario Mapping InfluMAtch](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=691660768471)
+
 ## 2.4. Ubiquitous Language
 
 Este documento define el Lenguaje Ubicuo (Ubiquitous Language) que se utilizará en el proyecto InfluMatch. Su propósito es garantizar una comunicación clara y consistente entre todos los miembros del equipo y stakeholders.

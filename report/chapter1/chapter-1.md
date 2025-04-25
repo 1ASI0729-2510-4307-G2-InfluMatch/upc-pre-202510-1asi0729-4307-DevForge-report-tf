@@ -195,7 +195,9 @@ Cuando al menos el 80% de las campañas gestionadas en la plataforma utilicen co
 
 #### 1.2.2.4. Lean UX Canvas
 
-![LeanUXCanvas_Influmatch](../../assets/LeanUXCanvas.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Lonbmj9.png"  width="100%" />
+</div>
 
 Este Lean UX Canvas de **InfluMatch** ilustra de forma concisa nuestras hipótesis, las necesidades clave de marcas e influencers, las soluciones propuestas y las métricas esenciales para iterar rápidamente y validar la plataforma de manera colaborativa.
 

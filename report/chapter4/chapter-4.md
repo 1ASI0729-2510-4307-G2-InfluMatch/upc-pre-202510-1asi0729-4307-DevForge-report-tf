@@ -574,4 +574,11 @@ En esta sección se describen los diagramas de clases que modelan las entidades 
 
 ## 4.8. Database Design
 
+El diagrama  muestra el modelo relacional de entidades y sus relaciones diseñado para InfluMatch. Este esquema conceptual servirá de referencia para la futura implementación en el sistema de gestión de bases de datos que se seleccione, manteniendo flexibilidad para adaptarse a distintos motores y escenarios de escalabilidad.
+
 ### 4.8.1. Database Diagram
+
+
+![Data Base de InfluMatch](../../assets/InfluMatchBD.png)
+
+Base de datos de InfluMatch: [Data Base de InfluMatch](https://dbdiagram.io/d/InfluMatchBD-680b30b11ca52373f54ffc23)

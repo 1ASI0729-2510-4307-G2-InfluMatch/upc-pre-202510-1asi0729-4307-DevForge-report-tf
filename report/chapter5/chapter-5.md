@@ -88,10 +88,19 @@ En la siguiente sección se expondrá el sprint #1, el cual contiene la versión
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
 
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
+Para el desarrollo de este proyecto se emplearon diversas herramientas, entre las cuales destacan Visual Studio Code y el sistema de control de versiones Git. La landing page presentada fue segmentada en distintas secciones, asignadas a los integrantes del equipo de manera individual. Finalmente, un miembro se encargó de integrar las contribuciones de cada participante, consolidando así el producto final.
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/g3atknY.png" width="300%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/6AhCCLF.png" width="100%" />
+</div>

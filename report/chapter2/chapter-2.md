@@ -517,58 +517,59 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 ### 2.3.1. User Personas
 
 User Persona del Priemer segmento objetivo:
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/586d56516f8ff232f20261751f2f4a1439da639b/assets/Camila%20user%20agencia.png)
+![Image Alt](../../assets/Camila%20user%20agencia.png)
 
 User Persona del Segundo segmento objetivo:
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/586d56516f8ff232f20261751f2f4a1439da639b/assets/Diego%20user%20influencer.png)
+![Image Alt](../../assets/Diego%20user%20influencer.png)
 
 ### 2.3.2. User Task Matrix
 ## Perfil 1: Trabaja en una startup o agencia  
 _Gestiona campañas con influencers manualmente o por redes sociales._
 
-| User Task                                                                 | Frequency  | Importance |
-|---------------------------------------------------------------------------|------------|------------|
-| Buscar perfiles de influencers en redes sociales (Instagram, TikTok, etc.) | Often      | High       |
-| Revisar manualmente los seguidores, likes y comentarios para validar el perfil | Often      | High       |
-| Contactar por DM o email a posibles influencers                           | Sometimes  | High       |
-| Negociar condiciones de campaña por correo o mensaje                      | Sometimes  | High       |
-| Hacer seguimiento en Excel o Notion del estado de cada campaña           | Sometimes  | Medium     |
-| Solicitar capturas o estadísticas post-publicación                       | Sometimes  | Medium     |
-| Calificar internamente al influencer para futuras campañas (si es que lo hacen) | Rarely     | Medium     |
-| Comparar resultados entre campañas anteriores                             | Rarely     | Medium     |
-| Justificar inversión de la campaña al equipo interno o cliente sin métricas claras | Often      | High       |
+| User Task                                                                          | Frequency | Importance |
+| ---------------------------------------------------------------------------------- | --------- | ---------- |
+| Buscar perfiles de influencers en redes sociales (Instagram, TikTok, etc.)         | Often     | High       |
+| Revisar manualmente los seguidores, likes y comentarios para validar el perfil     | Often     | High       |
+| Contactar por DM o email a posibles influencers                                    | Sometimes | High       |
+| Negociar condiciones de campaña por correo o mensaje                               | Sometimes | High       |
+| Hacer seguimiento en Excel o Notion del estado de cada campaña                     | Sometimes | Medium     |
+| Solicitar capturas o estadísticas post-publicación                                 | Sometimes | Medium     |
+| Calificar internamente al influencer para futuras campañas (si es que lo hacen)    | Rarely    | Medium     |
+| Comparar resultados entre campañas anteriores                                      | Rarely    | Medium     |
+| Justificar inversión de la campaña al equipo interno o cliente sin métricas claras | Often     | High       |
 
 ---
 
 ## Perfil 2: Creador de contenido independiente  
 _Busca activamente colaboraciones en redes o vía contactos personales._
 
-| User Task                                                                                   | Frequency  | Importance |
-|---------------------------------------------------------------------------------------------|------------|------------|
-| Revisar mensajes en DM o email con posibles propuestas                                      | Often      | High       |
-| Evaluar manualmente si una marca encaja con su contenido                                    | Sometimes  | High       |
-| Negociar condiciones directamente sin intermediarios                                        | Sometimes  | High       |
-| Crear contenido según lo acordado con la marca                                              | Sometimes  | High       |
-| Recordar fechas de publicación acordadas sin herramientas específicas                      | Often      | Medium     |
-| Pedir retroalimentación o confirmar si el contenido funcionó bien                           | Rarely     | Medium     |
-| Guardar capturas o métricas en carpetas para enviarlas a futuro                             | Sometimes  | Medium     |
-| Contar con un portafolio profesional que resuma su experiencia y resultados pasados         | Rarely     | High       |
-| Preguntar a otros influencers si han trabajado con X marca para saber si es confiable       | Sometimes  | Medium     |
+| User Task                                                                             | Frequency | Importance |
+| ------------------------------------------------------------------------------------- | --------- | ---------- |
+| Revisar mensajes en DM o email con posibles propuestas                                | Often     | High       |
+| Evaluar manualmente si una marca encaja con su contenido                              | Sometimes | High       |
+| Negociar condiciones directamente sin intermediarios                                  | Sometimes | High       |
+| Crear contenido según lo acordado con la marca                                        | Sometimes | High       |
+| Recordar fechas de publicación acordadas sin herramientas específicas                 | Often     | Medium     |
+| Pedir retroalimentación o confirmar si el contenido funcionó bien                     | Rarely    | Medium     |
+| Guardar capturas o métricas en carpetas para enviarlas a futuro                       | Sometimes | Medium     |
+| Contar con un portafolio profesional que resuma su experiencia y resultados pasados   | Rarely    | High       |
+| Preguntar a otros influencers si han trabajado con X marca para saber si es confiable | Sometimes | Medium     |
 
 ### 2.3.3. User Journey Mapping
 
 User Journey Mapping del Priemer segmento objetivo:
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/586d56516f8ff232f20261751f2f4a1439da639b/assets/User%20Journey%20Mapping%20del%20L%C3%ADder%20de%20Agencia.png)
+![Image Alt](../../assets/User%20Journey%20Mapping%20del%20Líder%20de%20Agencia.png)
 
 User Journey Mapping Segundo segmento objetivo:
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/586d56516f8ff232f20261751f2f4a1439da639b/assets/User%20Journey%20Mapping%20Influencer.png)
+![Image Alt](../../assets/User%20Journey%20Mapping%20Influencer.png)
+
 ### 2.3.4. Empathy Mapping
 
 Empathy Mapping del Priemer segmento objetivo:
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/db07dc73543e32ea23454b4aecb80eec7fcf265c/assets/Empathy%20map%20camila%20agencia.png)
+![Image Alt](../../assets/Empathy%20map%20camila%20agencia.png)
 
 Empathy Mapping del Segundo segmento objetivo:
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/db07dc73543e32ea23454b4aecb80eec7fcf265c/assets/Empathy%20map%20Diego%20Influencer.png)
+![Image Alt](../../assets/Empathy%20map%20Diego%20Influencer.png)
 
 ### 2.3.5. As-is Scenario Mapping
 

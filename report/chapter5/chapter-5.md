@@ -36,10 +36,9 @@ Para el nuestro proyecto usaremos el flujo de trabajo propuesto por el modelo Gi
 **Repositorio de Github**
 
 * Repositorio: 
-  https://github.com/1ASI0729-2510-4307-G2-InfluMatch
-* Landing Page: 
-
-* Frondend: https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf
+  https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf
+* Landing Page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/ 
+ 
 
 **Flujo de trabajo GitFlow**
 El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
@@ -79,9 +78,9 @@ Landing page deployment:
  6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
  
  En la siguiente sección se expondrá el sprint #1, el cual contiene la versión inicial del proyecto, mostrando la estructura, el diseño y los resultados obtenidos de la landing page.
- ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding1.jpg)
- ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding2.jpg)
- ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding3.jpg)
+ ![Image Alt](../../assets/GithubLanding1.jpg)
+ ![Image Alt](../../assets/GithubLanding2.jpg)
+ ![Image Alt](../../assets/GithubLanding3.jpg)
  
  
 ## **5.2. Landing Page, Services & Applications Implementation**
@@ -97,33 +96,87 @@ Sprint # |Date |Time |Location |Prepared By |Attendees|
 |Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
 |Diseñar y desarrollar la landing page informativa para la aplicación InfluMatch..|<p>18</p><p></p>|18||||
 
+#### **5.2.1.2. Aspect Leaders and Collaborators.**
+| **Team Member (Last Name, First Name)** | **GitHub Username**  | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
+|----------------------------------------|----------------------|-----------------------------------|---------------------------------------------------------|----------------------------------------------------|------------------------------------|---------------------------------------------------------------------|
+| **Fabrizzio Pereira**                  | fabrizzioper          | **L**                             | **C**                                                   | **C**                                              | **C**                              | **C**                                                               |
+| **Luis Sebastián Rubio Ortiz**         | notoriussxd           | **C**                             | **L**                                                   | **C**                                              | **C**                              | **C**                                                               |
+| **Sebastian Escobar Palomino**                       | sebasepe              | **C**                             | **C**                                                   | **L**                                              | **C**                              | **C**                                                               |
+| **Irving Allca**                         | eviterno17            | **C**                             | **C**                                                   | **C**                                              | **C**                              | **C**                                                               |
+| **Daniel Rodriguez**                              | rgd99                 | **C**                             | **C**                                                   | **C**                                              | **C**                              | **C**                                                               |
 
-#### **5.2.1.2. Sprint Backlog 1**
+
+
+#### **5.2.1.3. Sprint Backlog 1**
 Durante el primer sprint, el equipo centró sus esfuerzos en desarrollar una landing page visualmente atractiva y funcional, distribuyendo las tareas a través del tablero de Sprint de acuerdo con las competencias de cada integrante.
-
-|Sprint #||Sprint 1||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story||Work Item / Task||||||
-|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
-|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
-|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
-
+| id     | Title                              | Id     | Title                             | Description                                                                                          | Estimations(Hours) | Assigned To    | Status(To-do/InProcess/ToReview/Done) |
+|--------|------------------------------------|--------|-----------------------------------|------------------------------------------------------------------------------------------------------|--------------------|----------------|--------------------------------------|
+|US01   | Barra de navegación en la Landing Page  | TS01   | Barra de navegación con enlaces   | Implementación del menú de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos" | 4                 | Sebastian Escobar         | Done                                 |
+|US02   | Sección "Casos de éxito"            | TS02   | Testimonios de influencers        | Desarrollo de la sección de testimonios de influencers, con citas y fotos de los influencers destacados | 2                  | Irving Allca          | Done                                 |
+|US03   | Sección de Planes                   | TS03   | Planes de suscripción             | Desarrollo de la sección con los planes de suscripción (Básico, Pro, Premium) con detalles de precios y características | 4                  | Luis Rubio        | Done                                 |
+|US04   | Sección de Contacto                 | TS04   | Formulario de contacto            | Implementación del formulario de contacto para que los usuarios puedan solicitar más información     | 4                  | Daniel Rodriguez | Done                                 |
+|US05   | Sección "¿Cómo funciona?"           | TS05   | Explicación del proceso de colaboración | Desarrollo de la sección que explica el flujo de trabajo desde la creación de la campaña hasta la medición de resultados | 4                 | Nelson Pereira         | Done                                 |
 
 
-#### **5.2.1.3. Development Evidence for Sprint Review**
 
-#### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+#### **5.2.1.4. Development Evidence for Sprint Review**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 671b8dc | feat(images): add new images for project assets | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | bfb2010 | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | fa2c951 | feat(index): add plans | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 00b1ce6 | feat(index): update styles and content for 'Casos de éxito' and 'Planes' sections | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | da411d9 | feat(style): positions | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 19c8e70 | feat(styles): enhance navigation and sections with responsive design and new styles | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | a655de9 | feat(main.js): animation for images | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | dc50d08 | fix(index): correct paths for CSS and JavaScript files | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | b3b03a3 | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | e2b4c66 | Merge branch 'develop' of github.com:1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public into develop | | Apr 26, 2025 |
+| 1ASI0729-2510-4307-G2-InfluMatch/Landing-Page-InfluMatch-Public | develop | 1f55d28 | Merge pull request #1 from 1ASI0729-2510-4307-G2-InfluMatch/develop | | Apr 26, 2025 |
 
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
+Durante el Sprint 1 se llevó a cabo el desarrollo, diseño e implementación de la landing page. En ella se incluyen las secciones donde los usuarios pueden conocer más sobre la startup y el producto que se ofrecerá. A continuación, se presentan las evidencias.
+
+**Sección de encabezado:**
+Esta es la sección principal de la página, donde la plataforma "InfluMatch" presenta su propósito: fortalecer relaciones mediante colaboraciones entre empresas e influencers. También ofrece enlaces de navegación como "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactanos."
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/pqOzsms.png[" " width="100%" />
+</div>
+
+**¿Cómo funciona?:**
+Esta sección explica el proceso de colaboración a través de la plataforma. Incluye la creación de una campaña, la selección de influencers, la negociación de términos y contratos, y la realización del trabajo por parte de los influencers, con resultados medidos mediante herramientas del Internet de las Cosas (IoT).
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/hsvCB1n.png" " width="100%" />
+</div>
+
+**Casos de éxito:**
+Esta sección muestra un caso de éxito de un influencer, Roberto "Mazino" Rivas, quien destaca cómo la plataforma lo ayudó a encontrar campañas ideales para su nicho. La retroalimentación es positiva, elogiando la claridad del proceso.
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/A5efUB7.png" " width="100%" />
+</div>
+
+**Planes de precios:**
+Esta sección muestra los planes de suscripción del servicio: "Básico" para empresas e influencers emergentes, "Pro" para empresas medianas, y "Premium" para empresas e influencers activos. Cada plan describe las características que incluyen, como el número de publicaciones, perfiles, estadísticas y opciones multimedia.
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/pAUFG3F.png" " width="100%" />
+</div>
+
+**Formulario de contacto:**
+Se presenta un formulario de contacto para que los usuarios se pongan en contacto con la plataforma. Pide detalles básicos como nombre, correo electrónico y un mensaje. También hay una casilla para aceptar recibir información promocional.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/gwrJlFR.png" " width="100%" />
+</div>
+
 
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-En esta ocasión se utilizó GitHub Pages para publicar la landing page, lo cual permitió desplegar el sitio directamente desde el código alojado en un repositorio. A continuación se presenta el enlace a la landing page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/ 
+En esta ocasión se utilizó GitHub Pages para publicar la landing page, lo cual permitió desplegar el sitio directamente desde el código alojado en un repositorio. A continuación se presenta el enlace a la landing page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/856mXmj.png"  width="100%" />

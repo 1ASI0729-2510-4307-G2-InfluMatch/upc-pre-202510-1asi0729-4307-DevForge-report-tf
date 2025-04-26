@@ -1142,6 +1142,32 @@ To-be Scenario Mapping:[ To-Be Scenario Mapping en Miro](https://miro.com/app/bo
 
 ## 3.4. Product Backlog
 
+| *Prioridad* | *User Story ID* | *Título*                                      | *Puntos de Historia* |
+|---------------|-------------------|------------------------------------------------|------------------------|
+| *Alta*      | E1-US1            | Barra de navegación en landing page            | 5                      |
+| *Alta*      | E1-US2            | Sección Hero                                  | 8                      |
+| *Alta*      | E1-US3            | Sección Product                                | 8                      |
+| *Alta*      | E1-US4            | Sección Reviews                                | 5                      |
+| *Alta*      | E1-US5            | Sección Pricing                                | 5                      |
+| *Alta*      | E1-US6            | Sección About Us                               | 5                      |
+| *Media*     | E2-US1            | Iniciar sesión con cuenta registrada en InfluMatch | 8                   |
+| *Media*     | E2-US2            | Iniciar sesión con cuenta de Google            | 8                      |
+| *Media*     | E2-US3            | Iniciar sesión con cuenta de Facebook          | 8                      |
+| *Media*     | E2-US4            | Registro con cuenta propia (correo y contraseña) | 8                   |
+| *Media*     | E2-US5            | Restablecer contraseña                         | 8                      |
+| *Media*     | E3-US1            | Buscar por nombre o usuario de red social      | 8                      |
+| *Media*     | E3-US2            | Filtrar por red social                         | 8                      |
+| *Media*     | E3-US3            | Filtrar por categoría o nicho                  | 8                      |
+| *Media*     | E3-US4            | Filtrar por puntuación o reputación            | 8                      |
+| *Media*     | E3-US5            | Eliminar filtros aplicados                     | 5                      |
+| *Media*     | E4-US1            | Visualizar historial de campañas               | 8                      |
+| *Media*     | E4-US2            | Ver calificaciones recibidas                   | 8                      |
+| *Media*     | E4-US3            | Visualizar métricas de rendimiento             | 8                      |
+| *Media*     | E5-US1            | Visualizar perfil público de un influencer o marca | 8                   |
+| *Media*     | E5-US2            | Ver cómo se muestra mi perfil                  | 5                      |
+| *Media*     | E5-US3            | Visualizar reputación y calificaciones del usuario | 8                    |
+| *Baja*      | E1-US6            | Sección About Us                               | 5                      |
+
 
 # Capítulo IV: Product Design
 

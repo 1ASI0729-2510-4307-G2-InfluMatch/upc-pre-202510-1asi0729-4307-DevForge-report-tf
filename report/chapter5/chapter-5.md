@@ -69,28 +69,32 @@ CSS:
 * Margin y padding en "*" con valor de 0.
 
 ### **5.1.4. Software Deployment Configuration**
-Landing page deployment:
-Para poder desplegar la landing page se necesita realizar pasos especificos. Se necesita una organización y un repositorio. Con ello, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
-1. Crear el repositorio para alojar el Landing Page.
-2. Los archivos deben tener las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
-3. Cargar los archivos al repositorio mediante un commit.
-4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
-5. Especificar la carpeta "/(root)" como la fuente de la página.
-6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
 
-En la siguiente sección se expondrá el sprint #1, el cual contiene la versión inicial del proyecto, mostrando la estructura, el diseño y los resultados obtenidos de la landing page.
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding1.jpg)
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding2.jpg)
-![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding3.jpg)
+## **5.2. Landing Page, Services & Applications Implementation**
 
-
-
-## **5.2. Landing Page, Services & Applications** Implementation**
 ### **5.2.1. Sprint 1**
+En la siguiente sección se expondrá el sprint #1, el cual contiene la versión inicial del proyecto, mostrando la estructura, el diseño y los resultados obtenidos de la landing page.
+
 #### **5.2.1.1. Sprint Planning 1**
+
+Sprint # |Date |Time |Location |Prepared By |Attendees|
+| :- | :- | :- | :- | :- | :- |
+|1|10/04/2025 |6:00 pm|Reunión mediante Meet|Nelson Pereira|<p>Sebastian Escobar. </p><p>Luis Rubio.</p><p>Irving Allcca.</p><p>Daniel Rodriguez.</p>|
+|Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
+|Diseñar y desarrollar la landing page informativa para la aplicación InfluMatch..|<p>18</p><p></p>|18||||
 
 
 #### **5.2.1.2. Sprint Backlog 1**
+Durante el primer sprint, el equipo centró sus esfuerzos en desarrollar una landing page visualmente atractiva y funcional, distribuyendo las tareas a través del tablero de Sprint de acuerdo con las competencias de cada integrante.
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
+
 
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
@@ -100,11 +104,16 @@ En la siguiente sección se expondrá el sprint #1, el cual contiene la versión
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 
+
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+En esta ocasión se utilizó GitHub Pages para publicar la landing page, lo cual permitió desplegar el sitio directamente desde el código alojado en un repositorio. A continuación se presenta el enlace a la landing page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/ 
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/856mXmj.png"  width="100%" />
+</div>
 
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
@@ -142,5 +151,5 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 
 
 #### **Anexo**
-1. Despliegue del Landing Page: 
+1. Despliegue del Landing Page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/
 2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/o8mqq96SoWiUWDlFJZYB8T/InfluMatch---Mockups-Wireframes?node-id=0-1&p=f

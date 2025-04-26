@@ -10,6 +10,8 @@
     <p><strong>Producto:</strong> InfluMatch</p>
 </div>
 
+Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417468_upc_edu_pe/EcLdIYMJy-pKvwTf6GouyL0BF5fKNjca0X8Osm8HNQAcPw?e=kx6BA8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ### Team members:
 <div align="center" style="width: 100%;">
     <table style="width: 100%; border-collapse: collapse;">
@@ -235,13 +237,13 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                                                       **Integrantes**                                                       |                                                                                                                                                                                            **Descripción del Perfil**                                                                                                                                                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="https://i.imgur.com/P4yZztm.jpeg[/img]" width="300"/>           | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto  aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
+|                                                    **Integrantes**                                                    |                                                                                                                                                                                            **Descripción del Perfil**                                                                                                                                                                                            |
+| :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="https://i.imgur.com/P4yZztm.jpeg[/img]" width="300"/>     | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto  aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
 | **Sebastian Matias Escobar Palomino (U202125968)**<br/><img src="https://i.imgur.com/JZbUwAQ.png[/img]" width="300"/> |                           <div align="justify">Me llamo Sebastian Matias Escobar Palomino  , soy estudiante de Ingeniería de Software, me propongo aportar activamente al trabajo en equipo, respetar los plazos de entrega y mantener una comunicación constante y clara con mis compañeros, utilizando mis conocimientos para cumplir con las responsabilidades del proyecto.</div>                            |
-|    **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="https://i.imgur.com/o7XX5zk.jpeg[/img]" width="300"/>     |                                               <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div>                                               |
-|            **Irving Allcca Guerrero 4 (U202213241)**<br/><img src="https://i.imgur.com/8nWmrKX.png[/img]" width="300"/>            |          <div align="justify">Me llamo Irving Allcca Guerrero, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.</div>          |
-|                       **Daniel Eduardo Rodriguez Aguilar (u202311691)**<br/><img src="" width="300"/>                       |                      Me llamo Daniel Eduardo Rodriguez, soy estudiante de Ingeniería de Software y actualmente estoy cursando el cuarto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.                       |
+|    **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="https://i.imgur.com/o7XX5zk.jpeg[/img]" width="300"/>    |                                               <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div>                                               |
+|     **Irving Allcca Guerrero 4 (U202213241)**<br/><img src="https://i.imgur.com/8nWmrKX.png[/img]" width="300"/>      |          <div align="justify">Me llamo Irving Allcca Guerrero, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.</div>          |
+|                    **Daniel Eduardo Rodriguez Aguilar (u202311691)**<br/><img src="" width="300"/>                    |                      Me llamo Daniel Eduardo Rodriguez, soy estudiante de Ingeniería de Software y actualmente estoy cursando el cuarto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.                       |
 
 
 ## 1.2. Solution Profile
@@ -1168,31 +1170,31 @@ To-be Scenario Mapping:[ To-Be Scenario Mapping en Miro](https://miro.com/app/bo
 
 ## 3.4. Product Backlog
 
-| *Prioridad* | *User Story ID* | *Título*                                      | *Puntos de Historia* |
-|---------------|-------------------|------------------------------------------------|------------------------|
-| *Alta*      | E1-US1            | Barra de navegación en landing page            | 5                      |
-| *Alta*      | E1-US2            | Sección Hero                                  | 8                      |
-| *Alta*      | E1-US3            | Sección Product                                | 8                      |
-| *Alta*      | E1-US4            | Sección Reviews                                | 5                      |
-| *Alta*      | E1-US5            | Sección Pricing                                | 5                      |
-| *Alta*      | E1-US6            | Sección About Us                               | 5                      |
-| *Media*     | E2-US1            | Iniciar sesión con cuenta registrada en InfluMatch | 8                   |
-| *Media*     | E2-US2            | Iniciar sesión con cuenta de Google            | 8                      |
-| *Media*     | E2-US3            | Iniciar sesión con cuenta de Facebook          | 8                      |
-| *Media*     | E2-US4            | Registro con cuenta propia (correo y contraseña) | 8                   |
-| *Media*     | E2-US5            | Restablecer contraseña                         | 8                      |
-| *Media*     | E3-US1            | Buscar por nombre o usuario de red social      | 8                      |
-| *Media*     | E3-US2            | Filtrar por red social                         | 8                      |
-| *Media*     | E3-US3            | Filtrar por categoría o nicho                  | 8                      |
-| *Media*     | E3-US4            | Filtrar por puntuación o reputación            | 8                      |
-| *Media*     | E3-US5            | Eliminar filtros aplicados                     | 5                      |
-| *Media*     | E4-US1            | Visualizar historial de campañas               | 8                      |
-| *Media*     | E4-US2            | Ver calificaciones recibidas                   | 8                      |
-| *Media*     | E4-US3            | Visualizar métricas de rendimiento             | 8                      |
-| *Media*     | E5-US1            | Visualizar perfil público de un influencer o marca | 8                   |
-| *Media*     | E5-US2            | Ver cómo se muestra mi perfil                  | 5                      |
-| *Media*     | E5-US3            | Visualizar reputación y calificaciones del usuario | 8                    |
-| *Baja*      | E1-US6            | Sección About Us                               | 5                      |
+| *Prioridad* | *User Story ID* | *Título*                                           | *Puntos de Historia* |
+| ----------- | --------------- | -------------------------------------------------- | -------------------- |
+| *Alta*      | E1-US1          | Barra de navegación en landing page                | 5                    |
+| *Alta*      | E1-US2          | Sección Hero                                       | 8                    |
+| *Alta*      | E1-US3          | Sección Product                                    | 8                    |
+| *Alta*      | E1-US4          | Sección Reviews                                    | 5                    |
+| *Alta*      | E1-US5          | Sección Pricing                                    | 5                    |
+| *Alta*      | E1-US6          | Sección About Us                                   | 5                    |
+| *Media*     | E2-US1          | Iniciar sesión con cuenta registrada en InfluMatch | 8                    |
+| *Media*     | E2-US2          | Iniciar sesión con cuenta de Google                | 8                    |
+| *Media*     | E2-US3          | Iniciar sesión con cuenta de Facebook              | 8                    |
+| *Media*     | E2-US4          | Registro con cuenta propia (correo y contraseña)   | 8                    |
+| *Media*     | E2-US5          | Restablecer contraseña                             | 8                    |
+| *Media*     | E3-US1          | Buscar por nombre o usuario de red social          | 8                    |
+| *Media*     | E3-US2          | Filtrar por red social                             | 8                    |
+| *Media*     | E3-US3          | Filtrar por categoría o nicho                      | 8                    |
+| *Media*     | E3-US4          | Filtrar por puntuación o reputación                | 8                    |
+| *Media*     | E3-US5          | Eliminar filtros aplicados                         | 5                    |
+| *Media*     | E4-US1          | Visualizar historial de campañas                   | 8                    |
+| *Media*     | E4-US2          | Ver calificaciones recibidas                       | 8                    |
+| *Media*     | E4-US3          | Visualizar métricas de rendimiento                 | 8                    |
+| *Media*     | E5-US1          | Visualizar perfil público de un influencer o marca | 8                    |
+| *Media*     | E5-US2          | Ver cómo se muestra mi perfil                      | 5                    |
+| *Media*     | E5-US3          | Visualizar reputación y calificaciones del usuario | 8                    |
+| *Baja*      | E1-US6          | Sección About Us                                   | 5                    |
 
 
 # Capítulo IV: Product Design

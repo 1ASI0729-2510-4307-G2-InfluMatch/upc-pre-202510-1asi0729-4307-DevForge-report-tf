@@ -1056,11 +1056,11 @@ El enfoque principal fue eliminar pasos manuales, mejorar la eficiencia de la ex
 
 **To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital**  
 
-![To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/To-Be-Marcas.png)
+![To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/To-be-Marcas.png)
 
 **To-Be Scenario Mapping – Influencers**  
 
-![To-Be Scenario Mapping – Influencers](../../assets/To-Be-Influencers.png)
+![To-Be Scenario Mapping – Influencers](../../assets/To-be-Influencers.png)
 
 To-be Scenario Mapping:[ To-Be Scenario Mapping en Miro](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=638641244611)
 

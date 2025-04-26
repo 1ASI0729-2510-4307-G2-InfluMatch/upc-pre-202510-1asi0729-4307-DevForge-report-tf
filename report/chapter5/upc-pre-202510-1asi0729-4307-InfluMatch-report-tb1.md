@@ -1002,9 +1002,11 @@ En esta sección describimos el proceso que seguimos para construir los As-Is Sc
 
 
 **As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital**
+
 ![As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/As-Is-Marcas.png)
 
 **As-Is Scenario Mapping – Influencers**
+
 ![As-Is Scenario Mapping – Influencers](../../assets/As-Is-Influencers.png)
 
 As-Is Scenario Mapping: [As-Is Scenario Mapping InfluMAtch](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=691660768471)
@@ -1053,9 +1055,11 @@ En esta sección describimos el proceso que seguimos para construir los **To-Be 
 El enfoque principal fue eliminar pasos manuales, mejorar la eficiencia de la experiencia del usuario y aprovechar al máximo las funcionalidades diferenciales que ofrece **InfluMatch**, como el matching automático, los contratos digitales, la mensajería integrada y el análisis en tiempo real.
 
 **To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital**  
+
 ![To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/To-Be-Marcas.png)
 
 **To-Be Scenario Mapping – Influencers**  
+
 ![To-Be Scenario Mapping – Influencers](../../assets/To-Be-Influencers.png)
 
 To-be Scenario Mapping:[ To-Be Scenario Mapping en Miro](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=638641244611)

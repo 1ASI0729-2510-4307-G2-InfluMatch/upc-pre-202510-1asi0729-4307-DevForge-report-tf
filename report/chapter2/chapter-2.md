@@ -372,7 +372,7 @@ La sección cubre el proceso de exploración de nuestros segmentos objetivos a t
   <img src="https://i.imgur.com/aDx1DyL.png" width="90%" />
 </div>
 
-**Resumen de la Entrevista:** Ana Lucia Basurco, estudiante de Ingeniería Ambiental de 19 años, tiene un emprendimiento llamado Visebaking, enfocado en postres y catering para eventos. Aunque aún no ha colaborado con influencers, cree que sería positivo para su marca.
+**Resumen de la Entrevista:** Analucia Basurco, estudiante de Ingeniería Ambiental de 19 años, tiene un emprendimiento llamado Beesbaking, enfocado en postres y catering para eventos. Aunque aún no ha colaborado con influencers, cree que sería positivo para su marca.
 Al elegir un representante, priorizaría que su imagen esté alineada con el rubro gastronómico. Usaría redes sociales como Instagram o WhatsApp para coordinar colaboraciones y evaluaría el éxito por la visibilidad del contenido y el impacto en las ventas.
 Destaca que la creación de contenido puede ser difícil por el nivel de creatividad y análisis que requiere. Para ella, lo más valioso de una colaboración es aumentar el alcance y hacer crecer su emprendimiento.
 

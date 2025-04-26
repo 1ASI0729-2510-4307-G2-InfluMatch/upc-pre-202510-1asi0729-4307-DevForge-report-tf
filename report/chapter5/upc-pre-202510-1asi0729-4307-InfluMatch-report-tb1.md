@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Informe del TB1</h1>
     <h2>Universidad Peruana de Ciencias Aplicadas</h2>
-    <img src="../../assets/upcLogo.png" alt="Logo de UPC" >
+    <img src="https://i.imgur.com/jMFBvq1.png[/img]" alt="Logo de UPC" >
      <p><strong>Ingeniería de Software</strong></p>
     <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
     <p><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</p>
@@ -231,16 +231,16 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 - **Visión:** Ser la plataforma líder en la evolución del marketing de influencia, integrando lo digital con lo físico a través de tecnologías emergentes. Aspiramos a transformar la manera en que se construyen las campañas de marketing, convirtiéndonos en el estándar global para colaboraciones estratégicas entre marcas e influencers, impulsadas por datos, tecnología y confianza.
 
 **Logotipo del servicio**
-![MockupWebApp1](../../assets/InfluMatchLogo.png)
+<img src="https://i.imgur.com/9LjwkMl.png[/img]" alt="Logo de UPC" >
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 |                                                       **Integrantes**                                                       |                                                                                                                                                                                            **Descripción del Perfil**                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="../../assets/FabrizzioPereira.jpg" width="300"/>           | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto  aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
-| **Sebastian Matias Escobar Palomino (U202125968)**<br/><img src="../../assets/Sebastian Escobar Palomino.png" width="300"/> |                           <div align="justify">Me llamo Sebastian Matias Escobar Palomino  , soy estudiante de Ingeniería de Software, me propongo aportar activamente al trabajo en equipo, respetar los plazos de entrega y mantener una comunicación constante y clara con mis compañeros, utilizando mis conocimientos para cumplir con las responsabilidades del proyecto.</div>                            |
-|    **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="../../assets/Luis Sebastián Rubio Ortiz.jpg" width="300"/>     |                                               <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div>                                               |
-|            **Irving Allcca Guerrero 4 (U202213241)**<br/><img src="../../assets/Irving Allcca.png" width="300"/>            |          <div align="justify">Me llamo Irving Allcca Guerrero, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.</div>          |
+|          **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="https://i.imgur.com/P4yZztm.jpeg[/img]" width="300"/>           | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto  aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
+| **Sebastian Matias Escobar Palomino (U202125968)**<br/><img src="https://i.imgur.com/JZbUwAQ.png[/img]" width="300"/> |                           <div align="justify">Me llamo Sebastian Matias Escobar Palomino  , soy estudiante de Ingeniería de Software, me propongo aportar activamente al trabajo en equipo, respetar los plazos de entrega y mantener una comunicación constante y clara con mis compañeros, utilizando mis conocimientos para cumplir con las responsabilidades del proyecto.</div>                            |
+|    **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="https://i.imgur.com/o7XX5zk.jpeg[/img]" width="300"/>     |                                               <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div>                                               |
+|            **Irving Allcca Guerrero 4 (U202213241)**<br/><img src="https://i.imgur.com/8nWmrKX.png[/img]" width="300"/>            |          <div align="justify">Me llamo Irving Allcca Guerrero, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.</div>          |
 |                       **Daniel Eduardo Rodriguez Aguilar (u202311691)**<br/><img src="" width="300"/>                       |                      Me llamo Daniel Eduardo Rodriguez, soy estudiante de Ingeniería de Software y actualmente estoy cursando el cuarto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.                       |
 
 
@@ -439,10 +439,10 @@ Este segmento agrupa a los creadores de contenido en redes sociales según su ta
         </tr>
         <tr>
             <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top;">Marca y Logo</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>InfluMatch</strong><br><img src="../../assets/InfluMatchLogo.png" alt="InfluMatch Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Heepsy</strong><br><img src="../../assets/HeepsyLogo.png" alt="Heepsy Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>CreatorIQ</strong><br><img src="../../assets/CreatorIQ.png" alt="CreatorIQ Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Upfluence</strong><br><img src="../../assets/UpfluenceLogo.png" alt="Upfluence Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>InfluMatch</strong><br><img src="https://i.imgur.com/DMnlFtp.png[/img]" alt="InfluMatch Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Heepsy</strong><br><img src="https://i.imgur.com/gGTmOJs.jpeg[/img]" alt="Heepsy Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>CreatorIQ</strong><br><img src="https://i.imgur.com/LMgA0vz.jpeg[/img]" alt="CreatorIQ Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Upfluence</strong><br><img src="https://i.imgur.com/eN3fDJu.png[/img]" alt="Upfluence Logo" style="max-width:100px; margin-top:8px;"></td>
         </tr>
         <tr>
             <td rowspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top; width: 15%;"><strong>Perfil</strong></td>
@@ -942,10 +942,14 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 ### 2.3.1. User Personas
 
 User Persona del Priemer segmento objetivo:
-![Image Alt](../../assets/Camila%20user%20agencia.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/alyHVcT.png[/img]" width="90%" />
+</div>
 
 User Persona del Segundo segmento objetivo:
-![Image Alt](../../assets/Diego%20user%20influencer.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/KH48uvp.png[/img]" width="90%" />
+</div>
 
 ### 2.3.2. User Task Matrix
 ## Perfil 1: Trabaja en una startup o agencia  
@@ -983,18 +987,27 @@ _Busca activamente colaboraciones en redes o vía contactos personales._
 ### 2.3.3. User Journey Mapping
 
 User Journey Mapping del Priemer segmento objetivo:
-![Image Alt](../../assets/User%20Journey%20Mapping%20del%20Líder%20de%20Agencia.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/YZwjEUV.png[/img]" width="100%" />
+</div>
 
 User Journey Mapping Segundo segmento objetivo:
-![Image Alt](../../assets/User%20Journey%20Mapping%20Influencer.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/f8U2RjU.png[/img]" width="100%" />
+</div>
 
 ### 2.3.4. Empathy Mapping
 
 Empathy Mapping del Priemer segmento objetivo:
-![Image Alt](../../assets/Empathy%20map%20camila%20agencia.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/b0Q24Dc.png[/img]" width="100%" />
+</div>
 
 Empathy Mapping del Segundo segmento objetivo:
-![Image Alt](../../assets/Empathy%20map%20Diego%20Influencer.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/nx7qaM4.png[/img]" width="100%" />
+</div>
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -1003,11 +1016,14 @@ En esta sección describimos el proceso que seguimos para construir los As-Is Sc
 
 **As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital**
 
-![As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/As-Is-Marcas.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/wUAYd4Q.png[/img]" width="100%" />
+</div>
 
 **As-Is Scenario Mapping – Influencers**
-
-![As-Is Scenario Mapping – Influencers](../../assets/As-Is-Influencers.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ZjatBKa.png[/img]" width="100%" />
+</div>
 
 As-Is Scenario Mapping: [As-Is Scenario Mapping InfluMAtch](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=691660768471)
 
@@ -1056,11 +1072,16 @@ El enfoque principal fue eliminar pasos manuales, mejorar la eficiencia de la ex
 
 **To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital**  
 
-![To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital](../../assets/To-be-Marcas.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/K91Bu5t.png[/img]" width="100%" />
+</div>
 
 **To-Be Scenario Mapping – Influencers**  
 
-![To-Be Scenario Mapping – Influencers](../../assets/To-be-Influencers.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/6IUhYCn.png[/img]" width="100%" />
+</div>
+
 
 To-be Scenario Mapping:[ To-Be Scenario Mapping en Miro](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=638641244611)
 
@@ -1134,11 +1155,16 @@ To-be Scenario Mapping:[ To-Be Scenario Mapping en Miro](https://miro.com/app/bo
 
 **Impact map de Camila, representante de marca**
 
-![ImpactCamila](../../assets/ImpactCamila.png "ImpactCamila")
-
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/clTiQ4o.png[/img]" width="100%" />
+</div>
+ 
 **Impact map de Diego, inluencer**
 
-![ImpactDiego](../../assets/ImpactDiego.png "ImpactDiego")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/sGS6y0S.png[/img]]" width="100%" />
+</div>
+ 
 
 ## 3.4. Product Backlog
 
@@ -1190,7 +1216,10 @@ Convertirse en la plataforma líder en Latinoamérica en conectar influencers co
 El nombre **InfluMatch** surge de la unión de los conceptos *influencer* y *match*, reflejando la esencia del producto: conectar a creadores de contenido con marcas mediante tecnología de emparejamiento inteligente. La marca destaca por su enfoque tecnológico, su lenguaje accesible y su visión colaborativa, posicionándose como una herramienta moderna, confiable y fácil de usar para ambos segmentos.
 
 **Logotipo:**
-![Logo de InfluMatch](../../assets/InfluMatchLogo.png "Logo oficial de InfluMatch")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/DMnlFtp.png[/img]" width="100%" />
+</div>
+
 El logotipo oficial de InfluMatch está compuesto por un isotipo con nodos conectados entre sí —representando redes, datos e interacción social— acompañado de una tipografía sans-serif clara y profesional. La paleta de colores utiliza un **degradado azul-violeta**, que transmite tecnología, creatividad, confianza y modernidad. Su diseño minimalista lo hace fácilmente adaptable a redes sociales, apps, sitios web y presentaciones corporativas.
 
 **Colores**
@@ -1199,7 +1228,9 @@ La identidad visual de **InfluMatch** está diseñada para comunicar tecnología
 
 **Colores**
 
-![Colores de InfluMatch](../../assets/MainColors.png "Colores de InfluMatch")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/pxfGAiY.png[/img]" width="100%" />
+</div>
 
 **Colores Principales**
 
@@ -1237,7 +1268,10 @@ Esta paleta permite expresar una identidad moderna, profesional y tecnológica, 
 
 **Tipografía**
 
-![Tipografia de InfluMatch](../../assets/Typography.png "Tipografia de InfluMatch")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/VwCoL3S.png[/img]" width="100%" />
+</div>
+
 
 Se ha seleccionado la fuente **Inter**, una sans-serif moderna, neutra y de alta legibilidad, ampliamente usada en interfaces digitales por su versatilidad.
 
@@ -1459,17 +1493,34 @@ El sistema permite que tanto empresas como influencers recorran la aplicación s
 
 El siguiente wireframe pertenece a la vista desktop web browser de nuestro landing page. El cual contiene informacion importante como el objetivo principal del producto y el flujo de funcionamiento, el cual presenta a los usuarios la funcionalidad principal que es generar contratos entre influencers y empresas. Adicionalmente, el header contiene accesos directos a diferentes secciones como "Casos de exito" que serian reviews de los usuarios que utilizaron el producto y obtuvieron resultados positivos. Por ultimo, se cuenta con una seccion de "Planes" que muestra cada tipo de plan disponile con sus respectivas funcionalidades, y la seccion de "Contacto" que sirve para que usuarios o personas interesadas obtengan informacion adicional o resuelvan sus dudas.
 
-![Wireframe1](../../assets/Wireframe1.png "Wireframe1")
-![Wireframe2](../../assets/Wireframe2.png "Wireframe2")
-![Wireframe3](../../assets/WIreframe3.png "Wireframe3")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/LGlUK4p.png[/img]]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/g5tafiZ.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Vm4uDbD.png[/img]" width="100%" />
+</div>
+
 
 ### 4.3.2. Landing Page Mock-up
 
 En base al Wireframe del landing page, que sirvio para determinar la organizacion de cada elemento, se elaboro el mock-up para ese mismo. Este tiene el mismo contenido y organizacion ademas de aplicar la paleta de colores primarios y secundarios, asi como la tipografia especificada anteriormente.
 
-![Mockup1](../../assets/Mockup1.png "Mockup1")
-![Mockup2](../../assets/Mockup2.png "Mockup2")
-![Mockup3](../../assets/Mockup3.png "Mockup3")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/oTUpXev.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/gQxVHN7.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Wht51eY.png[/img]" width="100%" />
+</div>
 
 ## 4.4. Diseño UX/UI de Aplicaciones Web
 
@@ -1480,37 +1531,61 @@ Enlace para acceder al  los Wireframes en Figma: [InfluMatch – Mockups & Wiref
 
 **Inicio de sesión**  
 La sección de inicio de sesión presenta un formulario centrado en la pantalla con un fondo claro y campos para **correo electrónico** y **contraseña**, acompañados de iconos intuitivos. Incluye validación en tiempo real para formato de email y fuerza de contraseña, mensajes de error debajo de los inputs, un enlace para **recuperar contraseña** en caso de olvido y un botón principal “Iniciar sesión” que destaca en un color sólido. Bajo el botón aparece un texto que invita a **crear cuenta** si el usuario aún no está registrado. El diseño mantiene suficiente espacio entre elementos, tipografía legible y un estilo minimalista que facilita la accesibilidad y la claridad.  
-![WireframeWebApp1](../../assets/WireframeWebApp1.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/nTDrCpw.png[/img]" width="100%" />
+</div>
+
 
 **Agenda**  
 La sección de **Agenda** muestra un calendario mensual con navegación mediante flechas izquierda/derecha y un botón “Hoy” para volver a la fecha actual. Ofrece alternancia entre vista **Mensual** y **Semanal** para adaptar la visualización a distintos niveles de detalle. Cada día aparece como una casilla que, al hacer hover o clic, despliega tarjetas con eventos como reuniones con marcas, publicaciones programadas, entregas de contenido y revisiones de proyectos. Un botón flotante “+” permite agregar rápidamente nuevos eventos, y al pie de cada tarjeta queda visible la hora y un resumen. A la izquierda, una barra lateral fija da acceso a todas las secciones principales de la aplicación.  
-![WireframeWebApp3](../../assets/WireframeWebApp3.png)
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uSq6PvE.png[/img]" width="100%" />
+</div>
 
 **Chats**  
 En **Chats** el usuario encuentra en la zona superior un carrusel horizontal con **tarjetas de marcas** (logo, nombre y snippet del último mensaje) que permiten cambiar de conversación rápidamente. Bajo este carrusel, cada ventana de chat muestra mensajes entrantes y salientes como burbujas, con timestamps discretos y la capacidad de adjuntar archivos (PDF, imágenes) que aparecen con su propio placeholder y tamaño. A la derecha de cada burbuja puede haber acciones contextuales (descargar, ver detalles). La parte inferior incluye un campo de texto expansible para redactar nuevos mensajes, botones para adjuntar imágenes o documentos y un indicador de estado de envío.  
-![WireframeWebApp5](../../assets/WireframeWebApp5.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/8zYp3MF.png[/img]" width="100%" />
+</div>
 
 **Procesos**  
 La sección **Procesos** comienza con cuatro **tarjetas de métricas** que muestran el total de solicitudes, cuántas han sido aceptadas, cuántas están pendientes y cuántas rechazadas. Debajo, hay controles de filtro y orden (por estado, fecha de postulación, más recientes) y botones para alternar entre **vista lista** y **vista tarjetas**. El listado de postulaciones incluye para cada ítem un thumbnail de campaña, título y marca, fecha de postulación, una etiqueta de estado con color distintivo y un botón “Ver detalles” que abre un modal o despliega información ampliada. La paginación se sitúa al final, permitiendo navegar fácilmente entre páginas.  
-![WireframeWebApp4](../../assets/WireframeWebApp4.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ZIlSPuH.png[/img]" width="100%" />
+</div>
 
 **Contratos**  
 En **Contratos** se presenta el nombre de la campaña y la fecha de emisión, seguido del encabezado “CONTRACT OF DIGITAL” y un bloque numerado con todos los términos y condiciones del acuerdo. El texto está organizado en párrafos claros con interlineado adecuado para facilitar la lectura. Al final del contenido, dos botones resaltados permiten al usuario **firmar digitalmente** con un clic o **descargar el PDF** completo. El diseño garantiza que el contrato sea totalmente navegable y compatible con pantallas grandes, manteniendo la barra lateral de navegación siempre accesible.  
-![WireframeWebApp6](../../assets/WireframeWebApp6.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/PGEhj0c.png[/img]" width="100%" />
+</div>
 
 
 **Evaluaciones**  
 La pantalla de **Evaluaciones** invita al usuario a elegir una marca de entre varias **tarjetas** presentadas en fila (imagen, nombre). Bajo cada tarjeta, aparece un control de **5 estrellas** que destaca al pasar el cursor, seguido de un campo de texto opcional para comentarios adicionales. Un botón **Submit** en la parte inferior envía la evaluación. Más abajo, la sección **Previous Evaluations** lista las valoraciones ya realizadas con miniaturas de marca, nombre, estrellas rellenadas y un extracto del comentario, todo en una vista paginada que facilita revisar el historial de feedback.  
-![WireframeWebApp7](../../assets/WireframeWebApp7.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/CPxj6QA.png[/img]" width="100%" />
+</div>
 
 **Mi Perfil**  
 En **Mi Perfil** se muestra un avatar grande y editable, el nombre de usuario en negrita, el rol o descriptor (por ejemplo, “Tiktoker”) y una fila de iconos de redes sociales vinculadas. Debajo, aparece una breve **biografía** con datos destacados. La sección **Media** despliega una cuadrícula de tarjetas con portadas de contenido (título, fecha de lanzamiento). Luego, **Show History** lista eventos pasados con fechas y un badge “Completed”. Finalmente, **Reviews** muestra reseñas de terceros con su nombre, calificación por estrellas y texto del comentario, todo ello en un layout limpio y organizado.  
-![WireframeWebApp8](../../assets/WireframeWebApp8.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/b0V055x.png[/img]" width="100%" />
+</div>
 
 **Dashboard**  
 La sección de **Campañas recomendadas** presenta una **rejilla de seis tarjetas**, cada una con placeholder de imagen, el título de la campaña en negrita y una breve descripción de dos líneas. Debajo de cada descripción se sitúa un botón de acción contextual (por ejemplo, “Postulate”, “Donate”, “Volunteer”), con un estilo outline que al pasar el cursor se rellena y cambia de color, invitando al usuario a involucrarse. El espacio entre tarjetas y los márgenes aseguran una lectura cómoda en pantallas de escritorio.  
-![WireframeWebApp2](../../assets/WireframeWebApp2.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/TwoUP2m.png[/img]" width="100%" />
+</div>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1523,35 +1598,59 @@ Enlace para acceder al  los Mockups en Figma: [InfluMatch – Mockups & Wirefram
 
 **Inicio de sesión**  
 La sección de inicio de sesión presenta un formulario centrado en la pantalla con un fondo claro y campos para **correo electrónico** y **contraseña**, acompañados de iconos intuitivos. Incluye validación en tiempo real para formato de email y fuerza de contraseña, mensajes de error debajo de los inputs, un enlace para **recuperar contraseña** en caso de olvido y un botón principal “Iniciar sesión” que destaca en un color sólido. Bajo el botón aparece un texto que invita a **crear cuenta** si el usuario aún no está registrado. El diseño mantiene suficiente espacio entre elementos, tipografía legible y un estilo minimalista que facilita la accesibilidad y la claridad.  
-![MockupWebApp1](../../assets/MockupWebApp1.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/EV6S1C3.png[/img]" width="100%" />
+</div>
 
 **Agenda**  
 La sección de **Agenda** muestra un calendario mensual con navegación mediante flechas izquierda/derecha y un botón “Hoy” para volver a la fecha actual. Ofrece alternancia entre vista **Mensual** y **Semanal** para adaptar la visualización a distintos niveles de detalle. Cada día aparece como una casilla que, al hacer hover o clic, despliega tarjetas con eventos como reuniones con marcas, publicaciones programadas, entregas de contenido y revisiones de proyectos. Un botón flotante “+” permite agregar rápidamente nuevos eventos, y al pie de cada tarjeta queda visible la hora y un resumen. A la izquierda, una barra lateral fija da acceso a todas las secciones principales de la aplicación.  
-![MockupWebApp3](../../assets/MockupWebApp3.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/l5lThu4.png[/img]" width="100%" />
+</div>
 
 **Chats**  
 En **Chats** el usuario encuentra en la zona superior un carrusel horizontal con **tarjetas de marcas** (logo, nombre y snippet del último mensaje) que permiten cambiar de conversación rápidamente. Bajo este carrusel, cada ventana de chat muestra mensajes entrantes y salientes como burbujas, con timestamps discretos y la capacidad de adjuntar archivos (PDF, imágenes) que aparecen con su propio placeholder y tamaño. A la derecha de cada burbuja puede haber acciones contextuales (descargar, ver detalles). La parte inferior incluye un campo de texto expansible para redactar nuevos mensajes, botones para adjuntar imágenes o documentos y un indicador de estado de envío.  
-![MockupWebApp5](../../assets/MockupWebApp5.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/n7VTuXl.png[/img]" width="100%" />
+</div>
 
 **Procesos**  
 La sección **Procesos** comienza con cuatro **tarjetas de métricas** que muestran el total de solicitudes, cuántas han sido aceptadas, cuántas están pendientes y cuántas rechazadas. Debajo, hay controles de filtro y orden (por estado, fecha de postulación, más recientes) y botones para alternar entre **vista lista** y **vista tarjetas**. El listado de postulaciones incluye para cada ítem un thumbnail de campaña, título y marca, fecha de postulación, una etiqueta de estado con color distintivo y un botón “Ver detalles” que abre un modal o despliega información ampliada. La paginación se sitúa al final, permitiendo navegar fácilmente entre páginas.  
-![MockupWebApp4](../../assets/MockupWebApp4.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/a3CHJGJ.png[/img]" width="100%" />
+</div>
 
 **Contratos**  
 En **Contratos** se presenta el nombre de la campaña y la fecha de emisión, seguido del encabezado “CONTRACT OF DIGITAL” y un bloque numerado con todos los términos y condiciones del acuerdo. El texto está organizado en párrafos claros con interlineado adecuado para facilitar la lectura. Al final del contenido, dos botones resaltados permiten al usuario **firmar digitalmente** con un clic o **descargar el PDF** completo. El diseño garantiza que el contrato sea totalmente navegable y compatible con pantallas grandes, manteniendo la barra lateral de navegación siempre accesible.  
-![MockupWebApp6](../../assets/MockupWebApp6.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uFGfNCa.png[/img]" width="100%" />
+</div>
 
 **Evaluaciones**  
 La pantalla de **Evaluaciones** invita al usuario a elegir una marca de entre varias **tarjetas** presentadas en fila (imagen, nombre). Bajo cada tarjeta, aparece un control de **5 estrellas** que destaca al pasar el cursor, seguido de un campo de texto opcional para comentarios adicionales. Un botón **Submit** en la parte inferior envía la evaluación. Más abajo, la sección **Previous Evaluations** lista las valoraciones ya realizadas con miniaturas de marca, nombre, estrellas rellenadas y un extracto del comentario, todo en una vista paginada que facilita revisar el historial de feedback.  
-![MockupWebApp7](../../assets/MockupWebApp7.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/S7WuNeY.png[/img]" width="100%" />
+</div>
 
 **Mi Perfil**  
 En **Mi Perfil** se muestra un avatar grande y editable, el nombre de usuario en negrita, el rol o descriptor (por ejemplo, “Tiktoker”) y una fila de iconos de redes sociales vinculadas. Debajo, aparece una breve **biografía** con datos destacados. La sección **Media** despliega una cuadrícula de tarjetas con portadas de contenido (título, fecha de lanzamiento). Luego, **Show History** lista eventos pasados con fechas y un badge “Completed”. Finalmente, **Reviews** muestra reseñas de terceros con su nombre, calificación por estrellas y texto del comentario, todo ello en un layout limpio y organizado.  
-![MockupWebApp8](../../assets/MockupWebApp8.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/flao1W5.png[/img]" width="100%" />
+</div>
 
 **Dashboard**  
 La sección de **Campañas recomendadas** presenta una **rejilla de seis tarjetas**, cada una con placeholder de imagen, el título de la campaña en negrita y una breve descripción de dos líneas. Debajo de cada descripción se sitúa un botón de acción contextual (por ejemplo, “Postulate”, “Donate”, “Volunteer”), con un estilo outline que al pasar el cursor se rellena y cambia de color, invitando al usuario a involucrarse. El espacio entre tarjetas y los márgenes aseguran una lectura cómoda en pantallas de escritorio.  
-![MockupWebApp2](../../assets/MockupWebApp2.png)
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/N32dsVK.png[/img]" width="100%" />
+</div>
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -1589,14 +1688,18 @@ Para la elaboración de los prototipos de la interfaz de usuario destinados a **
 
 En el diagrama de contexto mostramos en alto nivel como se relaciona el sistema de InfluMatch con los usuarios y sistemas externos.
 
-![ContextDiag](../../assets/ContextInfluMatch.png "ContextDiag")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/CG2oeWD.png[/img]" width="100%" />
+</div>
+
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 En el diagrama de contenedores se muestra en alto nivel las relaciones entre la webapp/landing con las fuentes de datos del sistema InfluMatch.
 
-![ContainerDiag](../../assets/ContainerInfluMatch.png "ContainerDiag")
-
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/fHIX4gh.png[/img]" width="100%" />
+</div>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1604,12 +1707,15 @@ Los diagramas de componentes muestran las relaciones de los componentes principa
 
 Subscription Bounded Context
 
-![BoundedPago](../../assets/Component2.png "ComponentP")
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/s7Aye8x.png[/img]" width="100%" />
+</div>
 
 Matching Bounded Context
 
-![BoundedMatching](../../assets/ComponentM.png "ComponentM")
-
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/FRrr2O0.png[/img]" width="100%" />
+</div> 
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1617,7 +1723,9 @@ En esta sección se describen los diagramas de clases que modelan las entidades 
 
 ### 4.7.1. Class Diagrams
 
-![Diagrama de Clases del Proyecto](../../assets/ClassDiagram.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/0U5Km7T.png[/img]" width="100%" />
+</div> 
 
 **Consultar diagrama de clases en PlantUML:**  
 [Ver en PlantUML](https://uml.planttext.com/plantuml/png/bLPRRzis57uNeFz0v6LPXnRRgx27Eh8IQArbGPPRx6cW9Tec9f42IIK8slxt7bAKJKjqvlaXuULSldFvZlXHAYnKtpPXy0jAMDyIWIlA6P6ebxZ6CWm8dAA2DmHz2mE4jfkaqF_JxF7pDidYOVTGBBAbNYoMgpGBWnzMByPjX-c1RHHMlHmiB8l5OwaNwpp91bF_vCNwgKWs6xsDrwlySr8coxEPHTSrjC8AaBcMG7-PPa_6RnmdkT51g4Z-IcAx1jj5yYLDlfwDRNX5SRCYDSM3cJJRb8kdOh7IcpBzLAu_wTNVwssvVKZCuTUqB7MaO4DdAcwmX1HrWhAAThWXaASApYJQIY86gxyXMaTekqsNmuxXbaHeeq3dC9oG5jFcygW36ozSr9Ud0h8VcHeC--g8sO7aLlQUaHUz7dL-ZT0pfxK5Ey1AsRxf2Qk8o0NVqx6OKupG3GUIpO3kUTFm5o9YtZCL8SgKHIjeYyLhtc2rvwADtDGE4ZlABqrLWc15B8Xx7zG7WLbzQmefgtkfnElbQKra9MYdsyNdVMpA-oewDQWFoNZd1wEeQiYDVWtBbk0wGlglBJ-hfqUxlZuGo73D-zrOR6aQFffGoHO0nAWyUlFeSCOVG2TunoLkpY1AsawSpeXdh_jTIrLk3NZTnvmfc2NAxxk2Mw9xwI9B41sfVN2et9Yx2Equi02piyBPkQa0Vs4DntM-VFIZEc9L7g4BhdIOAPHNSqMa17ByZt0Km0TxRJTBBbJUwoFZYkxVh9dNKUt9c0vnaYsWwhyBMS25rtdoZ9l-3TS2xjZ1ON_5s_OcB4Et-Ei1ivFLM2JFOEbsdareepCzPQA2sIed_LKTITrV6JjcQ2sa95TWz68ogjLhHwO5do7jEzsDLq9NvC35wosZpdvs2jACNsT8bo2eCj-XC31VdRi_xj3xz-ZkzmyVO3MV-14wOltDChk9phixEtVTNmGjmw3dfVO-N3lof-deo0_p5UJdtXrDTp952EkTrZaPl29gF0XI4VeyG9ef396V9i-WSSI3y9dvZlsHrQS0G1TJDatfJ7AKrrIMbyRVdLIC2KUuWzb2zNk1AGDfwkA2_YSjD-8tq-eGEBASasxTt9zFnNKqXNR9qrFqbb3_ZSrXLsH9OKjeIU2aRMv8-uANYPon0Cg5YFjg3GFpKltpEzZICPoRnBuRpSru5WRpXwKHS8x3m7qlcjiPm33u2Danh-YV)
@@ -1750,7 +1858,9 @@ El diagrama  muestra el modelo relacional de entidades y sus relaciones diseñad
 ### 4.8.1. Database Diagram
 
 
-![Data Base de InfluMatch](../../assets/InfluMatchBD.png)
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/C1g0dQR.png[/img]" width="100%" />
+</div> 
 
 Base de datos de InfluMatch: [Data Base de InfluMatch](https://dbdiagram.io/d/InfluMatchBD-680b30b11ca52373f54ffc23)
 
@@ -1834,9 +1944,19 @@ Landing page deployment:
  6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
  
  En la siguiente sección se expondrá el sprint #1, el cual contiene la versión inicial del proyecto, mostrando la estructura, el diseño y los resultados obtenidos de la landing page.
- ![Image Alt](../../assets/GithubLanding1.jpg)
- ![Image Alt](../../assets/GithubLanding2.jpg)
- ![Image Alt](../../assets/GithubLanding3.jpg)
+ 
+ <div style="text-align: center;">
+  <img src="https://i.imgur.com/SJnjyaW.jpeg[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/BHDe3jK.jpeg[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/f1ncN6b.jpeg[/img]" width="100%" />
+</div>
+
  
  
 ## **5.2. Landing Page, Services & Applications Implementation**

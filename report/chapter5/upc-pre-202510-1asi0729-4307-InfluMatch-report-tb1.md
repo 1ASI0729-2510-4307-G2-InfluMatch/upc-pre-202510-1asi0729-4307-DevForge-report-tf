@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Informe del TB1</h1>
     <h2>Universidad Peruana de Ciencias Aplicadas</h2>
-    <img src="./assets/upcLogo.png" alt="Logo de UPC" >
+    <img src="../../assets/upcLogo.png" alt="Logo de UPC" >
      <p><strong>Ingeniería de Software</strong></p>
     <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
     <p><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</p>

@@ -26,7 +26,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid ;">Irving Washington Allcca Guerrero</td>
-                <td style="border: 1px solid ;"></td>
+                <td style="border: 1px solid ;">U202213241</td>
             </tr>
             <tr>
                 <td style="border: 1px solid ;">Daniel Eduardo Rodriguez Aguilar</td>

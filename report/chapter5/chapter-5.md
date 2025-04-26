@@ -69,7 +69,21 @@ CSS:
 * Margin y padding en "*" con valor de 0.
 
 ### **5.1.4. Software Deployment Configuration**
-
+Landing page deployment:
+ Para poder desplegar la landing page se necesita realizar pasos especificos. Se necesita una organización y un repositorio. Con ello, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+ 1. Crear el repositorio para alojar el Landing Page.
+ 2. Los archivos deben tener las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+ 3. Cargar los archivos al repositorio mediante un commit.
+ 4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+ 5. Especificar la carpeta "/(root)" como la fuente de la página.
+ 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+ 
+ En la siguiente sección se expondrá el sprint #1, el cual contiene la versión inicial del proyecto, mostrando la estructura, el diseño y los resultados obtenidos de la landing page.
+ ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding1.jpg)
+ ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding2.jpg)
+ ![Image Alt](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/upc-pre-202510-1asi0729-4307-DevForge-report-tf/blob/b63c9b2a4d394efcd7da1695f1d6f5f47d5a35ad/report/chapter5/assets/GithubLanding3.jpg)
+ 
+ 
 ## **5.2. Landing Page, Services & Applications Implementation**
 
 ### **5.2.1. Sprint 1**

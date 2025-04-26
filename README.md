@@ -22,7 +22,7 @@
         <tbody>
             <tr>
                 <td style="border: 1px solid ;">Luis Sebastián Rubio Ortiz</td>
-                <td style="border: 1px solid ;"></td>
+                <td style="border: 1px solid ;">U202310349</td>
             </tr>
             <tr>
                 <td style="border: 1px solid ;">Irving Washington Allcca Guerrero</td>
@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid ;">Daniel Eduardo Rodriguez Aguilar</td>
-                <td style="border: 1px solid ;"></td>
+                <td style="border: 1px solid ;">u202311691</td>
             </tr>
             <tr>
                 <td style="border: 1px solid ;">Nelson Fabrizzio Pereira Vasquez</td>

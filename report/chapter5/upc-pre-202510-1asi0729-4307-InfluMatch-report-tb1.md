@@ -2072,6 +2072,15 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
   <img src="https://i.imgur.com/6AhCCLF.png" width="100%" />
 </div>
 
+#### **5.2.2. Sprint 2**
+#### **5.2.2.1.Sprint Planning 2.**
+#### **5.2.2.2. Aspect Leaders and Collaborators.**
+#### **5.2.2.3.Sprint Backlog 2.**
+#### **5.2.2.4.Development Evidence for Sprint Review.**
+#### **5.2.2.5.Execution Evidence for Sprint Review.**
+#### **5.2.2.6.Services Documentation Evidence for Sprint Review.**
+#### **5.2.2.7.Software Deployment Evidence for Sprint Review.**
+#### **5.2.2.8.Team Collaboration Insights during Sprint.**
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
 

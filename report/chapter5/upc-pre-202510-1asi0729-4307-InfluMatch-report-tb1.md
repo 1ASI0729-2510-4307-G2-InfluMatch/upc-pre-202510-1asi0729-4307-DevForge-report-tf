@@ -990,12 +990,12 @@ _Busca activamente colaboraciones en redes o vía contactos personales._
 
 User Journey Mapping del Priemer segmento objetivo:
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/YZwjEUV.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/ruviSba.png[/img]" width="100%" />
 </div>
 
 User Journey Mapping Segundo segmento objetivo:
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/f8U2RjU.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/85C9Zcw.png[/img]" width="100%" />
 </div>
 
 ### 2.3.4. Empathy Mapping

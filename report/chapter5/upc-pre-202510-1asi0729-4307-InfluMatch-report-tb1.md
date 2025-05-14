@@ -1075,13 +1075,13 @@ El enfoque principal fue eliminar pasos manuales, mejorar la eficiencia de la ex
 **To-Be Scenario Mapping – Marcas y Agencias de Marketing Digital**  
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/K91Bu5t.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/VBK0rjW.png[/img]" width="100%" />
 </div>
 
 **To-Be Scenario Mapping – Influencers**  
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/6IUhYCn.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/KFkjFkP.png[/img]" width="100%" />
 </div>
 
 

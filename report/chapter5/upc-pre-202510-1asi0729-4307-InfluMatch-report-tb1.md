@@ -1019,12 +1019,12 @@ En esta sección describimos el proceso que seguimos para construir los As-Is Sc
 **As-Is Scenario Mapping – Marcas y Agencias de Marketing Digital**
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/wUAYd4Q.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/SxoGacf.png[/img]" width="100%" />
 </div>
 
 **As-Is Scenario Mapping – Influencers**
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/ZjatBKa.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/H8w6yEs.png[/img]" width="100%" />
 </div>
 
 As-Is Scenario Mapping: [As-Is Scenario Mapping InfluMAtch](https://miro.com/app/board/uXjVI-bOU84=/?share_link_id=691660768471)

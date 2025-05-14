@@ -124,11 +124,11 @@ para cada integrante del equipo:
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
-    - [Epic 1: Landing page](#epic-1-landing-page)
-    - [Epic 2: Autenticación](#epic-2-autenticación)
-    - [Epic 3: Búsqueda y Selección de Influencers](#epic-3-búsqueda-y-selección-de-influencers)
-    - [Epic 4: Dashboard Personalizado y Reputación](#epic-4-dashboard-personalizado-y-reputación)
-    - [Epic 5: Visualización de Perfiles de Usuario](#epic-5-visualización-de-perfiles-de-usuario)
+    - [Epic 1: Búsqueda y Selección de Influencers](#epic-1-búsqueda-y-selección-de-influencers)
+    - [Epic 2: Dashboard Personalizado y Reputación](#epic-2-dashboard-personalizado-y-reputación)
+    - [Epic 3: Visualización de Perfiles de Usuario](#epic-3-visualización-de-perfiles-de-usuario)
+    - [Epic 4: Landing page](#epic-4-landing-page)
+    - [Epic 5: Autenticación](#epic-5-autenticación)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
@@ -1987,14 +1987,8 @@ En la siguiente sección se expondrá el sprint #1, el cual contiene la versión
 
 #### **5.2.1.3. Sprint Backlog 1**
 Durante el primer sprint, el equipo centró sus esfuerzos en desarrollar una landing page visualmente atractiva y funcional, distribuyendo las tareas a través del tablero de Sprint de acuerdo con las competencias de cada integrante.
-| id   | Title                                  | Id   | Title                                   | Description                                                                                                              | Estimations(Hours) | Assigned To       | Status(To-do/InProcess/ToReview/Done) |
-| ---- | -------------------------------------- | ---- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------- | ------------------------------------- |
-| US01 | Barra de navegación en la Landing Page | TS01 | Barra de navegación con enlaces         | Implementación del menú de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos"          | 4                  | Sebastian Escobar | Done                                  |
-| US02 | Sección "Casos de éxito"               | TS02 | Testimonios de influencers              | Desarrollo de la sección de testimonios de influencers, con citas y fotos de los influencers destacados                  | 2                  | Irving Allca      | Done                                  |
-| US03 | Sección de Planes                      | TS03 | Planes de suscripción                   | Desarrollo de la sección con los planes de suscripción (Básico, Pro, Premium) con detalles de precios y características  | 4                  | Luis Rubio        | Done                                  |
-| US04 | Sección de Contacto                    | TS04 | Formulario de contacto                  | Implementación del formulario de contacto para que los usuarios puedan solicitar más información                         | 4                  | Daniel Rodriguez  | Done                                  |
-| US05 | Sección "¿Cómo funciona?"              | TS05 | Explicación del proceso de colaboración | Desarrollo de la sección que explica el flujo de trabajo desde la creación de la campaña hasta la medición de resultados | 4                  | Nelson Pereira    | Done                                  |
 
+<table> <tr> <th colspan="3">Sprint #</th> <th colspan="10">Sprint 1</th> </tr> <tr> <td colspan="3">User Story</td> <td colspan="10">Work-Item/Task</td> </tr> <tr> <td colspan="1">Id</td> <td colspan="2">Title</td> <td colspan="1">Id</td> <td colspan="2">Title</td> <td colspan="3">Description</td> <td colspan="1">Estimation (Hours)</td> <td colspan="2">Assigned To</td> <td colspan="1">Status(To-do/InProcess/To-Review/Done)</td> </tr> <tr> <td colspan="1">US01</td> <td colspan="2">Barra de navegación en la Landing Page</td> <td colspan="1">TS01</td> <td colspan="2">Barra de navegación con enlaces</td> <td colspan="3">Implementación del menú de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos"</td> <td colspan="1">4</td> <td colspan="2">Sebastian Escobar</td> <td colspan="1">Done</td> </tr> <tr> <td colspan="1">US02</td> <td colspan="2">Sección "Casos de éxito"</td> <td colspan="1">TS02</td> <td colspan="2">Testimonios de influencers</td> <td colspan="3">Desarrollo de la sección de testimonios de influencers, con citas y fotos de los influencers destacados</td> <td colspan="1">2</td> <td colspan="2">Irving Allca</td> <td colspan="1">Done</td> </tr> <tr> <td colspan="1">US03</td> <td colspan="2">Sección de Planes</td> <td colspan="1">TS03</td> <td colspan="2">Planes de suscripción</td> <td colspan="3">Desarrollo de la sección con los planes de suscripción (Básico, Pro, Premium) con detalles de precios y características</td> <td colspan="1">4</td> <td colspan="2">Luis Rubio</td> <td colspan="1">Done</td> </tr> <tr> <td colspan="1">US04</td> <td colspan="2">Sección de Contacto</td> <td colspan="1">TS04</td> <td colspan="2">Formulario de contacto</td> <td colspan="3">Implementación del formulario de contacto para que los usuarios puedan solicitar más información</td> <td colspan="1">4</td> <td colspan="2">Daniel Rodriguez</td> <td colspan="1">Done</td> </tr> <tr> <td colspan="1">US05</td> <td colspan="2">Sección "¿Cómo funciona?"</td> <td colspan="1">TS05</td> <td colspan="2">Explicación del proceso de colaboración</td> <td colspan="3">Desarrollo de la sección que explica el flujo de trabajo desde la creación de la campaña hasta la medición de resultados</td> <td colspan="1">4</td> <td colspan="2">Nelson Pereira</td> <td colspan="1">Done</td> </tr> </table>
 
 
 #### **5.2.1.4. Development Evidence for Sprint Review**

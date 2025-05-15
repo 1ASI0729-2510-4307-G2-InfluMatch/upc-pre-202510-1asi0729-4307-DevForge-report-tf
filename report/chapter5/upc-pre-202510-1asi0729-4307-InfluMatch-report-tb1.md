@@ -2097,9 +2097,8 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 </div>
 
 #### **5.2.2. Sprint 2**
-#### **5.2.2.1.Sprint Planning 2.**
-#### **5.2.2.2. Aspect Leaders and Collaborators.**
-#### **5.2.2.3.Sprint Backlog 2.**
+#### **5.2.2.1. Sprint Planning 2**
+#### **5.2.2.2. Sprint Backlog 2**
 
 trello 
 
@@ -2126,6 +2125,42 @@ trello
 | US19          | Listar perfiles de influencers                | TK19    | Implementar HomeComponent          | Consumir ProfileApi.listInfluencers() y mostrar lista paginada.                                                     | 10                 | Allcca Guerrero Irving            | Done   |
 | US20          | Ver detalle de perfil de usuario              | TK20    | Implementar ProfileDetailComponent | Usar GetUserDetailsUseCase para obtener y mostrar datos completos del usuario.                                      | 8                  | Sebastian Rubio                   | Done   |
 
+#### **5.2.2.3. Development Evidence for Sprint Review**
+
+| Repository                                                                                           | Branch                                | Commit Id | Commit Message                                                                                   | Commit Message Body | Commited on (Date) |
+|------------------------------------------------------------------------------------------------------|---------------------------------------|-----------|--------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | e6110da       | feat(landing): add Hero component and related assets; include background video and images        |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 14640c7       | feat(images): add logo and step images for improved visual content                               |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 167a3bd       | feat(images): add new step and testimonial author images                                         |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | d4e3053       | feat(landing): remove Hero and How It Works components and their styles                          |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 137553c       | refactor(landing): remove unused Hero and How It Works components and their tests                |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 6820853       | feat(i18n): add English and Spanish localization files                                           |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 7de3b27       | feat(images): add new case and hero illustration images                                          |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 4346656       | feat(landing): add How It Works section and remove unused styles                                 |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 69bda8c       | feat(how-it-works): implement How It Works component with steps and features                     |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 1158816       | feat(landing): add landing component HTML and SCSS files, implement hero section                 |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 64a6bf5       | feta(hero): add HeroComponent test suite and How It Works styles                                 |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 65ba401       | feat: add success-cases                                                                          |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 8a6375a       | feat: add Component Plans                                                                         |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | e7de28d       | feat: add landing component scss and ts                                                           |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | a86299b       | feat: add landing.component.html                                                                  |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 8b56732       | Merge branch 'landing-hero' into landing-sidebar                                                  |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 91c4bd0       | feat(main): implement theme service for dark mode management and transitions                     |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | b6fa8da       | feat(howItWorks): add information how-it-works.component.ts                                      |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 1840971       | feat(howItWorks): add information how-it-works.component.spec.ts                                 |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | b52157e       | feat(howItWorks): add information how-it-works.component.scss                                    |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | e80c587       | feat(howItWorks): add information how-it-works.component.html                                    |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | b55a674       | feat(hero): add information hero.component.ts                                                    |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 978dcb8       | feat(hero): add information hero.component.spec.ts                                               |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 1c4a5e7       | feat(hero): add information hero.component.html and hero.component.scss                          |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | fe63fba       | feat(HowItWorks): add HowItWorks component                                                       |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 1a06121       | feat(hero): add hero component                                                                   |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | 43ff0df       | feat(index): update Angular dependencies and improve app configuration                           |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | ad7afdd       | feat(header): implement header component with responsive design, theme toggle, etc.              |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | fa859ff       | feat(footer): implement footer component with responsive design and language selection           |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | ab82d3a       | feat(contact): implement contact form with validation, FAQ section, and styling                  |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | fd48326       | feat(landing): add landing component with theme support and routing                              |                     | 14/05/2025         |
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | f63d00e       | initial commit                                                                                   |                     | 14/05/2025         |
 
 
 #### **5.2.2.4.Development Evidence for Sprint Review.**

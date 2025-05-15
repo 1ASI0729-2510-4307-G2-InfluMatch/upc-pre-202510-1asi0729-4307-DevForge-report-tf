@@ -417,8 +417,49 @@ Cuando al menos el 80% de las campañas gestionadas en la plataforma utilicen co
 #### 1.2.2.4. Lean UX Canvas
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/Lonbmj9.png"  width="100%" />
+  <img src="https://i.imgur.com/GLUQENp.png[/img]"  width="100%" />
 </div>
+
+**1.Business Problem:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/ZjZQuHm.png[/img]"  width="100%" />
+</div>
+
+**2.Business outcomes:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/6LTWTHg.png[/img]"  width="100%" />
+</div>
+
+**3.Users and customers:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/XVetMdP.png[/img]"  width="100%" />
+</div>
+
+**4.User benefits:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/q9RMgUp.png[/img]"  width="100%" />
+</div>
+
+**5.Solution ideas:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/4o8WxFW.png[/img]"  width="100%" />
+</div>
+
+**6.Hypotheses:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/jAsEDzC.png[/img]"  width="100%" />
+</div>
+
+**7.What's the most important thing we need to learn first?:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/L4FvV8N.png[/img]"  width="100%" />
+</div>
+
+**8.What's the least amount of work we need to do to learn the next most important thing?:** 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/oyb0HYd.png[/img]"  width="100%" />
+</div>
+
 
 Este Lean UX Canvas de **InfluMatch** ilustra de forma concisa nuestras hipótesis, las necesidades clave de marcas e influencers, las soluciones propuestas y las métricas esenciales para iterar rápidamente y validar la plataforma de manera colaborativa.
 

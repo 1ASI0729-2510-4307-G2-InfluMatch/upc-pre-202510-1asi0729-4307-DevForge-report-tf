@@ -194,6 +194,17 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
   <img src="https://i.imgur.com/6AhCCLF.png" width="100%" />
 </div>
 
+### **5.2.2. Sprint 2.**
+#### **5.2.2.1. Sprint Planning 2.
+El Sprint #2 se inició el 10/05/2025 y como meta plantea resolver errores en la landing page, realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
+| **Sprint |    Date    |  Time  | Location                       |         Prepared By           |      Attendees**      |
+| :-----: | :--------: | :----: | :----------------------------: | :---------------------------: | :-------------------: |
+|    2    | 10/05/2025 | 09:00 AM |  Reunión virtual mediante la aplicación Discord  | Fabrizzio Pereira | Irving W. Allcca Guerrero, Sebastián M. Escobar Palomino, Nelson F. Pereira Vásquez, Luis S. Rubio Ortiz |
+
+| Sprint 2 Goal | Sprint 2 Velocity | Sum of Story Points |
+| :-----------: | :---------------: | :-----------------: |
+| Se busca resolver problemas y errores con el landing page, realizar el front end y fake API de la web application de manera que se logre ver atractiva y funcional. |         42         |          42         |
+
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
 

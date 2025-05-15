@@ -2150,22 +2150,22 @@ En esta sección se muestra una breve descripción de la empresa o plataforma "I
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-En esta ocasión se utilizó GitHub Pages para publicar la landing page, lo cual permitió desplegar el sitio directamente desde el código alojado en un repositorio. A continuación se presenta el enlace a la landing page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/
+En esta ocasión se utilizó GitHub Pages para publicar la landing page, lo cual permitió desplegar el sitio directamente desde el código alojado en un repositorio. A continuación se presenta el enlace a la landing page: [Landing Page](https://calm-bush-0d063da10.6.azurestaticapps.net/)
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/856mXmj.png"  width="100%" />
+  <img src="https://i.imgur.com/ofZYq61.png[/img]"  width="100%" />
 </div>
 
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
-Para el desarrollo de este proyecto se emplearon diversas herramientas, entre las cuales destacan Visual Studio Code y el sistema de control de versiones Git. La landing page presentada fue segmentada en distintas secciones, asignadas a los integrantes del equipo de manera individual. Finalmente, un miembro se encargó de integrar las contribuciones de cada participante, consolidando así el producto final.
+Para el desarrollo de este proyecto se emplearon diversas herramientas, entre las cuales destacan WebStorm y el sistema de control de versiones Git. La landing page presentada fue segmentada en distintas secciones, asignadas a los integrantes del equipo de manera individual. Finalmente, un miembro se encargó de integrar las contribuciones de cada participante, consolidando así el producto final.
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/g3atknY.png" width="300%" />
+  <img src="https://i.imgur.com/zeizQMU.png[/img]" width="300%" />
 </div>
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/6AhCCLF.png" width="100%" />
+  <img src="https://i.imgur.com/vutvCgq.png[/img]" width="100%" />
 </div>
 
 #### **5.2.2. Sprint 2**
@@ -2186,7 +2186,7 @@ El Sprint #2 se inició el 10/05/2025 y como meta plantea resolver errores en la
   <img src="https://i.imgur.com/hGpysmH.png[/img]" width="100%" />
 </div>
 
-Link del Trello: https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e43b9a98607f10ea4825bead4d995F05EA73/sprint-2
+**Link del Trello:** [TRELLO](https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e43b9a98607f10ea4825bead4d995F05EA73/sprint-2)
 
 | User Story Id | User Story Title                              | Task Id | Task Title                         | Description                                                                                                         | Estimation (Horas) | Assigned To                       | Status |
 | ------------- | --------------------------------------------- | ------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------ |
@@ -2260,6 +2260,42 @@ Link del Trello: https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e4
 #### **5.2.2.6.Services Documentation Evidence for Sprint Review.**
 #### **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 #### **5.2.2.8.Team Collaboration Insights during Sprint.**
+
+<table>
+  <thead>
+    <tr>
+      <th>Alumno</th>
+      <th>Actividad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sebastian Matias Escobar Palomino</td>
+      <td>Implementación, Sprint 2, Execution Evidence for Sprint Review</td>
+    </tr>
+    <tr>
+      <td>Nelson Fabrizzio Pereira Vasquez</td>
+      <td>Implementación, Sprint Planning 2, Services Documentation Evidence for Sprint Review</td>
+    </tr>
+    <tr>
+      <td>Irving Washington Allcca Guerrero</td>
+      <td>Implementación, Sprint Backlog 2, Software Deployment Evidence for Sprint Review</td>
+    </tr>
+    <tr>
+      <td>Luis Sebastián Rubio Ortiz</td>
+      <td>Implementación, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/yCcKpJK.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/WdvWflz.png[/img]" width="100%" />
+</div>
+
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
 

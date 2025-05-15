@@ -2042,37 +2042,78 @@ Durante el primer sprint, el equipo centró sus esfuerzos en desarrollar una lan
 Durante el Sprint 1 se llevó a cabo el desarrollo, diseño e implementación de la landing page. En ella se incluyen las secciones donde los usuarios pueden conocer más sobre la startup y el producto que se ofrecerá. A continuación, se presentan las evidencias.
 
 **Sección de encabezado:**
-Esta es la sección principal de la página, donde la plataforma "InfluMatch" presenta su propósito: fortalecer relaciones mediante colaboraciones entre empresas e influencers. También ofrece enlaces de navegación como "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactanos."
+Esta es la seccion principal de InfluMatch que conecta marcas con creadores. En el encabezado se incluyen secciones como Inicio, Cómo Funciona, Casos de Éxito, Planes y Contacto, además de opciones de idioma y modo oscuro. El mensaje central destaca colaboraciones auténticas y medibles. Incluye botones de acción: “Descubre Cómo Funciona” y “Ver Planes”. Resalta beneficios como perfiles verificados, emparejamiento rápido y pagos seguros, con cifras destacadas: 10,000 influencers, 5,000 marcas y 98 % de satisfacción.
+
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/pqOzsms.png[" " width="100%" />
+  <img src="https://i.imgur.com/75WAafN.png[/img]" " width="100%" />
 </div>
 
 **¿Cómo funciona?:**
-Esta sección explica el proceso de colaboración a través de la plataforma. Incluye la creación de una campaña, la selección de influencers, la negociación de términos y contratos, y la realización del trabajo por parte de los influencers, con resultados medidos mediante herramientas del Internet de las Cosas (IoT).
+Esta sección explica cómo funciona InfluMatch, destacando que la plataforma conecta marcas con influencers ideales de forma sencilla. Resalta una experiencia fluida gracias a una interfaz intuitiva e incluye un botón “Saber Más” para obtener detalles del proceso. Esta sección también incluye 4 pasos sencillos de cómo usar la app, además cuenta con un apartado que te indica por qué deberías elegir InfluMatch antes que otras apps.
+
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/hsvCB1n.png" " width="100%" />
+  <img src="https://i.imgur.com/D6xLpuQ.png[/img]" " width="100%" />
 </div>
 
-**Casos de éxito:**
-Esta sección muestra un caso de éxito de un influencer, Roberto "Mazino" Rivas, quien destaca cómo la plataforma lo ayudó a encontrar campañas ideales para su nicho. La retroalimentación es positiva, elogiando la claridad del proceso.
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/A5efUB7.png" " width="100%" />
+  <img src="https://i.imgur.com/U6KBkyv.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/RU601cD.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/r9BrTUt.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/glbkI4l.png[/img]" " width="100%" />
+</div>
+
+
+**Casos de éxito:**
+Esta sección presenta un caso de éxito con Lumina Fashion, mostrando cómo mejoró su presencia digital con influencers de la plataforma. Resalta resultados como +150 % de crecimiento, 2.5 M de alcance y 3.2x ROI, e incluye un botón para leer el caso de estudio completo. Además, incluye un apartado donde se pueden observar los distintos casos de éxito.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/UEoRWp8.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/DZl7XAM.png[/img]" " width="100%" />
 </div>
 
 **Planes de precios:**
-Esta sección muestra los planes de suscripción del servicio: "Básico" para empresas e influencers emergentes, "Pro" para empresas medianas, y "Premium" para empresas e influencers activos. Cada plan describe las características que incluyen, como el número de publicaciones, perfiles, estadísticas y opciones multimedia.
+Esta sección presenta tres planes de suscripción para marketing con influencers, ofreciendo opciones para diferentes necesidades: el plan Básico es gratuito e ideal para comenzar, incluye creación de perfil, búsqueda de influencers y soporte por email; el plan Pro, el más popular, cuesta $29 al mes e incluye todas las funciones básicas más analíticas avanzadas, soporte prioritario y campañas ilimitadas; y el plan Negocio, dirigido a equipos profesionales, cuesta $79 al mes e incluye todas las funciones Pro, gerente de cuenta dedicado, integraciones personalizadas, soporte 24/7 y SLA con reportes. Además, permite elegir entre pago mensual o anual con un 20% de descuento.
+
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/pAUFG3F.png" " width="100%" />
+  <img src="https://i.imgur.com/AVVsTw1.png[/img]" " width="100%" />
 </div>
 
 **Formulario de contacto:**
-Se presenta un formulario de contacto para que los usuarios se pongan en contacto con la plataforma. Pide detalles básicos como nombre, correo electrónico y un mensaje. También hay una casilla para aceptar recibir información promocional.
+Esta sección es un formulario de contacto diseñado para facilitar la comunicación entre los usuarios y el equipo de soporte o atención al cliente. En la parte izquierda, los usuarios pueden ingresar su nombre, correo electrónico, seleccionar un asunto y escribir un mensaje para enviar sus consultas o solicitudes. A la derecha, se muestra información de contacto relevante, incluyendo la dirección física de la oficina, un correo electrónico, un número telefónico y enlaces a redes sociales para conectar con la empresa. La interfaz tiene un diseño moderno con colores oscuros y acentos en azul, promoviendo una experiencia visual atractiva y profesional. Además, muestra un mapa interactivo con la ubicación exacta en 150 Park Row, Nueva York. Es un recurso visual que ayuda a los usuarios a identificar la dirección física de la empresa o local, facilitando la orientación y localización geográfica.
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/gwrJlFR.png" " width="100%" />
+  <img src="https://i.imgur.com/uUqQnJZ.png[/img]" " width="100%" />
 </div>
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/nHnwWiL.png[/img]" " width="100%" />
+</div>
 
+**Preguntas Frecuentes:**
+Esta sección presenta preguntas comunes que los usuarios pueden tener sobre el servicio o plataforma, como tiempos de respuesta, soporte en fines de semana, solicitud de demostraciones y oficinas en otros países. Cada pregunta puede expandirse o contraerse para mostrar u ocultar su respuesta, facilitando el acceso rápido a información relevante y aclarando dudas frecuentes de manera clara y organizada.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/gFgeVXE.png[/img]" " width="100%" />
+</div>
+
+**Footer:**
+En esta sección se muestra una breve descripción de la empresa o plataforma "InfluMatch", resaltando su función de conectar influencers con marcas líderes para generar asociaciones efectivas. También incluye enlaces de navegación rápida a páginas importantes como Inicio, Cómo Funciona, Planes y Contacto, además de información de contacto vía correo electrónico y enlaces a redes sociales. Finalmente, contiene la indicación de derechos reservados y opciones para cambiar el idioma entre inglés y español.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/j8bE3Uu.png[/img]" " width="100%" />
+</div>
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.

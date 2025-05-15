@@ -2257,6 +2257,39 @@ El Sprint #2 se inició el 10/05/2025 y como meta plantea resolver errores en la
 
 
 #### **5.2.2.5.Execution Evidence for Sprint Review.**
+En el sprint 2, se finalizó la implementación de la landing page, la cual incluye varias secciones que permiten al usuario acceder a información clave sobre el producto y la startup, disponible en inglés y español. Además, se avanzó parcialmente en el desarrollo de la aplicación web, habilitando la interacción de los usuarios con algunas de sus funcionalidades. A continuación, se muestran algunas evidencias.
+
+**E3-US1**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/5x1RRn5.png[/img]" width="100%" />
+</div>
+
+**E1-US1**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/r0DQC6m.png[/img]" width="100%" />
+</div>
+
+**E1-US3-**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/2Z5IKg5.png[/img]" width="100%" />
+</div>
+
+**E1-US1**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/lkTkSXM.png[/img]" width="100%" />
+</div>
+
+**E5-US1**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/4QTps4D.png[/img]" width="100%" />
+</div>
+
+
 #### **5.2.2.6.Services Documentation Evidence for Sprint Review.**
 #### **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 #### **5.2.2.8.Team Collaboration Insights during Sprint.**

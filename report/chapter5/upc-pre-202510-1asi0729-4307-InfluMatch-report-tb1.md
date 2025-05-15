@@ -2173,7 +2173,13 @@ trello
 | https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | f63d00e       | initial commit                                                                                   |                     | 14/05/2025         |
 
 
-#### **5.2.2.4.Development Evidence for Sprint Review.**
+#### **5.2.2.4. Testing Suite Evidence for Sprint Review.**
+
+| Repositorio                                                                 | Rama     | Commit ID | Mensaje de Commit                        | Cuerpo del Mensaje                        | Fecha de Commit |
+|-----------------------------------------------------------------------------|----------|-----------|------------------------------------------|-------------------------------------------|-----------------|
+| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/main     | bb84e62   | ci: add Azure Static Web Apps workflow file |                                           | 14/05/2025      |
+
+
 #### **5.2.2.5.Execution Evidence for Sprint Review.**
 #### **5.2.2.6.Services Documentation Evidence for Sprint Review.**
 #### **5.2.2.7.Software Deployment Evidence for Sprint Review.**

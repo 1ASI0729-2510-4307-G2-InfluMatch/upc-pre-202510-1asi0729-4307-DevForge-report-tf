@@ -1548,16 +1548,19 @@ El siguiente wireframe pertenece a la vista desktop web browser de nuestro landi
 En base al Wireframe del landing page, que sirvio para determinar la organizacion de cada elemento, se elaboro el mock-up para ese mismo. Este tiene el mismo contenido y organizacion ademas de aplicar la paleta de colores primarios y secundarios, asi como la tipografia especificada anteriormente.
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/oTUpXev.png[/img]" width="100%" />
+  <img src="https://imgur.com/0ubPaiQ.png" width="100%" />
+  <img src="https://imgur.com/qMZyiY9.png" width="100%" />
+  <img src="https://imgur.com/ylGJNdZ.png" width="100%" />
+  <img src="https://imgur.com/GLNElHj.png" width="100%" />
+  <img src="https://imgur.com/BQfopYI.png" width="100%" />
+  <img src="https://imgur.com/bMK7y7f.png" width="100%" />
+  <img src="https://imgur.com/ayE8xId.png" width="100%" />
+  <img src="https://imgur.com/cpgmggL.png" width="100%" />
+  <img src="https://imgur.com/oBMQ1aM.png" width="100%" />
+  <img src="https://imgur.com/PEKPaxL.png" width="100%" />
+  <img src="https://imgur.com/HYX09P5.png" width="100%" />
 </div>
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/gQxVHN7.png[/img]" width="100%" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/Wht51eY.png[/img]" width="100%" />
-</div>
 
 ## 4.4. Diseño UX/UI de Aplicaciones Web
 

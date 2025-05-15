@@ -190,6 +190,15 @@ para cada integrante del equipo:
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
+      - [**5.2.2. Sprint 2**](#522-sprint-2)
+      - [**5.2.2.1.Sprint Planning 2.**](#5221sprint-planning-2)
+      - [**5.2.2.2. Aspect Leaders and Collaborators.**](#5222-aspect-leaders-and-collaborators)
+      - [**5.2.2.3.Sprint Backlog 2.**](#5223sprint-backlog-2)
+      - [**5.2.2.4.Development Evidence for Sprint Review.**](#5224development-evidence-for-sprint-review)
+      - [**5.2.2.5.Execution Evidence for Sprint Review.**](#5225execution-evidence-for-sprint-review)
+      - [**5.2.2.6.Services Documentation Evidence for Sprint Review.**](#5226services-documentation-evidence-for-sprint-review)
+      - [**5.2.2.7.Software Deployment Evidence for Sprint Review.**](#5227software-deployment-evidence-for-sprint-review)
+      - [**5.2.2.8.Team Collaboration Insights during Sprint.**](#5228team-collaboration-insights-during-sprint)
       - [**Avance de Conclusiones**](#avance-de-conclusiones)
       - [**Bibliografia**](#bibliografia)
       - [**Anexo**](#anexo)
@@ -2067,6 +2076,34 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 #### **5.2.2.1.Sprint Planning 2.**
 #### **5.2.2.2. Aspect Leaders and Collaborators.**
 #### **5.2.2.3.Sprint Backlog 2.**
+
+trello 
+
+| User Story Id | User Story Title                              | Task Id | Task Title                         | Description                                                                                                         | Estimation (Horas) | Assigned To                       | Status |
+| ------------- | --------------------------------------------- | ------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------ |
+| US01          | Visualizar landing con secciones informativas | TK01    | Implementar Landing Page           | Crear y configurar componentes para las secciones Hero, How It Works, Success Cases, Plans y Contact en la Landing. | 8                  | Fabrizzio Pereira                 | Done   |
+| US02          | Navegar entre secciones de la landing         | TK02    | Configurar anclajes de navegación  | Añadir enlaces en el header para hacer scroll suave a cada sección de la Landing.                                   | 4                  | Sebastian Matias Escobar Palomino | Done   |
+| US03          | Cambiar tema claro/oscuro                     | TK03    | Implementar toggle de tema         | Integrar ThemeService y botón de cambio de modo claro/oscuro en el header.                                          | 3                  | Allcca Guerrero Irving            | Done   |
+| US04          | Cambiar idioma de la aplicación               | TK04    | Configurar selector de idioma      | Añadir controles para seleccionar idioma (ES/EN) y recargar traducciones con ngx-translate.                         | 3                  | Sebastian Rubio                   | Done   |
+| US05          | Ver estadísticas animadas en Hero             | TK05    | Animar contadores                  | Implementar IntersectionObserver y animación de contadores en HeroComponent.                                        | 5                  | Fabrizzio Pereira                 | Done   |
+| US06          | Mostrar sección “How It Works”                | TK06    | Implementar HowItWorksComponent    | Desarrollar componente con pasos y características según diseño.                                                    | 6                  | Sebastian Matias Escobar Palomino | Done   |
+| US07          | Mostrar casos de éxito                        | TK07    | Implementar SuccessCasesComponent  | Crear tarjeta de testimonios con slide automático.                                                                  | 5                  | Allcca Guerrero Irving            | Done   |
+| US08          | Mostrar planes de precios con toggle          | TK08    | Implementar PlansComponent         | Desarrollar tabla de planes con cambio entre mensual/anual.                                                         | 6                  | Sebastian Rubio                   | Done   |
+| US09          | Enviar formulario de contacto                 | TK09    | Implementar ContactComponent       | Crear formulario ReactiveForms, validaciones y envío simulado con feedback.                                         | 8                  | Fabrizzio Pereira                 | Done   |
+| US10          | Registro de nuevo usuario                     | TK10    | Configurar flujo de registro       | Implementar RegisterUseCase y llamada a AuthApi.register para crear cuenta.                                         | 8                  | Sebastian Matias Escobar Palomino | Done   |
+| US11          | Inicio de sesión de usuario                   | TK11    | Configurar flujo de login          | Implementar LoginUseCase y llamada a AuthApi.login para autenticar credenciales.                                    | 6                  | Allcca Guerrero Irving            | Done   |
+| US12          | Guardar sesión y estado de autenticación      | TK12    | Implementar AuthService            | Crear servicio que maneje currentUser en BehaviorSubject y localStorage.                                            | 4                  | Sebastian Rubio                   | Done   |
+| US13          | Redirigir a onboarding si perfil incompleto   | TK13    | Configurar profileIncompleteGuard  | Crear guard que envíe a /onboarding a usuarios con profile\_completed=false.                                        | 3                  | Fabrizzio Pereira                 | Done   |
+| US14          | Onboarding de perfil de usuario               | TK14    | Crear OnboardingComponent          | Desarrollar flujo de pasos para completar datos básicos de perfil.                                                  | 12                 | Sebastian Matias Escobar Palomino | Done   |
+| US15          | Completar datos específicos de influencer     | TK15    | Campos de influencer en onboarding | Añadir campos de nicho, followers, ratePerPost, engagementRate y portfolio.                                         | 6                  | Allcca Guerrero Irving            | Done   |
+| US16          | Completar datos específicos de marca          | TK16    | Campos de marca en onboarding      | Añadir campos de sector, website, budgetRange, objectives y contact info.                                           | 6                  | Sebastian Rubio                   | Done   |
+| US17          | Acceder al dashboard tras login               | TK17    | Configurar DashboardComponent      | Crear componente raíz de dashboard y proteger ruta con authGuard.                                                   | 10                 | Fabrizzio Pereira                 | Done   |
+| US18          | Navegar dentro del dashboard                  | TK18    | Implementar SidebarComponent       | Desarrollar menú lateral con links a Home, Profile y Profile Detail.                                                | 8                  | Sebastian Matias Escobar Palomino | Done   |
+| US19          | Listar perfiles de influencers                | TK19    | Implementar HomeComponent          | Consumir ProfileApi.listInfluencers() y mostrar lista paginada.                                                     | 10                 | Allcca Guerrero Irving            | Done   |
+| US20          | Ver detalle de perfil de usuario              | TK20    | Implementar ProfileDetailComponent | Usar GetUserDetailsUseCase para obtener y mostrar datos completos del usuario.                                      | 8                  | Sebastian Rubio                   | Done   |
+
+
+
 #### **5.2.2.4.Development Evidence for Sprint Review.**
 #### **5.2.2.5.Execution Evidence for Sprint Review.**
 #### **5.2.2.6.Services Documentation Evidence for Sprint Review.**

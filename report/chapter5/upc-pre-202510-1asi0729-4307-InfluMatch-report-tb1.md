@@ -2151,7 +2151,11 @@ El Sprint #2 se inició el 10/05/2025 y como meta plantea resolver errores en la
 
 #### **5.2.2.2. Sprint Backlog 2**
 
-trello 
+<div style="text-align: center;">
+  <img src="https://imgur.com/a/xDgi18H" width="100%" />
+</div>
+
+Link del Trello: https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e43b9a98607f10ea4825bead4d995F05EA73/sprint-2
 
 | User Story Id | User Story Title                              | Task Id | Task Title                         | Description                                                                                                         | Estimation (Horas) | Assigned To                       | Status |
 | ------------- | --------------------------------------------- | ------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------ |

@@ -160,16 +160,18 @@ para cada integrante del equipo:
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
-      - [Class User](#class-user)
-      - [Class Profile](#class-profile)
       - [Class InfluencerProfile](#class-influencerprofile)
-      - [Class BrandProfile](#class-brandprofile)
-      - [Class Followers](#class-followers)
-      - [Class SocialLinks](#class-sociallinks)
-      - [Class PortfolioUrls](#class-portfoliourls)
-      - [Class UserCredentials (Value Object)](#class-usercredentials-value-object)
-      - [Class NewUserVO (Value Object)](#class-newuservo-value-object)
-      - [Class ProfileVO (Value Object)](#class-profilevo-value-object)
+      - [Class Brand](#class-brand)
+      - [Class Campaign](#class-campaign)
+      - [Class Application](#class-application)
+      - [Class Contract](#class-contract)
+      - [Class ChatThread](#class-chatthread)
+      - [Class Message](#class-message)
+      - [Class Notification](#class-notification)
+      - [Class Evaluation](#class-evaluation)
+      - [Class CalendarEvent](#class-calendarevent)
+      - [Class MediaAsset](#class-mediaasset)
+      - [Class Category](#class-category)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 - [**Capítulo V: Product Implementation, Validation \& Deployment**](#capítulo-v-product-implementation-validation--deployment)
@@ -189,10 +191,10 @@ para cada integrante del equipo:
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
       - [**5.2.2. Sprint 2**](#522-sprint-2)
-      - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
-      - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
-      - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
-      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.1.Sprint Planning 2.**](#5221sprint-planning-2)
+      - [**5.2.2.2. Aspect Leaders and Collaborators.**](#5222-aspect-leaders-and-collaborators)
+      - [**5.2.2.3.Sprint Backlog 2.**](#5223sprint-backlog-2)
+      - [**5.2.2.4.Development Evidence for Sprint Review.**](#5224development-evidence-for-sprint-review)
       - [**5.2.2.5.Execution Evidence for Sprint Review.**](#5225execution-evidence-for-sprint-review)
       - [**5.2.2.6.Services Documentation Evidence for Sprint Review.**](#5226services-documentation-evidence-for-sprint-review)
       - [**5.2.2.7.Software Deployment Evidence for Sprint Review.**](#5227software-deployment-evidence-for-sprint-review)
@@ -215,7 +217,8 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 **ABET – EAC – Student Outcome 3**
 
 
-| **Criterio específico**                                                   | **Acciones realizadas (TB1 y TP1)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Conclusiones**                                                                                                                                                                                                                                                                                                           |
+
+ **Criterio específico**                                                   | **Acciones realizadas (TB1 y TP1)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Conclusiones**                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia**   | **Irving Allcca Guerrero:**<br>• TB1: Preparó una presentación en PowerPoint de 10 diapositivas sobre el “Startup Profile”, diseñando gráficas comparativas y hablando ante el equipo y el docente; adaptó el discurso para audiencias técnicas (ingenieros) y de negocio (docente).<br>• TP1: Documentó la planificación del Sprint 2 en un documento de 8 diapositivas, detallando objetivos, criterios de aceptación y calendario; adaptó el nivel de detalle para desarrolladores (técnico) y Product Owner (negocio) **(34 pts)**.<br><br>**Sebastián Escobar Palomino:**<br>• TB1: Explicó en detalle el “Solution Profile” y los “Lean UX Problem Statements” en un pitch de 5 min, gestionando preguntas de sus compañeros y demostrando dominio de conceptos UX.<br>• TP1: Organizó el Sprint Backlog 2 en un tablero Kanban digital, describiendo cada tarea con responsables y prioridades; presentó el flujo de trabajo al equipo técnico y ajustó la explicación para stakeholders no técnicos **(38 pts)**.<br><br>**Nelson Pereira Vásquez:**<br>• TB1: Moderó la sesión de preguntas y respuestas, reforzó las intervenciones de sus compañeros con datos estadísticos, y empleó un tono claro frente a audiencias no técnicas.<br>• TP1: Recopiló y estructuró la evidencia de desarrollo, pruebas y ejecución en un informe con capturas de pantalla de la Testing Suite y diagramas de flujo; sintetizó la información para audiencias de negocio **(0 pts)**.<br><br>**Luis Rubio Ortiz:**<br>• TB1: Capturó en notas las dudas planteadas por la audiencia, sintetizó los puntos clave de cada intervención y propuso ajustes de lenguaje para futuras presentaciones.<br>• TP1: Documentó el proceso de despliegue en staging, incluyendo pasos de configuración y resultados de CI/CD; elaboró un resumen de insights de colaboración durante el sprint, garantizando trazabilidad y claridad en los commits **(27 pts)**. | En TB1 practicamos la adaptación oral a distintos públicos, modulamos el nivel de detalle y respondimos preguntas en vivo. En TP1 reforzamos nuestra coordinación y liderazgo al presentar planificación, backlog y evidencias de sprint, consolidando nuestra confianza y efectividad al exponer en diferentes contextos. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Irving Allcca Guerrero:**<br>• TB1: Redactó en Markdown las secciones **1.1** y **1.1.1**, aplicando encabezados semánticos, listas numeradas y tablas para facilitar la lectura académica y ejecutiva.<br>• TP1: Documentó el Sprint Planning 2 (5.2.2.1), detallando objetivos, criterios de aceptación y calendario en un formato Markdown accesible para audiencias técnicas y de negocio **(34 pts)**.<br><br>**Sebastián Escobar Palomino:**<br>• TB1: Diseñó la tabla de contenidos y definió los estilos de título, incorporó enlaces internos y externos para que lectores técnicos pudieran profundizar.<br>• TP1: Estructuró el Sprint Backlog 2 (5.2.2.2) mediante tablas y listas semánticas, asignando tareas, responsables y prioridades **(38 pts)**.<br><br>**Nelson Pereira Vásquez:**<br>• TB1: Documentó íntegro el “Lean UX Process” (1.2.2.1–1.2.2.4) incluyendo subtítulos, descripciones detalladas y gráficos exportados como imágenes Markdown.<br>• TP1: Compiló la Evidencia de Desarrollo (5.2.2.3), la Testing Suite (5.2.2.4), la Ejecución (5.2.2.5) y la Documentación de Servicios (5.2.2.6), integrando capturas de pantalla, diagramas de flujo y descripciones paso a paso **(0 pts)**.<br><br>**Luis Rubio Ortiz:**<br>• TB1: Verificó la consistencia de estilo (negrillas, cursivas, bloques de código), corrigió errores de sintaxis Markdown y escribió mensajes de commit claros.<br>• TP1: Generó la Evidencia de Despliegue (5.2.2.7) e identificó los Insights de Colaboración durante el sprint (5.2.2.8), asegurando coherencia de estilo y claridad en todos los artefactos **(27 pts)**.                                                                                                                                                                                                                                                                                                      | La TB1 demostró nuestra capacidad de estructurar documentación técnica de forma clara y coherente. La TP1 evidenció nuestra habilidad para generar y presentar artefactos de sprint (planning, backlog, evidencias y documentación) adaptados a distintos públicos y formatos, manteniendo un estilo uniforme.             |
@@ -1559,7 +1562,7 @@ En base al Wireframe del landing page, que sirvio para determinar la organizacio
   <img src="https://imgur.com/oBMQ1aM.png" width="100%" />
   <img src="https://imgur.com/PEKPaxL.png" width="100%" />
   <img src="https://imgur.com/HYX09P5.png" width="100%" />
-</div>
+</div> 
 
 
 ## 4.4. Diseño UX/UI de Aplicaciones Web
@@ -2148,7 +2151,30 @@ En esta sección se muestra una breve descripción de la empresa o plataforma "I
 </div>
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
-En esta entrega del proyecto, el enfoque principal fue el desarrollo de la landing page, por lo que no se requirió la implementación de servicios adicionales.
+
+**Pasos para realizar la Landing Page de InfluMatch:**
+
+1. **Crear cuenta en la plataforma web**: Regístrate en la plataforma web de InfluMatch para comenzar a crear la landing page y configurar la cuenta.
+
+2. **Seleccionamos un plan adecuado**: Escoge un plan para la plataforma. Para casos prácticos, seleccionamos el plan "Pro" debido a sus características avanzadas que permiten gestionar múltiples campañas e influencers.
+
+3. **Configurar la estructura básica**: Diseña la estructura básica de la landing page, enfocándote en la presentación de las características principales de la plataforma, como "Conecta con los Mejores Influencers" y la llamada a la acción para descubrir cómo funciona.
+
+4. **Agregar testimonios y casos de éxito**: Enlaza ejemplos exitosos, como el caso de Lumina Fashion, para mostrar resultados de crecimiento y retorno de inversión (ROI). Agrega testimonios visuales de influencers y marcas satisfechos.
+
+5. **Personalización visual**: Asegúrate de que la página mantenga un diseño visual atractivo con colores coherentes, como el negro y azul, para transmitir profesionalismo y confianza.
+
+6. **Configurar la función de cambio de idioma**: Integra la opción de cambiar entre idiomas, con botones para español e inglés, garantizando la accesibilidad de la página a un público más amplio.
+
+7. **Agregar información detallada de los planes**: En la sección de "Elige tu plan", ofrece información clara sobre las opciones de suscripción, destacando la oferta de "Pro" como el plan más popular, junto con los beneficios de cada plan.
+
+8. **Optimización para dispositivos móviles**: Asegúrate de que la landing page sea completamente responsiva, con un diseño que se adapte a dispositivos móviles, permitiendo que los usuarios naveguen fácilmente desde sus teléfonos.
+
+9. **Habilitar contacto directo**: Coloca un formulario de contacto que permita a los usuarios enviar preguntas o consultas directamente desde la landing page, conectando con el equipo de soporte de la plataforma.
+
+10. **Verificación de la funcionalidad**: Finalmente, prueba la página asegurándote de que todos los enlaces, botones y formularios funcionen correctamente. Revisa que los usuarios puedan acceder al contenido sin problemas y que la información se muestre de manera efectiva.
+
+
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 En esta ocasión se utilizó GitHub Pages para publicar la landing page, lo cual permitió desplegar el sitio directamente desde el código alojado en un repositorio. A continuación se presenta el enlace a la landing page: [Landing Page](https://calm-bush-0d063da10.6.azurestaticapps.net/)
@@ -2272,7 +2298,7 @@ En el sprint 2, se finalizó la implementación de la landing page, la cual incl
   <img src="https://i.imgur.com/r0DQC6m.png[/img]" width="100%" />
 </div>
 
-**E1-US3-**
+**E1-US3**
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/2Z5IKg5.png[/img]" width="100%" />
@@ -2292,7 +2318,96 @@ En el sprint 2, se finalizó la implementación de la landing page, la cual incl
 
 
 #### **5.2.2.6.Services Documentation Evidence for Sprint Review.**
+
+
+
 #### **5.2.2.7.Software Deployment Evidence for Sprint Review.**
+En la entrega del segundo sprint, se completó la implementación de la landing page funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión preliminar de la aplicación web. Link del Web Aplication: [WEB APLICATION](https://happy-stone-091814410.6.azurestaticapps.net/)
+
+**Capturas de pantalla landing page:**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/75WAafN.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/D6xLpuQ.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/U6KBkyv.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/RU601cD.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/r9BrTUt.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/glbkI4l.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/UEoRWp8.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/DZl7XAM.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/AVVsTw1.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uUqQnJZ.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/nHnwWiL.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/gFgeVXE.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/j8bE3Uu.png[/img]" " width="100%" />
+</div>
+
+**Capturas de pantalla Web Application:**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/AnXDeqs.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/n3WOPSR.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/OePRF33.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/9alfEM3.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/D9qgn95.png[/img]" " width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/CamO9s9.png[/img]" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xIl1CpC.png[/img]" " width="100%" />
+</div>
+
 #### **5.2.2.8.Team Collaboration Insights during Sprint.**
 
 <table>
@@ -2353,10 +2468,13 @@ En el sprint 2, se finalizó la implementación de la landing page, la cual incl
 5. Aglowid IT Solutions. (2024). **The single responsibility principle in Angular development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
 11. Aglowid IT Solutions. (2024). **Optimizing Angular templates for better performance**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
 12. Aglowid IT Solutions. (2024). **Breaking large components into manageable sizes in Angular**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
-29. **TutorialsPoint**. (2024). *Firebase for backend integration with Angular applications*. [https://www.tutorialspoint.com](https://www.tutorialspoint.com)
-30. **C# Corner**. (2024). *Managing Firebase environment variables for staging and production*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+29. TutorialsPoint. (2024). *Firebase for backend integration with Angular applications*. [https://www.tutorialspoint.com](https://www.tutorialspoint.com)
+30. C# Corner. (2024). *Managing Firebase environment variables for staging and production*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
 
 
 #### **Anexo**
-1. Despliegue del Landing Page: https://1asi0729-2510-4307-g2-influmatch.github.io/Landing-Page-InfluMatch/
-2. Figma con los User Flow Diagrams, wireframes y mockups de la landing page.: https://www.figma.com/design/o8mqq96SoWiUWDlFJZYB8T/InfluMatch---Mockups-Wireframes?node-id=0-1&p=f
+1. Despliegue del Landing Page: [Landing Page](https://calm-bush-0d063da10.6.azurestaticapps.net/)
+2. Despliegue de la App Web: [App Web](https://happy-stone-091814410.6.azurestaticapps.net/)
+3. Despliegue de la Landing Page con la App Web: [App Web](https://calm-bush-0d063da10.6.azurestaticapps.net/)
+4. Figma con los User Flow Diagrams, wireframes y mockups de la landing page: [Figma](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=eJkhI7HPhy6idLZb-1)
+

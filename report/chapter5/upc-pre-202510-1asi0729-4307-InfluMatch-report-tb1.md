@@ -1534,23 +1534,6 @@ El sistema permite que tanto empresas como influencers recorran la aplicación s
 El siguiente wireframe pertenece a la vista desktop web browser de nuestro landing page. El cual contiene informacion importante como el objetivo principal del producto y el flujo de funcionamiento, el cual presenta a los usuarios la funcionalidad principal que es generar contratos entre influencers y empresas. Adicionalmente, el header contiene accesos directos a diferentes secciones como "Casos de exito" que serian reviews de los usuarios que utilizaron el producto y obtuvieron resultados positivos. Por ultimo, se cuenta con una seccion de "Planes" que muestra cada tipo de plan disponile con sus respectivas funcionalidades, y la seccion de "Contacto" que sirve para que usuarios o personas interesadas obtengan informacion adicional o resuelvan sus dudas.
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/LGlUK4p.png[/img]]" width="100%" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/g5tafiZ.png[/img]" width="100%" />
-</div>
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/Vm4uDbD.png[/img]" width="100%" />
-</div>
-
-
-### 4.3.2. Landing Page Mock-up
-
-En base al Wireframe del landing page, que sirvio para determinar la organizacion de cada elemento, se elaboro el mock-up para ese mismo. Este tiene el mismo contenido y organizacion ademas de aplicar la paleta de colores primarios y secundarios, asi como la tipografia especificada anteriormente.
-
-<div style="text-align: center;">
   <img src="https://imgur.com/0ubPaiQ.png" width="100%" />
   <img src="https://imgur.com/qMZyiY9.png" width="100%" />
   <img src="https://imgur.com/ylGJNdZ.png" width="100%" />
@@ -1562,72 +1545,74 @@ En base al Wireframe del landing page, que sirvio para determinar la organizacio
   <img src="https://imgur.com/oBMQ1aM.png" width="100%" />
   <img src="https://imgur.com/PEKPaxL.png" width="100%" />
   <img src="https://imgur.com/HYX09P5.png" width="100%" />
-</div> 
+</div>
 
+### 4.3.2. Landing Page Mock-up
 
+En base al Wireframe del landing page, que sirvio para determinar la organizacion de cada elemento, se elaboro el mock-up para ese mismo. Este tiene el mismo contenido y organizacion ademas de aplicar la paleta de colores primarios y secundarios, asi como la tipografia especificada anteriormente.
+
+<div style="text-align: center;">
+  <img src="https://imgur.com/ixnCNpu.png" width="100%" />
+  <img src="https://imgur.com/18vagSV.png" width="100%" />
+  <img src="https://imgur.com/byoXLnD.png" width="100%" />
+  <img src="https://imgur.com/JRQXDJJ.png" width="100%" />
+  <img src="https://imgur.com/PThksC1.png" width="100%" />
+  <img src="https://imgur.com/x4MIDB3.png" width="100%" />
+  <img src="https://imgur.com/W30XvSh.png" width="100%" />
+  <img src="https://imgur.com/3ti4PUc.png" width="100%" />
+  <img src="https://imgur.com/tLwxrrL.png" width="100%" />
+  <img src="https://imgur.com/SoiTuxU.png" width="100%" />
+  <img src="https://imgur.com/8qVXJrm.png" width="100%" />
+</div>
 ## 4.4. Diseño UX/UI de Aplicaciones Web
 
-Enlace para acceder al  los Wireframes en Figma: [InfluMatch – Mockups & Wireframes](https://www.figma.com/design/o8mqq96SoWiUWDlFJZYB8T/InfluMatch---Mockups-Wireframes?node-id=0-1&p=f)
+Enlace para acceder al  los Wireframes en Figma: [InfluMatch – Mockups & Wireframes](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=fVdv09SPC8hr8jTS-1)
 
 
 ### 4.4.1. Wireframes de Aplicaciones Web
 
 **Inicio de sesión**  
-La sección de inicio de sesión presenta un formulario centrado en la pantalla con un fondo claro y campos para **correo electrónico** y **contraseña**, acompañados de iconos intuitivos. Incluye validación en tiempo real para formato de email y fuerza de contraseña, mensajes de error debajo de los inputs, un enlace para **recuperar contraseña** en caso de olvido y un botón principal “Iniciar sesión” que destaca en un color sólido. Bajo el botón aparece un texto que invita a **crear cuenta** si el usuario aún no está registrado. El diseño mantiene suficiente espacio entre elementos, tipografía legible y un estilo minimalista que facilita la accesibilidad y la claridad.  
-
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/nTDrCpw.png[/img]" width="100%" />
+   <img src="https://imgur.com/uJQBwg1.png" width="100%" />
 </div>
 
-
-**Agenda**  
-La sección de **Agenda** muestra un calendario mensual con navegación mediante flechas izquierda/derecha y un botón “Hoy” para volver a la fecha actual. Ofrece alternancia entre vista **Mensual** y **Semanal** para adaptar la visualización a distintos niveles de detalle. Cada día aparece como una casilla que, al hacer hover o clic, despliega tarjetas con eventos como reuniones con marcas, publicaciones programadas, entregas de contenido y revisiones de proyectos. Un botón flotante “+” permite agregar rápidamente nuevos eventos, y al pie de cada tarjeta queda visible la hora y un resumen. A la izquierda, una barra lateral fija da acceso a todas las secciones principales de la aplicación.  
-
+**Registro**  
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/uSq6PvE.png[/img]" width="100%" />
+   <img src="https://imgur.com/ATKnWoM.png" width="100%" />
+</div>
+
+**Proceso de registro**  
+<div style="text-align: center;">
+ <img src="https://imgur.com/2bRakiy.png" width="100%" />
+  <img src="https://imgur.com/79CgcpT.png" width="100%" />
+  <img src="https://imgur.com/gdPHTtO.png" width="100%" />
 </div>
 
 **Chats**  
-En **Chats** el usuario encuentra en la zona superior un carrusel horizontal con **tarjetas de marcas** (logo, nombre y snippet del último mensaje) que permiten cambiar de conversación rápidamente. Bajo este carrusel, cada ventana de chat muestra mensajes entrantes y salientes como burbujas, con timestamps discretos y la capacidad de adjuntar archivos (PDF, imágenes) que aparecen con su propio placeholder y tamaño. A la derecha de cada burbuja puede haber acciones contextuales (descargar, ver detalles). La parte inferior incluye un campo de texto expansible para redactar nuevos mensajes, botones para adjuntar imágenes o documentos y un indicador de estado de envío.  
-
 <div style="text-align: center;">
   <img src="https://i.imgur.com/8zYp3MF.png[/img]" width="100%" />
 </div>
 
-**Procesos**  
-La sección **Procesos** comienza con cuatro **tarjetas de métricas** que muestran el total de solicitudes, cuántas han sido aceptadas, cuántas están pendientes y cuántas rechazadas. Debajo, hay controles de filtro y orden (por estado, fecha de postulación, más recientes) y botones para alternar entre **vista lista** y **vista tarjetas**. El listado de postulaciones incluye para cada ítem un thumbnail de campaña, título y marca, fecha de postulación, una etiqueta de estado con color distintivo y un botón “Ver detalles” que abre un modal o despliega información ampliada. La paginación se sitúa al final, permitiendo navegar fácilmente entre páginas.  
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/ZIlSPuH.png[/img]" width="100%" />
-</div>
 
 **Contratos**  
-En **Contratos** se presenta el nombre de la campaña y la fecha de emisión, seguido del encabezado “CONTRACT OF DIGITAL” y un bloque numerado con todos los términos y condiciones del acuerdo. El texto está organizado en párrafos claros con interlineado adecuado para facilitar la lectura. Al final del contenido, dos botones resaltados permiten al usuario **firmar digitalmente** con un clic o **descargar el PDF** completo. El diseño garantiza que el contrato sea totalmente navegable y compatible con pantallas grandes, manteniendo la barra lateral de navegación siempre accesible.  
-
 <div style="text-align: center;">
   <img src="https://i.imgur.com/PGEhj0c.png[/img]" width="100%" />
 </div>
 
-
-**Evaluaciones**  
-La pantalla de **Evaluaciones** invita al usuario a elegir una marca de entre varias **tarjetas** presentadas en fila (imagen, nombre). Bajo cada tarjeta, aparece un control de **5 estrellas** que destaca al pasar el cursor, seguido de un campo de texto opcional para comentarios adicionales. Un botón **Submit** en la parte inferior envía la evaluación. Más abajo, la sección **Previous Evaluations** lista las valoraciones ya realizadas con miniaturas de marca, nombre, estrellas rellenadas y un extracto del comentario, todo en una vista paginada que facilita revisar el historial de feedback.  
-
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/CPxj6QA.png[/img]" width="100%" />
-</div>
-
 **Mi Perfil**  
-En **Mi Perfil** se muestra un avatar grande y editable, el nombre de usuario en negrita, el rol o descriptor (por ejemplo, “Tiktoker”) y una fila de iconos de redes sociales vinculadas. Debajo, aparece una breve **biografía** con datos destacados. La sección **Media** despliega una cuadrícula de tarjetas con portadas de contenido (título, fecha de lanzamiento). Luego, **Show History** lista eventos pasados con fechas y un badge “Completed”. Finalmente, **Reviews** muestra reseñas de terceros con su nombre, calificación por estrellas y texto del comentario, todo ello en un layout limpio y organizado.  
-
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/b0V055x.png[/img]" width="100%" />
+  <img src="https://imgur.com/nvw8ZI3.png" width="100%" />
 </div>
 
 **Dashboard**  
-La sección de **Campañas recomendadas** presenta una **rejilla de seis tarjetas**, cada una con placeholder de imagen, el título de la campaña en negrita y una breve descripción de dos líneas. Debajo de cada descripción se sitúa un botón de acción contextual (por ejemplo, “Postulate”, “Donate”, “Volunteer”), con un estilo outline que al pasar el cursor se rellena y cambia de color, invitando al usuario a involucrarse. El espacio entre tarjetas y los márgenes aseguran una lectura cómoda en pantallas de escritorio.  
-
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/TwoUP2m.png[/img]" width="100%" />
+   <img src="https://imgur.com/AVTAPQ9.png" width="100%" />
+</div>
+
+
+**Perfil del contratado**  
+<div style="text-align: center;">
+ <img src="https://imgur.com/SZjKQLD.png" width="100%" />
 </div>
 
 ### 4.4.2. Web Applications Wireflow Diagrams

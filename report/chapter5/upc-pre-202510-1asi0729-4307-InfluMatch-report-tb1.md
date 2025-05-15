@@ -228,11 +228,11 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
  En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
 ### 1.1.1. Descripción de la Startup
-InfluMatch es una plataforma web innovadora que redefine la forma en que las marcas y los influencers colaboran. A través de un ecosistema digital basado en inteligencia artificial, Internet de las Cosas (IoT) y análisis en tiempo real, InfluMatch optimiza las estrategias de marketing de influencia para hacerlas más eficientes, transparentes y medibles.
+DevForge es una startup tecnológica que ofrece una plataforma web innovadora diseñada para transformar la forma en que las marcas e influencers colaboran. .Nuestro producto, InfluMatch, es una plataforma web que conecta marcas e influencers para gestionar y optimizar campañas de marketing de influencia, usando inteligencia artificial e IoT para hacerlas más eficientes, transparentes y medibles.
 
 Dirigida tanto a marcas de todos los tamaños (desde startups hasta grandes corporaciones) como a influencers de diversos niveles (micro, medianos, macro y celebridades), la plataforma permite gestionar colaboraciones desde un solo lugar, con herramientas inteligentes que automatizan la validación, contratación, monitoreo y evaluación del impacto de cada campaña.
 
-Lo que hace única a InfluMatch es su capacidad de cerrar la brecha entre el mundo digital y el físico: mediante dispositivos IoT como sensores de tráfico en tiendas, cámaras o smart tags, se puede rastrear el impacto real de una campaña digital en el entorno offline. Esto permite a las marcas tomar decisiones basadas en datos concretos y evaluar el retorno de inversión de manera más precisa.
+Lo que hace unico a InfluMatch es su capacidad de cerrar la brecha entre el mundo digital y el físico: mediante dispositivos IoT como sensores de tráfico en tiendas, cámaras o smart tags, se puede rastrear el impacto real de una campaña digital en el entorno offline. Esto permite a las marcas tomar decisiones basadas en datos concretos y evaluar el retorno de inversión de manera más precisa.
 
 Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda avanzada de perfiles, contratos digitales con firma electrónica, sistema de mensajería interna, reputación gamificada, y mecanismos de seguridad avanzados que previenen el fraude y fomentan relaciones confiables.
 

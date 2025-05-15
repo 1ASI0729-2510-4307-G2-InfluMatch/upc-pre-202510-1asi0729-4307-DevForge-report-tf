@@ -2238,7 +2238,11 @@ Link del Trello: https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e4
 
 - Igualmente, el uso de plataformas de diseño como Figma ha permitido crear una interfaz uniforme y estéticamente agradable que refuerza la imagen profesional de InfluMatch. Por su parte, Trello ha sido útil para mantener una organización eficiente y un seguimiento adecuado de las tareas, lo que ha favorecido el cumplimiento de los objetivos.
 
-- Este primer desarrollo ha establecido una base sólida para la expansión de la plataforma en etapas futuras, garantizando una infraestructura tecnológica estable y con potencial de escalabilidad.
+- Este segundo desarrollo ha establecido una base sólida para la expansión de la plataforma en etapas futuras, garantizando una infraestructura tecnológica estable y con potencial de escalabilidad.
+
+- Se desarrollaron y probaron con éxito los módulos de autenticación y gestión de perfiles de usuario, permitiendo una experiencia de inicio de sesión segura y personalizada.
+
+- Se integró la funcionalidad de búsqueda avanzada, facilitando a los usuarios la localización eficiente de influencers según criterios específicos.
 
 #### **Bibliografia**
 1. Aglowid IT Solutions. (2024). **Top 12 Angular best practices to adapt in 2024**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)

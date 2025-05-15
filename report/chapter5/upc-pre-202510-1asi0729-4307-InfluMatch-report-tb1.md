@@ -1732,131 +1732,155 @@ En esta sección se describen los diagramas de clases que modelan las entidades 
 ### 4.7.1. Class Diagrams
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/0U5Km7T.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/db8W2CU.png[/img]" width="100%" />
 </div> 
 
 **Consultar diagrama de clases en PlantUML:**  
-[Ver en PlantUML](https://uml.planttext.com/plantuml/png/bLPRRzis57uNeFz0v6LPXnRRgx27Eh8IQArbGPPRx6cW9Tec9f42IIK8slxt7bAKJKjqvlaXuULSldFvZlXHAYnKtpPXy0jAMDyIWIlA6P6ebxZ6CWm8dAA2DmHz2mE4jfkaqF_JxF7pDidYOVTGBBAbNYoMgpGBWnzMByPjX-c1RHHMlHmiB8l5OwaNwpp91bF_vCNwgKWs6xsDrwlySr8coxEPHTSrjC8AaBcMG7-PPa_6RnmdkT51g4Z-IcAx1jj5yYLDlfwDRNX5SRCYDSM3cJJRb8kdOh7IcpBzLAu_wTNVwssvVKZCuTUqB7MaO4DdAcwmX1HrWhAAThWXaASApYJQIY86gxyXMaTekqsNmuxXbaHeeq3dC9oG5jFcygW36ozSr9Ud0h8VcHeC--g8sO7aLlQUaHUz7dL-ZT0pfxK5Ey1AsRxf2Qk8o0NVqx6OKupG3GUIpO3kUTFm5o9YtZCL8SgKHIjeYyLhtc2rvwADtDGE4ZlABqrLWc15B8Xx7zG7WLbzQmefgtkfnElbQKra9MYdsyNdVMpA-oewDQWFoNZd1wEeQiYDVWtBbk0wGlglBJ-hfqUxlZuGo73D-zrOR6aQFffGoHO0nAWyUlFeSCOVG2TunoLkpY1AsawSpeXdh_jTIrLk3NZTnvmfc2NAxxk2Mw9xwI9B41sfVN2et9Yx2Equi02piyBPkQa0Vs4DntM-VFIZEc9L7g4BhdIOAPHNSqMa17ByZt0Km0TxRJTBBbJUwoFZYkxVh9dNKUt9c0vnaYsWwhyBMS25rtdoZ9l-3TS2xjZ1ON_5s_OcB4Et-Ei1ivFLM2JFOEbsdareepCzPQA2sIed_LKTITrV6JjcQ2sa95TWz68ogjLhHwO5do7jEzsDLq9NvC35wosZpdvs2jACNsT8bo2eCj-XC31VdRi_xj3xz-ZkzmyVO3MV-14wOltDChk9phixEtVTNmGjmw3dfVO-N3lof-deo0_p5UJdtXrDTp952EkTrZaPl29gF0XI4VeyG9ef396V9i-WSSI3y9dvZlsHrQS0G1TJDatfJ7AKrrIMbyRVdLIC2KUuWzb2zNk1AGDfwkA2_YSjD-8tq-eGEBASasxTt9zFnNKqXNR9qrFqbb3_ZSrXLsH9OKjeIU2aRMv8-uANYPon0Cg5YFjg3GFpKltpEzZICPoRnBuRpSru5WRpXwKHS8x3m7qlcjiPm33u2Danh-YV)
+[Ver en PlantUML](https://uml.planttext.com/plantuml/png/nLVBRXCn5DrNwZzOsRI0KebjXFgWBL8br5O5kgcgqPsPcwc9Om-s9o5GlefFuCUudipRdbBOi4hh-_Ivr-SanyQ2jiLIxExiiMluKg15mtBGm9JEGF9laF1VF-NkJWx90Z9aapEr12uFpgNbbgEPiE-xEun1RAo6nB94W37iMgiv5xYrCJPbXK5zaSuOUN6PrQVvrkrKBND1bSaUAoKGf7FuiRlZFhO9Fr5ycurxcP2Q4iD32Kiy6gaP9S6YpWDMGAX4XHPUiBj6P3TvFsslqmiv5mNA1BK7GifDBc1pIMqD4yTS3O-4Ii1o9OVdYPAMa3uFtfWd3rvk3HQlgHrbx8p9OXcZRc2J6GrrYTBUaDFHqEmcVLAat5t7mqA0p0gADetbxhu56LTS5URyQuuw74ukSzGQqrEgd2do6YRgmVfMWqp_0w864wlqy7IDiU7Mhrca6HAKClDCAlvCcVWApKZrq1qg4qsEZ_LDe_j8-sZy6V1c4KSS4bZcm3DvLkWWB92cPLaGjDDgTE7VAI7K6hNfl4z9l99fMCxeJrkVMhwmQj4xsgZ25Z4sPxt47rJ2GRpdSX5AxItKDhrtN9NmtTVSMjJU-HmI949OX5xu7hj1GOoe91htVybAazSJzd8wBJ_h1PrHDoZH-VXyC9q-7jQUpgEtsdrZE46tOeF-drqxU7fbH_tAcm_9_nQep5MvqRK0j3HzIc-Qjf9ITCOMvEUSGjPAfwEhTObhb_7sgaqa0y_asSbx5Fvtmj3hgqAjsrUPrjUbFwjDHM5Hw69FAD4JzERvLZGIbJXvrb8p_6TGxnLPUZjMAqf4p1xbf2cUQhIY4kanLOdWNsJ5b9iP2RUQP1uiT8ctqfPQvyg1zfGoHVWCQOgICMrgfS6BhhJ1drWf3WG9gODdRELXT7h1RpErCQya8kZW9k4sFdI9LYL6NMgTYD9AABmYhL94b4yDgJF88JTOzbo2Mt48YG1gnx_ifB0FZSEcVcMlQCKpBlSJ6WtfsO1iNipOLKn7AuW5lYcf-P4sJuZ3EbfZnWsLs4_fMSrQTl4Zcv0YJzstf-qhhkAQrpyILr55Uvig87WXQgXbRRFVJ-dn-TtzOJUofF1XK9VNA_zw1btz8ZJg0IW6ZBXimnoIAQHEt0OJE3Wu7E8Tz6am3LeRv4Rpkovzk9pLmsBCiNj_b-uOPLh-mlaD)
 
 ### 4.7.2. Class Dictionary
 
-**Class User**
+#### Class User
+| Attribute              | Type     | Description                                  |
+| ---------------------- | -------- | -------------------------------------------- |
+| id                     | int      | Unique identifier of the user                |
+| email                  | string   | Email address used to log in                 |
+| name                   | string   | Full name of the user (optional)             |
+| is\_profile\_completed | boolean  | Flag to indicate if user profile is complete |
+| avatar\_url            | string   | URL to the user's avatar image (optional)    |
+| user\_type             | string   | Type of user: 'influencer' or 'brand'        |
+| created\_at            | datetime | Timestamp when the user was created          |
+| updated\_at            | datetime | Timestamp when the user was last updated     |
 
-| Attribute | Type   | Description                                      |
-| --------- | ------ | ------------------------------------------------ |
-| id        | UUID   | Unique identifier of the user                    |
-| name      | String | Full name of the user                            |
-| email     | String | Email address used to log in                     |
-| password  | String | Hashed password for authentication               |
-| role      | Role   | Role of the user (e.g. INFLUENCER, BRAND, ADMIN) |
+#### Class Profile
+| Attribute      | Type     | Description                                 |
+| -------------- | -------- | ------------------------------------------- |
+| id             | int      | Unique identifier of the profile            |
+| user\_id       | int      | Foreign key linking to the User entity      |
+| profile\_type  | string   | Type of profile: 'influencer' or 'brand'    |
+| display\_name  | string   | Public display name for the profile         |
+| bio            | text     | Biography or description of the profile     |
+| location       | string   | Location or address (optional)              |
+| contact\_email | string   | Contact email address (optional)            |
+| created\_at    | datetime | Timestamp when the profile was created      |
+| updated\_at    | datetime | Timestamp when the profile was last updated |
 
 #### Class InfluencerProfile
+| Attribute            | Type     | Description                                            |
+| -------------------- | -------- | ------------------------------------------------------ |
+| id                   | int      | Unique identifier of the influencer profile            |
+| profile\_id          | int      | Foreign key linking to the Profile entity              |
+| niche                | string   | Influencer’s content category or niche                 |
+| rate\_per\_post      | decimal  | Base price per post (monetary value)                   |
+| engagement\_rate     | decimal  | Engagement rate percentage (optional)                  |
+| main\_audience       | string   | Description of primary audience segment (optional)     |
+| previous\_experience | text     | Description of prior experience with brands (optional) |
+| created\_at          | datetime | Timestamp when the influencer profile was created      |
+| updated\_at          | datetime | Timestamp when the influencer profile was updated      |
 
-| Attribute       | Type        | Description                                             |
-| --------------- | ----------- | ------------------------------------------------------- |
-| id              | UUID        | Unique identifier of the influencer profile             |
-| stageName       | String      | Public or “stage” name under which the influencer posts |
-| followerCount   | int         | Number of followers                                     |
-| primaryPlatform | SocialMedia | Main social network (INSTAGRAM, TIKTOK, etc.)           |
-| bio             | String      | Short biography or description                          |
-
-#### Class Brand
-
-| Attribute   | Type   | Description                               |
-| ----------- | ------ | ----------------------------------------- |
-| id          | UUID   | Unique identifier of the brand            |
-| name        | String | Official name of the brand                |
-| industry    | String | Sector or industry the brand operates in  |
-| description | String | Brief description of the brand’s business |
-
-#### Class Campaign
-
-| Attribute   | Type           | Description                                         |
-| ----------- | -------------- | --------------------------------------------------- |
-| id          | UUID           | Unique identifier of the campaign                   |
-| title       | String         | Name or title of the campaign                       |
-| description | String         | Detailed description of goals and requirements      |
-| startDate   | Date           | Scheduled start date                                |
-| endDate     | Date           | Scheduled end date                                  |
-| budget      | double         | Allocated budget for the campaign                   |
-| status      | CampaignStatus | Current state (DRAFT, OPEN, IN_PROGRESS, COMPLETED) |
-
-#### Class Application
-
-| Attribute    | Type              | Description                                            |
-| ------------ | ----------------- | ------------------------------------------------------ |
-| id           | UUID              | Unique identifier of the application                   |
-| proposalDate | DateTime          | Timestamp when the influencer submitted the proposal   |
-| status       | ApplicationStatus | Current state (PENDING, ACCEPTED, REJECTED, IN_REVIEW) |
-
-#### Class Contract
-
-| Attribute  | Type     | Description                                          |
-| ---------- | -------- | ---------------------------------------------------- |
-| id         | UUID     | Unique identifier of the contract                    |
-| content    | String   | Full text or terms of the agreement                  |
-| signedDate | DateTime | Date and time when the contract was signed           |
-| isSigned   | boolean  | Flag indicating whether the contract has been signed |
-
-#### Class ChatThread
-
-| Attribute | Type | Description                          |
-| --------- | ---- | ------------------------------------ |
-| id        | UUID | Unique identifier of the chat thread |
-
-#### Class Message
-
-| Attribute | Type     | Description                             |
-| --------- | -------- | --------------------------------------- |
-| id        | UUID     | Unique identifier of the message        |
-| content   | String   | Text content of the message             |
-| timestamp | DateTime | Date and time when the message was sent |
-
-#### Class Notification
-
-| Attribute | Type     | Description                                    |
-| --------- | -------- | ---------------------------------------------- |
-| id        | UUID     | Unique identifier of the notification          |
-| content   | String   | Text of the notification                       |
-| date      | DateTime | Date and time when the notification was issued |
-| read      | boolean  | Flag indicating if the user has read it        |
-
-#### Class Evaluation
-
-| Attribute | Type     | Description                                     |
-| --------- | -------- | ----------------------------------------------- |
-| id        | UUID     | Unique identifier of the evaluation             |
-| rating    | int      | Star rating (1–5)                               |
-| comment   | String   | Optional text feedback                          |
-| date      | DateTime | Date and time when the evaluation was submitted |
-
-#### Class CalendarEvent
-
-| Attribute | Type   | Description                                    |
-| --------- | ------ | ---------------------------------------------- |
-| id        | UUID   | Unique identifier of the calendar event        |
-| title     | String | Name or title of the event                     |
-| date      | Date   | Date on which the event occurs                 |
-| time      | String | Time when the event is scheduled               |
-| details   | String | Additional information or agenda for the event |
-
-#### Class MediaAsset
-
-| Attribute | Type   | Description                                       |
-| --------- | ------ | ------------------------------------------------- |
-| id        | UUID   | Unique identifier of the media asset              |
-| url       | String | Public URL or path to the uploaded file           |
-| type      | String | MIME type or category (image, video, audio, etc.) |
-| title     | String | Descriptive title of the media asset              |
-
-#### Class Category
-
-| Attribute | Type   | Description                           |
-| --------- | ------ | ------------------------------------- |
-| id        | UUID   | Unique identifier of the category     |
-| name      | String | Name of the content or niche category |
+#### Class BrandProfile
+| Attribute          | Type     | Description                                     |
+| ------------------ | -------- | ----------------------------------------------- |
+| id                 | int      | Unique identifier of the brand profile          |
+| profile\_id        | int      | Foreign key linking to the Profile entity       |
+| sector             | string   | Industry sector of the brand                    |
+| website            | string   | Official website URL (optional)                 |
+| budget\_range      | string   | Campaign budget range                           |
+| objectives         | text     | Campaign objectives description                 |
+| contact\_name      | string   | Name of the brand’s contact person              |
+| contact\_position  | string   | Job title of the contact person                 |
+| content\_types     | string   | Types of content desired (comma-separated)      |
+| influencer\_types  | string   | Types of influencers targeted (comma-separated) |
+| campaign\_duration | string   | Duration of the influencer campaign             |
+| additional\_info   | text     | Any additional relevant information             |
+| created\_at        | datetime | Timestamp when the brand profile was created    |
+| updated\_at        | datetime | Timestamp when the brand profile was updated    |
 
 
+#### Class Followers
+| Attribute               | Type     | Description                                         |
+| ----------------------- | -------- | --------------------------------------------------- |
+| id                      | int      | Unique identifier of the followers record           |
+| influencer\_profile\_id | int      | Foreign key linking to the InfluencerProfile entity |
+| instagram               | int      | Number of Instagram followers (default 0)           |
+| tiktok                  | int      | Number of TikTok followers (default 0)              |
+| youtube                 | int      | Number of YouTube followers (default 0)             |
+| created\_at             | datetime | Timestamp when the record was created               |
+| updated\_at             | datetime | Timestamp when the record was last updated          |
+
+
+#### Class SocialLinks
+| Attribute     | Type     | Description                                              |
+| ------------- | -------- | -------------------------------------------------------- |
+| id            | int      | Unique identifier of the social links record             |
+| profile\_id   | int      | Foreign key linking to the Profile entity                |
+| profile\_type | string   | Profile type: 'influencer' or 'brand' (for polymorphism) |
+| instagram     | string   | Instagram handle or URL (optional)                       |
+| tiktok        | string   | TikTok handle or URL (optional)                          |
+| youtube       | string   | YouTube channel URL (optional)                           |
+| twitter       | string   | Twitter handle or URL (optional)                         |
+| facebook      | string   | Facebook profile URL (optional)                          |
+| created\_at   | datetime | Timestamp when the record was created                    |
+| updated\_at   | datetime | Timestamp when the record was last updated               |
+
+
+#### Class PortfolioUrls
+| Attribute               | Type     | Description                                         |
+| ----------------------- | -------- | --------------------------------------------------- |
+| id                      | int      | Unique identifier of the portfolio URL record       |
+| influencer\_profile\_id | int      | Foreign key linking to the InfluencerProfile entity |
+| url                     | string   | URL to a highlighted portfolio post or content      |
+| created\_at             | datetime | Timestamp when the portfolio URL was created        |
+| updated\_at             | datetime | Timestamp when the portfolio URL was last updated   |
+
+
+#### Class UserCredentials (Value Object)
+| Attribute | Type   | Description                          |
+| --------- | ------ | ------------------------------------ |
+| email     | string | Email address for login              |
+| password  | string | Password for authentication (hashed) |
+
+
+#### Class NewUserVO (Value Object)
+| Attribute          | Type    | Description                           |
+| ------------------ | ------- | ------------------------------------- |
+| name               | string  | Full name of the user                 |
+| email              | string  | Email address                         |
+| password           | string  | Password for registration             |
+| user\_type         | string  | Type of user: 'influencer' or 'brand' |
+| profile\_completed | boolean | Indicates if profile is complete      |
+
+
+#### Class ProfileVO (Value Object)
+| Attribute             | Type      | Description                            |
+| --------------------- | --------- | -------------------------------------- |
+| user\_id              | string    | Identifier of the user                 |
+| profile\_completed    | boolean   | Flag indicating if profile is complete |
+| display\_name         | string    | Public display name                    |
+| avatar\_url           | string    | URL to avatar (optional)               |
+| bio                   | string    | Biography or description               |
+| location              | string    | Location (optional)                    |
+| contact\_email        | string    | Contact email (optional)               |
+| niche                 | string    | Influencer niche (optional)            |
+| followers             | object    | Followers counts (optional)            |
+| rate\_per\_post       | number    | Rate per post (optional)               |
+| engagement\_rate      | number    | Engagement rate (optional)             |
+| main\_audience        | string    | Main audience (optional)               |
+| languages             | string\[] | Languages spoken (optional)            |
+| social\_links         | object    | Social media links (optional)          |
+| portfolio\_urls       | string\[] | URLs to portfolio posts (optional)     |
+| previous\_experience  | string    | Previous experience (optional)         |
+| preferred\_categories | string\[] | Preferred categories (optional)        |
+| sector                | string    | Brand sector (optional)                |
+| website               | string    | Website URL (optional)                 |
+| budget\_range         | string    | Budget range (optional)                |
+| objectives            | string    | Brand objectives (optional)            |
+| contact\_name         | string    | Brand contact name (optional)          |
+| contact\_position     | string    | Brand contact position (optional)      |
+| content\_types        | string\[] | Content types desired (optional)       |
+| influencer\_types     | string\[] | Types of influencers sought (optional) |
+| campaign\_duration    | string    | Campaign duration (optional)           |
+| additional\_info      | string    | Additional info (optional)             |
 
 
 ## 4.8. Database Design
@@ -1867,10 +1891,10 @@ El diagrama  muestra el modelo relacional de entidades y sus relaciones diseñad
 
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/C1g0dQR.png[/img]" width="100%" />
+  <img src="https://i.imgur.com/cDuQjqX.png[/img]" width="100%" />
 </div> 
 
-Base de datos de InfluMatch: [Data Base de InfluMatch](https://dbdiagram.io/d/InfluMatchBD-680b30b11ca52373f54ffc23)
+Base de datos de InfluMatch: [Data Base de InfluMatch](https://dbdiagram.io/d/682549165b2fc4582faac0c7)
 
 # **Capítulo V: Product Implementation, Validation & Deployment**
 

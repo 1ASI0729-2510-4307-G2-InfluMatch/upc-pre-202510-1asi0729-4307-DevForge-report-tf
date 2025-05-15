@@ -160,18 +160,16 @@ para cada integrante del equipo:
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
+      - [Class User](#class-user)
+      - [Class Profile](#class-profile)
       - [Class InfluencerProfile](#class-influencerprofile)
-      - [Class Brand](#class-brand)
-      - [Class Campaign](#class-campaign)
-      - [Class Application](#class-application)
-      - [Class Contract](#class-contract)
-      - [Class ChatThread](#class-chatthread)
-      - [Class Message](#class-message)
-      - [Class Notification](#class-notification)
-      - [Class Evaluation](#class-evaluation)
-      - [Class CalendarEvent](#class-calendarevent)
-      - [Class MediaAsset](#class-mediaasset)
-      - [Class Category](#class-category)
+      - [Class BrandProfile](#class-brandprofile)
+      - [Class Followers](#class-followers)
+      - [Class SocialLinks](#class-sociallinks)
+      - [Class PortfolioUrls](#class-portfoliourls)
+      - [Class UserCredentials (Value Object)](#class-usercredentials-value-object)
+      - [Class NewUserVO (Value Object)](#class-newuservo-value-object)
+      - [Class ProfileVO (Value Object)](#class-profilevo-value-object)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 - [**Capítulo V: Product Implementation, Validation \& Deployment**](#capítulo-v-product-implementation-validation--deployment)
@@ -190,12 +188,12 @@ para cada integrante del equipo:
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
-    - [**5.2.2. Sprint 2**](#522-sprint-2)
+      - [**5.2.2. Sprint 2**](#522-sprint-2)
       - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
-      - [**5.2.2.2. Aspect Leaders and Collaborators**](#5221-aspect-leaders-collaborators)
-      - [**5.2.2.3. Sprint Backlog 2**](#5222-sprint-backlog-2)
-      - [**5.2.2.4. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
-      - [**5.2.2.5. Execution Evidence for Sprint Review.**](#5225execution-evidence-for-sprint-review)
+      - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
+      - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.5.Execution Evidence for Sprint Review.**](#5225execution-evidence-for-sprint-review)
       - [**5.2.2.6.Services Documentation Evidence for Sprint Review.**](#5226services-documentation-evidence-for-sprint-review)
       - [**5.2.2.7.Software Deployment Evidence for Sprint Review.**](#5227software-deployment-evidence-for-sprint-review)
       - [**5.2.2.8.Team Collaboration Insights during Sprint.**](#5228team-collaboration-insights-during-sprint)
@@ -2318,6 +2316,27 @@ En el sprint 2, se finalizó la implementación de la landing page, la cual incl
 
 #### **5.2.2.6.Services Documentation Evidence for Sprint Review.**
 
+**Endpoints**
+
+| Endpoint                                                        | Details                                                                                                                                                                                                                      |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `POST /users-register`                                          | Crea un nuevo usuario enviando un objeto `NewUserVO` (campos: `name`, `email`, `password`, `user_type`, etc.) desde `AuthService.register()`. Devuelve la entidad completa con su ID generado.                               |
+| `GET /users-register?email={email}&password={password}&limit=1` | Busca usuarios que coincidan con las credenciales para login en `AuthService.login()`. Retorna un array (máximo 1) y se usa el primer elemento para iniciar sesión y almacenar el token simulado.                            |
+| `PUT /users-register/{id}`                                      | Actualiza campos del perfil de un usuario (por ejemplo `display_name`, `bio`, `location`, `avatar_url`) enviando un `ProfileVO` desde `AuthService.updateProfile()`. Devuelve el recurso actualizado.                        |
+| `GET /users-register/{id}`                                      | Obtiene la entidad completa de un usuario por su ID en `ProfileService.getById()`. Se usa para precargar datos en el formulario de edición de perfil y en el componente `ProfileDetailComponent`.                            |
+| `GET /users-register?user_type=influencer`                      | Devuelve el listado de usuarios cuyo campo `user_type` es “influencer” vía `ProfileService.listInfluencers()`. Se utiliza para mostrar el directorio de influencers en el componente `HomeComponent` y `DashboardComponent`. |
+
+
+| Repository                | Branch     | Commit Id | Commit message                                                                                | Committed on (Date) |
+| ------------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------- | ------------------- |
+| InfluMatch-WebApplication | auth.pages | 2efc1dc   | feat(auth): implement AuthRepository with login, register, and updateProfile methods          | 15/05/2025          |
+| InfluMatch-WebApplication | auth.pages | 15bc6bc   | feat(auth): implement AuthService for user authentication and session management              | 15/05/2025          |
+| InfluMatch-WebApplication | add-domain | 09c9e1c   | feat(profile): implement ProfileDetailComponent and ProfileRepository with user data fetching | 14/05/2025          |
+| InfluMatch-WebApplication | add-domain | 2ccf719   | feat(profile): implement ProfileComponent with user data fetching and display                 | 14/05/2025          |
+| InfluMatch-WebApplication | develop    | 3df85df   | feat(theme): implement ThemeService for dark mode support and transitions                     | 15/05/2025          |
+| InfluMatch-WebApplication | develop    | 954b884   | feat(guards): implement authGuard and profileIncompleteGuard for route protection             | 15/05/2025          |
+| InfluMatch-WebApplication | develop    | 4a51e9d   | feat(environment): add production environment configuration                                   | 15/05/2025          |
+| InfluMatch-WebApplication | develop    | 611e9443  | feat(assets): add new image for step 3                                                        | 15/05/2025          |
 
 
 #### **5.2.2.7.Software Deployment Evidence for Sprint Review.**

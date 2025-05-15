@@ -463,8 +463,7 @@ Cuando al menos el 80% de las campañas gestionadas en la plataforma utilicen co
 
 Este Lean UX Canvas de **InfluMatch** ilustra de forma concisa nuestras hipótesis, las necesidades clave de marcas e influencers, las soluciones propuestas y las métricas esenciales para iterar rápidamente y validar la plataforma de manera colaborativa.
 
-**Enlace para acceder al Canvas:**  
-https://miro.com/welcomeonboard/WTJ1T2EwOVdxYndLMGhZb2tIU2I0ckNReWJ5WS8yRlU2ZjBWMDQyQWlHK085MVpuTjl0UmpJZXJkcXp5azNzOWZpRzQ3UXRFdjFSSU9zcUxObjF3R21LNXRvSTA0dU1mZktwcFNxbWdXcFF0TU8vWUhCZ2xuWWc5ODBPYzVscHBQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=286206219531  
+**Enlace para acceder al Canvas:**  [Lean Ux Canvas](https://miro.com/welcomeonboard/WTJ1T2EwOVdxYndLMGhZb2tIU2I0ckNReWJ5WS8yRlU2ZjBWMDQyQWlHK085MVpuTjl0UmpJZXJkcXp5azNzOWZpRzQ3UXRFdjFSSU9zcUxObjF3R3JxM1h3K2hGY1RVM21rSzhSYnhOWkc2Q3RYNS91cjZBdGpKR2Q4eUxiTnNhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=462831576026)
 
 ## 1.3. Segmentos objetivos.
 **Marcas y agencias de marketing digital**   

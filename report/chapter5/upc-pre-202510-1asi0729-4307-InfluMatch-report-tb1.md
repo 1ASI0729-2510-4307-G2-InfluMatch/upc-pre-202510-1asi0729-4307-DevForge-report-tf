@@ -850,8 +850,6 @@ La sección cubre el proceso de exploración de nuestros segmentos objetivos a t
 Al elegir un representante, priorizaría que su imagen esté alineada con el rubro gastronómico. Usaría redes sociales como Instagram o WhatsApp para coordinar colaboraciones y evaluaría el éxito por la visibilidad del contenido y el impacto en las ventas.
 Destaca que la creación de contenido puede ser difícil por el nivel de creatividad y análisis que requiere. Para ella, lo más valioso de una colaboración es aumentar el alcance y hacer crecer su emprendimiento.
 
-**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEB3FUKUmy_GgqIMw5mMe_YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F9IQOv
-
 **Entrevista N°2:**
 
 **Entrevistado:** Camila Sánchez
@@ -871,8 +869,6 @@ Destaca que la creación de contenido puede ser difícil por el nivel de creativ
 **Resumen de la Entrevista:** Camila Sánchez, cofundadora de P Care Solutions, una empresa  enfocada en la salud de mascotas, comentó que promocionan sus productos mediante redes sociales, colaboraciones con clínicas veterinarias e influencers en TikTok e Instagram. Seleccionan a sus colaboradores por afinidad con el mundo de las mascotas, autenticidad y alineación con los valores de la empresa.
 Utilizan hojas de cálculo y plataformas especializadas para organizar las campañas, evaluando el éxito por visualizaciones, alcance y objetivos cumplidos. Lo más difícil para ella es coordinar tiempos y encontrar perfiles adecuados. Valora especialmente la conexión con el público, la experiencia y las relaciones a largo plazo. Sugiere automatizar procesos para mejorar la gestión.
 
-**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEB3FUKUmy_GgqIMw5mMe_YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F9IQOv
-
 **Entrevista N°3:**
 
 **Entrevistado:** Gianella Cardenas
@@ -891,8 +887,6 @@ Utilizan hojas de cálculo y plataformas especializadas para organizar las campa
 
 **Resumen de la Entrevista:** Gianella Cárdenas, de 23 años, es fundadora de “Patitas Heladitas”, un emprendimiento de snacks helados para perros. Promociona su marca en Instagram y Facebook, aunque aún no ha trabajado con influencers. Planea hacerlo en el futuro, priorizando perfiles con experiencia en productos similares y afinidad con el cuidado de mascotas.
 Considera que una campaña es exitosa si genera más consultas y ventas. Destaca como reto el contacto con influencers, ya que los mensajes pueden perderse. Valora la experiencia del colaborador y propone una app que facilite la gestión de campañas.
-
-**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEB3FUKUmy_GgqIMw5mMe_YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F9IQOv
 
 
 ## Entrevista para el Segmento Objetivo 2 - Influencer:
@@ -916,7 +910,6 @@ Considera que una campaña es exitosa si genera más consultas y ventas. Destaca
 **Resumen de la Entrevista:** Diego Bastidas, estudiante de Ingeniería de Software y groomer canino, crea contenido en Instagram sobre peluquería de mascotas desde hace 1 año y medio. Ha colaborado con marcas como Mister CAM y Altu Perú, generalmente a cambio de productos. Aunque no ha firmado contratos formales, ha recibido beneficios como descuentos y productos para competencias.
 Destaca que su única mala experiencia fue con otro influencer que no cumplió con el canje acordado. Le gustaría una plataforma como Influmatch que conecte marcas con influencers de forma segura, donde se pueda verificar la legitimidad de las propuestas y evitar estafas o pagos tardíos. Valora especialmente la idea de tener un espacio tipo “LinkedIn para influencers” con perfiles, portafolios y soporte ante inconvenientes.
 
-**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEB3FUKUmy_GgqIMw5mMe_YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F9IQOv
 
 **Entrevista N°2:**
 
@@ -938,8 +931,6 @@ Destaca que su única mala experiencia fue con otro influencer que no cumplió c
 Verifica cuidadosamente la autenticidad de las propuestas y algunas marcas le proporcionan métricas para evaluar resultados (clics, alcance). Considera útil recibir más información detallada sobre el rendimiento de cada contenido.
 Apoya la idea de una plataforma tipo “LinkedIn para influencers”, que permita conectar con marcas de forma segura y segmentada, evitando estafas y facilitando colaboraciones más profesionales.
 
-**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEB3FUKUmy_GgqIMw5mMe_YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F9IQOv
-
 **Entrevista N°3:**
 
 **Entrevistado:** Sayuri Cardenas
@@ -959,7 +950,7 @@ Apoya la idea de una plataforma tipo “LinkedIn para influencers”, que permit
 **Resumen de la Entrevista:** Sayuri Cárdenas , influencer de 20 años, crea contenido en Instagram y TikTok desde hace cinco años. Ha colaborado con marcas entre 2 y 4 veces, usualmente contactada por correo. Las propuestas incluyen objetivos, tipo de contenido y suelen ir acompañadas de contrato.
 Ha tenido experiencias con pagos tardíos y propuestas sospechosas. Para medir resultados usa métricas como alcance e interacciones. Valora la transparencia de las marcas. Le parece útil una app que conecte influencers con empresas, ya que facilitaría colaboraciones seguras y rápidas.
 
-**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEB3FUKUmy_GgqIMw5mMe_YGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F9IQOv
+**LINK DE LAS ENTREVISTAS :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEBSpFbDwALwshOmVzBrZQPuQ?e=xazmZO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 2.2.3. Análisis de entrevistas
 

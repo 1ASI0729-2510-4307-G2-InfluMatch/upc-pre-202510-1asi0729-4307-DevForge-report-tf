@@ -5,7 +5,7 @@
      <p><strong>Ingeniería de Software</strong></p>
     <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
     <p><strong>Docente:</strong> Efraín Ricardo Bautista Ubillús</p>
-    <p><strong>"Informe de TB1"</strong></p>
+    <p><strong>"Informe de TB2"</strong></p>
     <p><strong>Startup:</strong> DevForge</p>
     <p><strong>Producto:</strong> InfluMatch</p>
 </div>
@@ -2168,7 +2168,7 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
   <img src="https://i.imgur.com/vutvCgq.png[/img]" width="100%" />
 </div>
 
-#### **5.2.2. Sprint 2**
+### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
 
 El Sprint #2 se inició el 10/05/2025 y como meta plantea resolver errores en la landing page, realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
@@ -2438,6 +2438,20 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/WdvWflz.png[/img]" width="100%" />
 </div>
+
+### **5.2.3. Sprint 3**
+#### **5.2.3.1. Sprint Planning 3**
+#### **5.2.3.2. Aspect Leaders and Collaborators**
+#### **5.2.3.3. Sprint Backlog 3**
+#### **5.2.3.4. Development Evidence for Sprint Review**
+#### **5.2.3.5. Execution Evidence for Sprint Review**
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+#### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+#### **5.2.3.8. Team Collaboration Insights during Sprint**
+### **5.3. Validation Interviews**
+#### **5.3.1. Diseño de Entrevistas**
+#### **5.3.2. Registro de Entrevistas**
+#### **5.3.3. Evaluaciones según heurísticas**
 
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.

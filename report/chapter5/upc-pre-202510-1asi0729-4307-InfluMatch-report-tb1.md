@@ -2450,8 +2450,22 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**
+
+## Diseño de entrevista – Primer segmento objetivo: Empresas
+1. ¿Qué te pareció tu experiencia con InfluMatch?
+2. ¿Qué aspectos cambiarías o agregarías?
+3. ¿Te pareció fácil utilizar InfluMatch?
+
+## Diseño de entrevista – Segundo segmento objetivo: Influencers
+1. ¿Usas alguna otra aplicación para interactuar con otras compañías?
+2. ¿Cómo evaluaste la experiencia con InfluMatch?
+3. ¿Qué cambios o adiciones sugerirías?
+
 #### **5.3.2. Registro de Entrevistas**
+
 #### **5.3.3. Evaluaciones según heurísticas**
+
+### **5.4. Video About-the-Product**
 
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.

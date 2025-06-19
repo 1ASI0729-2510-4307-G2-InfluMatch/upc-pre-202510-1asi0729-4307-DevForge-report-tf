@@ -2171,14 +2171,20 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 ### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
 
-El Sprint #2 se inició el 10/05/2025 y como meta plantea resolver errores en la landing page, realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
-| **Sprint |    Date    |  Time  | Location                       |         Prepared By           |      Attendees**      |
-| :-----: | :--------: | :----: | :----------------------------: | :---------------------------: | :-------------------: |
-|    2    | 10/05/2025 | 09:00 AM |  Reunión virtual mediante la aplicación Discord  | Fabrizzio Pereira | Irving W. Allcca Guerrero, Sebastián M. Escobar Palomino, Nelson F. Pereira Vásquez, Luis S. Rubio Ortiz |
-
-| Sprint 2 Goal | Sprint 2 Velocity | Sum of Story Points |
-| :-----------: | :---------------: | :-----------------: |
-| Se busca resolver problemas y errores con el landing page, realizar el front end y fake API de la web application de manera que se logre ver atractiva y funcional. |         42         |          42         |
+| Sprint # | Sprint 2 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-05-10 |
+| **Time** | 09:00 AM |
+| **Location** | Discord meeting |
+| **Prepared by** | Fabrizzio Pereira |
+| **Attendees (to planning meeting)** | Irving W. Allcca Guerrero, Sebastián M. Escobar Palomino, Nelson F. Pereira Vásquez, Luis S. Rubio Ortiz. |
+| **Sprint 2 Review Summary** | Nuestro trabajo ha tenido algunos erroes como en cuadros y algunos diagramas que no se han desarrollado, pero se recibió la retroalimentación correspondiente. |
+| **Sprint 2 Retrospective Summary** | Teniendo en cuenta las recomendaciones del profesor, ahora se busca que se mejore el trabajo y que se empiece con el desarrollo del frontend |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** | Se busca resolver problemas y errores con el landing page, realizar el front end y fake API de la web application de manera que se logre ver atractiva y funcional. |
+| **Sprint 2 Velocity** | 42 |
+| **Sum of Story Points** | 42 |
 
 #### **5.2.2.2. Sprint Backlog 2**
 
@@ -2460,6 +2466,9 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 #### **5.2.3.3. Sprint Backlog 3**
+
+
+
 #### **5.2.3.4. Development Evidence for Sprint Review**
 #### **5.2.3.5. Execution Evidence for Sprint Review**
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**

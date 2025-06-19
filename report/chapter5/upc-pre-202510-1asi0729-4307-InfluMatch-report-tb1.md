@@ -2462,6 +2462,122 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 3. ¿Qué cambios o adiciones sugerirías?
 
 #### **5.3.2. Registro de Entrevistas**
+## Entrevista para el Segmento Objetivo 1 - Empresas :
+
+**Entrevista N°1:**
+
+**Entrevistado:** Daniela Basurto
+
+**Sexo:** Femenino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 0:00
+
+**Fin de la Entrevista:** 7:09
+
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/c6iWHJd.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Daniela Basurto Díaz, una emprendedora de 21 años que se dedica a la venta de comida para mascotas, considera que "Influmach" es una excelente idea. Ve en esta plataforma una solución a la dificultad que enfrentan las marcas pequeñas para encontrar buenos influencers en redes sociales. Sin embargo, sugiere incluir un sistema de calificación de 1 a 5 estrellas entre marcas e influencers para mejorar la interacción y confianza.
+
+**Entrevista N°2:**
+
+**Entrevistado:** Camila Sánchez
+
+**Sexo:** Femenino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 7:10
+
+**Fin de la Entrevista:** 14:32
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/WNfG6Fu.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Camila Sánchez, dueño de una tienda de costematicos, ve con buenos ojos la plataforma "Influmach", ya que representa una gran oportunidad para expandir el alcance de su tienda. Propone que se agregue la capacidad de segmentar el público de acuerdo con el tipo de mascota o ubicación geográfica, para llegar de manera más precisa a los clientes ideales.
+
+**Entrevista N°3:**
+
+**Entrevistado:** Gianella Cardenas
+
+**Sexo:** Femenino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 14:36
+
+**Fin de la Entrevista:** 20:12
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/fmhyPri.png[/img]" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Gianella Cárdenas, de 23 años, es fundadora de “Patitas Heladitas”, un emprendimiento de snacks helados para perros.Valora la plataforma como una excelente herramienta para marcas emergentes que necesitan publicidad de calidad sin depender de grandes agencias. Propone que los influencers tengan acceso a las campañas previas de las marcas, lo que les permitiría evaluar si las campañas se alinean con sus seguidores antes de aceptar colaborar.
+
+## Entrevista para el Segmento Objetivo 2 - Influencer:
+
+**Entrevista N°1:**
+
+**Entrevistado:** Diego Bastidas
+
+**Sexo:** Masculino
+
+**Edad:** 23 años
+
+**Inicio de la Entrevista:** 20:13
+
+**Fin de la Entrevista:** 25:02
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/Nw9NVVk.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Diego Bastidas, estudiante de Ingeniería de Software y groomer canino, crea contenido en Instagram sobre peluquería de mascotas desde hace 1 año y medio. Considera que "Influmach" facilitaría mucho encontrar influencers con el perfil adecuado para sus productos. Sin embargo, sugiere mejorar el sistema de filtros para que sea más fácil encontrar influencers con los criterios específicos necesarios para cada campaña.
+
+
+**Entrevista N°2:**
+
+**Entrevistado:** Sebastian Silva
+
+**Sexo:** Masculino
+
+**Edad:** 21 años
+
+**Inicio de la Entrevista:** 25:03
+
+**Fin de la Entrevista:** 30:39
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/kY2fqDg.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Sebastian Silva es estudiante de Ingeniería de Software y creador de contenido desde hace 5 años, centrado en videos de videojuegos y tutoriales. Principalmente usa YouTube y Twitter, opina que "Influmach" tiene gran potencial para ayudar a las marcas a llegar a un público objetivo mediante publicidad digital. Sugeriría la opción de crear campañas personalizadas basadas en las metas de cada marca, ya sea aumentar ventas o generar interacción con la audiencia.
+
+**Entrevista N°3:**
+
+**Entrevistado:** Sayuri Cardenas
+
+**Sexo:** Femenino
+
+**Edad:** 20 años
+
+**Inicio de la Entrevista:** 30:41
+
+**Fin de la Entrevista:** 35:21
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/NcuoIqR.png" width="90%" />
+</div>
+
+**Resumen de la Entrevista:** Sayuri Cárdenas , influencer de 20 años, crea contenido en Instagram y TikTok desde hace cinco años. Ve en "Influmach" una herramienta valiosa para ayudar a pequeños negocios a crecer. Sugiere que se permita a los influencers compartir casos de éxito de las marcas con las que han trabajado, lo cual podría generar mayor confianza y credibilidad tanto para marcas como para los influencers.
+
+**LINK DE LAS ENTREVISTAS :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/ERQbiiOJ3GhGgFj-4rWsdJkBA1dN8V6-EJ0SrTzvYQvFJg?e=YgIjqF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 #### **5.3.3. Evaluaciones según heurísticas**
 

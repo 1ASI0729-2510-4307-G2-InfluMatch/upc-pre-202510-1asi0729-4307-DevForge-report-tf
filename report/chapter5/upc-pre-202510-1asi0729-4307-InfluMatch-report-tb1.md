@@ -2447,7 +2447,14 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 #### **5.2.3.5. Execution Evidence for Sprint Review**
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
+<img src="https://imgur.com/a/CdZsQ7x[/img]" width="100%" />
+<img src="https://imgur.com/a/s7MhuLa[/img]" width="100%" />
+<img src="https://imgur.com/a/nuecEbe[/img]" width="100%" />
+<img src="https://imgur.com/a/Tp1e49H/img]" width="100%" />
+<img src="https://imgur.com/a/qWfKJO4[/img]" width="100%" />
+
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**
 

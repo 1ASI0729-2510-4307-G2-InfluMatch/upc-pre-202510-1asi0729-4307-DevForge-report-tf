@@ -2441,6 +2441,23 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 ### **5.2.3. Sprint 3**
 #### **5.2.3.1. Sprint Planning 3**
+
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-06-03 |
+| **Time** | 09:56 PM |
+|  |  |
+| **Location** | Discord meeting |
+| **Prepared by** | Sebastian Escobar |
+| **Attendees (to planning meeting)** | Irving Allcca, Frabrizzio Pereira, Sebastian Escobar, Sebastián Rubio, Jesus Millones |
+| **Sprint 3 Review Summary** | Con respecto al anterior sprint, logramos con éxito las metas propuestas, mostrar el avance de nuestro frontend y corregir los errores previos. |
+| **Sprint 3 Retrospective Summary** | Sabemos que con respecto a nuestro desempeño en la anterior entrega fue buena pero reconocemos que puede hacerse un mejor trabajo y más organizado. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 3 Goal** | En esta entrega se busca terminar con el desarrollo del frontend, así mismo con realizar el desarrollo de la parte del backend. |
+| **Sprint 3 Velocity** |  |
+| **Sum of Story Points** |  |
+
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 #### **5.2.3.3. Sprint Backlog 3**
 #### **5.2.3.4. Development Evidence for Sprint Review**

@@ -73,9 +73,9 @@ URL del repositorio para el reporte del proyecto: (Github): [InfluMatch](https:/
 
 
 
-**TB1**
+**TB2**
 
-Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
+Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma
 para cada integrante del equipo:
 
 

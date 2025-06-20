@@ -2492,16 +2492,58 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 
 #### **5.2.3.4. Development Evidence for Sprint Review**
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [InfluMatch <br> BackEnd](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-BackEnd/tree/main) | main | 6b08981| feat(entities): add Dialog and Message with repositories
+ |  | 30/05/2025 |
+| BackEnd | dev/test | c072f9c|feat(api): add pagination and filtering capabilities to Influencer management API endpoints |  | 31/05/2025|
+| BackEnd | main| 199915a |feat(auth): add user profile check during login and update LoginResponse to include profile status|  | 08/06/2025|
+
 #### **5.2.3.5. Execution Evidence for Sprint Review**
+En este sprint, el equipo de *InfluMatch* implementó y desplegó con éxito la API Backend en Azure Web Services, utilizando PostgreSQL for Azure como base de datos, garantizando un entorno seguro y escalable para gestionar los datos de marcas, influencers y campañas.
+
+Además, se lanzó una nueva versión de la landing page y del frontend, mejorando la experiencia del usuario y habilitando funcionalidades clave, como la creación y gestión de perfiles de marcas e influencers. También se incluyeron videos informativos sobre el producto y el equipo.
+
+La API del backend está documentada en Swagger, facilitando el acceso a los endpoints para el equipo de desarrollo y colaboradores futuros.
+
+**Enlace a la documentación de la API en Swagger:**
+**LINK DEL BACKEND:** [BACKEND]()
+
+**LINK DEL FRONTED:** [FRONTED]()
+
+**LINK DEL LANDING PAGE:** [LANDING PAGE](https://calm-bush-0d063da10.6.azurestaticapps.net/)
+
+**Swagger UI**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/hmKSv6v.jpeg" />
+</div>
+
+**VIDEO ABOUT THE PRODUCT**
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/VrCmfox.png" />
+</div>
+
+**VIDEO ABOUT THE TEAM**
+
+
+Este despliegue establece una base robusta para el funcionamiento de *InfluMatch*, dejando el backend, el frontend y la landing page preparados para futuras integraciones y escalabilidad a medida que el proyecto crezca y sus necesidades evolucionen.
+
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+En el Sprint 3 de *InfluMatch*, se priorizó el desarrollo y despliegue de la API Backend en Azure Web Services, además de agregar nuevas funcionalidades a la aplicación. Se documentaron los servicios web utilizando Swagger, facilitando el acceso a la API y la comprensión de los endpoints disponibles para desarrolladores y colaboradores.
+
+La documentación incluye:
+
+- Descripción de los endpoints para gestionar perfiles de Empresas e influencers.
+- Detalles de operaciones como búsqueda, filtrado y visualización de perfiles, y gestión de campañas previas.
+- Ejemplos de solicitudes y respuestas para integrar el frontend, como búsqueda por nombre o filtro por red social y reputación.
+
+Este enfoque mejora la comprensión del backend y asegura que el equipo comparta un entendimiento común de la API, lo cual es clave para el avance y colaboración en *InfluMatch*. Con la documentación completa, el equipo está listo para seguir con las próximas fases de desarrollo e integración de nuevas características.
+
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
-<img src="https://imgur.com/a/CdZsQ7x" width="100%" />
-<img src="https://imgur.com/a/s7MhuLa" width="100%" />
-<img src="https://imgur.com/a/nuecEbe" width="100%" />
-<img src="https://imgur.com/a/Tp1e49H" width="100%" />
-<img src="https://imgur.com/a/qWfKJO4" width="100%" />
 
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**

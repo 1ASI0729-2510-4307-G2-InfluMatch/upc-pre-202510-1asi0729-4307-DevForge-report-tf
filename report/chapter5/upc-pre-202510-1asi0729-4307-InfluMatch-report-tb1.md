@@ -2507,6 +2507,7 @@ Además, se lanzó una nueva versión de la landing page y del frontend, mejoran
 La API del backend está documentada en Swagger, facilitando el acceso a los endpoints para el equipo de desarrollo y colaboradores futuros.
 
 **Enlace a la documentación de la API en Swagger:**
+
 **LINK DEL BACKEND:** [BACKEND]()
 
 **LINK DEL FRONTED:** [FRONTED]()

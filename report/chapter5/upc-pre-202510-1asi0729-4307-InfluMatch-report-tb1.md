@@ -2643,7 +2643,77 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 | **Desktop Web Applications** | - Mostrar la información almacenada en el sistema <br> - Header y footer operativos <br> - Pestañas de navegación dentro de la app <br> - Botones interactivos y fáciles de usar <br> - Visualización de elementos relacionados
 | **No incluidas en esta versión de la evaluación** | - Desktop Web Applications <br> - La estructura DDD está cumplida al 90% en el frontend, con una clara separación de responsabilidades y alineación de la lógica de negocio con el dominio. Sin embargo, aún podría mejorar la integración de algunos aspectos complejos del dominio en la interfaz. 
 
-ESCALA DE SEVERIDAD:
+## ESCALA DE SEVERIDAD:
+
+Los errores serán evaluados según la siguiente escala de severidad:
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+**TABLA RESUMEN AMBOS SEGMENTOS:**
+
+**Landing Page**
+
+|#|Problema|Escala de severidad|Heurística/Principio violado|
+| :- | :- | :- | :- |
+|1||1|IA - Is it clear?|
+|2||1|IA - Is it usable?|
+|3||1|Usability - Consistency and standards|
+
+**Web Application**
+
+|#|Problema|Escala de severidad|Heurística/Principio violado|
+| :- | :- | :- | :- |
+|1||1|IA - Is it clear?|
+|2||1|IA - Is it findable?|
+|3||1|Usability - Consistency and standards|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**Landing Page**
+
+1. **Problema #1:**
+   - **Severidad**: 1  
+   - **Heurística violada**: IA - Is it clear?  
+   - **Descripción**: La información sobre la aplicación no es suficientemente clara.  
+   - **Recomendación**: Mejorar la claridad de la descripción.
+
+2. **Problema #2:**
+   - **Severidad**: 1  
+   - **Heurística violada**: IA - Is it usable?  
+   - **Descripción**: La navegación no es completamente intuitiva.  
+   - **Recomendación**: Optimizar la accesibilidad de la información.
+
+3. **Problema #3:**
+   - **Severidad**: 1  
+   - **Heurística violada**: Usability - Consistency and standards  
+   - **Descripción**: Inconsistencias en el diseño de la página.  
+   - **Recomendación**: Establecer directrices de diseño consistentes.
+
+**Web Application**
+
+1. **Problema #1:**
+   - **Severidad**: 1  
+   - **Heurística violada**: IA - Is it clear?  
+   - **Descripción**: La información del sistema no es clara.  
+   - **Recomendación**: Mejorar la presentación de la información.
+
+2. **Problema #2:**
+   - **Severidad**: 1  
+   - **Heurística violada**: IA - Is it findable?  
+   - **Descripción**: Elementos difíciles de localizar.  
+   - **Recomendación**: Optimizar la navegación para facilitar el acceso.
+
+3. **Problema #3:**
+   - **Severidad**: 1  
+   - **Heurística violada**: Usability - Consistency and standards  
+   - **Descripción**: Falta de consistencia en la interfaz.  
+   - **Recomendación**: Asegurar coherencia en el diseño.
 
 
 ### **5.4. Video About-the-Product**

@@ -2636,6 +2636,16 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 #### **5.3.3. Evaluaciones según heurísticas**
 
+| **Site o App a Evaluar** | InfluMatch |
+| :- | :- |
+| **Tareas a evaluar** | Esta evaluación abarca el análisis de la usabilidad de las siguientes tareas. |
+| **Desktop landing page** | - Detalles y descripción de la aplicación y sus características  <br> - Información y breve presentación del equipo de trabajo  <br> - Presentación de testimonios  <br> - Header y footer operativos |
+| **Desktop Web Applications** | - Mostrar la información almacenada en el sistema <br> - Header y footer operativos <br> - Pestañas de navegación dentro de la app <br> - Botones interactivos y fáciles de usar <br> - Visualización de elementos relacionados
+| **No incluidas en esta versión de la evaluación** | - Desktop Web Applications <br> - La estructura DDD está cumplida al 90% en el frontend, con una clara separación de responsabilidades y alineación de la lógica de negocio con el dominio. Sin embargo, aún podría mejorar la integración de algunos aspectos complejos del dominio en la interfaz. 
+
+ESCALA DE SEVERIDAD:
+
+
 ### **5.4. Video About-the-Product**
 
 En este video, presentamos InfluMatch, una plataforma web que conecta marcas e influencers para gestionar y optimizar campañas de marketing de influencia. Usando inteligencia artificial e IoT, la plataforma hace que las campañas sean más eficientes, transparentes y medibles.

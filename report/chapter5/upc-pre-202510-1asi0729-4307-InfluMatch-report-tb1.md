@@ -2504,6 +2504,8 @@ En este sprint, el equipo de *InfluMatch* implementó y desplegó con éxito la 
 
 Además, se lanzó una nueva versión de la landing page y del frontend, mejorando la experiencia del usuario y habilitando funcionalidades clave, como la creación y gestión de perfiles de marcas e influencers. También se incluyeron videos informativos sobre el producto y el equipo.
 
+Este despliegue establece una base robusta para el funcionamiento de *InfluMatch*, dejando el backend, el frontend y la landing page preparados para futuras integraciones y escalabilidad a medida que el proyecto crezca y sus necesidades evolucionen.
+
 La API del backend está documentada en Swagger, facilitando el acceso a los endpoints para el equipo de desarrollo y colaboradores futuros.
 
 **Enlace a la documentación de la API en Swagger:**
@@ -2527,9 +2529,6 @@ La API del backend está documentada en Swagger, facilitando el acceso a los end
 </div>
 
 **VIDEO ABOUT THE TEAM**
-
-
-Este despliegue establece una base robusta para el funcionamiento de *InfluMatch*, dejando el backend, el frontend y la landing page preparados para futuras integraciones y escalabilidad a medida que el proyecto crezca y sus necesidades evolucionen.
 
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**
 En el Sprint 3 de *InfluMatch*, se priorizó el desarrollo y despliegue de la API Backend en Azure Web Services, además de agregar nuevas funcionalidades a la aplicación. Se documentaron los servicios web utilizando Swagger, facilitando el acceso a la API y la comprensión de los endpoints disponibles para desarrolladores y colaboradores.

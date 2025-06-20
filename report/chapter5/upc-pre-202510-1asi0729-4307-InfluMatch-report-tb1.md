@@ -2638,6 +2638,27 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 ### **5.4. Video About-the-Product**
 
+En este video, presentamos InfluMatch, una plataforma web que conecta marcas e influencers para gestionar y optimizar campañas de marketing de influencia. Usando inteligencia artificial e IoT, la plataforma hace que las campañas sean más eficientes, transparentes y medibles.
+
+Dirigida a marcas de todos los tamaños y a influencers de diversos niveles, InfluMatch centraliza la gestión de colaboraciones, automatizando la validación, contratación, monitoreo y evaluación del impacto de cada campaña.
+
+El video resalta las principales funcionalidades de la aplicación, incluyendo:
+
+1. **Landing Page y Navegación**  
+   La página principal incluye información sobre cómo funciona la aplicación, casos de éxito, planes (mensuales o anuales) y un apartado de contactos. También tiene un área de preguntas frecuentes y opciones para cambiar entre modo claro y oscuro, así como internacionalización.
+
+2. **Creación de Perfil**  
+   Los usuarios pueden registrarse como influencers o empresas, completando su perfil con detalles como nombre, ubicación, seguidores, tarifas, y categorías de interés. Los influencers pueden agregar información sobre su audiencia y compartir sus redes sociales.
+
+3. **Gestión de Campañas**  
+   Los influencers pueden ver las marcas con las que pueden colaborar, contactar directamente a las empresas y acceder a herramientas de análisis de campañas, visualizando métricas como el rendimiento y las ganancias generadas.
+
+4. **Funciones para Empresas**  
+   Las empresas pueden crear su perfil, especificar el tipo de influencer que buscan, establecer presupuestos y gestionar campañas. Además, pueden contactar directamente con los influencers y analizar el rendimiento de las campañas.
+   
+**LINK DEl About the Product:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EfSjNZ5kcEJEt0xJGTBYO5IBf0f9k4x7IJH5HsFOUDOY6A?e=UhgY6S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+   
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
 

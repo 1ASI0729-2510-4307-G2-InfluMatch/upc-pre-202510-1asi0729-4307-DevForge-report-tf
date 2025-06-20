@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Informe del TB1</h1>
+ <h1>Informe del TB2</h1>
     <h2>Universidad Peruana de Ciencias Aplicadas</h2>
     <img src="https://i.imgur.com/jMFBvq1.png[/img]" alt="Logo de UPC" >
      <p><strong>Ingeniería de Software</strong></p>

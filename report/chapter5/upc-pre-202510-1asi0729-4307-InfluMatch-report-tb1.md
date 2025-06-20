@@ -2476,6 +2476,11 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 
 #### **5.2.3.3. Sprint Backlog 3**
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/lF7g9Kq.png[/img]" width="100%" />
+</div>
+**Link del Trello:** [TRELLO](https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e43b9a98607f10ea4825bead4d995F05EA73/sprint-2)
+
 | User Story Id | User Story Title                              | Task Id | Task Title                         | Description                                                                                                         | Estimation (Horas) | Assigned To                       | Status |
 | ------------- | --------------------------------------------- | ------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------ |
 | US10          | Registro de nuevo usuario                     | TK21    | Añadir más información             | Implementar la función que permite añadir imagenes y enlaces referentes a tu marca/empresa.                         | 3                  | Sebastian Matias Escobar Palomino | Done   |

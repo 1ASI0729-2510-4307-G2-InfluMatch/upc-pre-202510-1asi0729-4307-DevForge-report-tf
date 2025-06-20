@@ -2656,7 +2656,7 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 4. **Funciones para Empresas**  
    Las empresas pueden crear su perfil, especificar el tipo de influencer que buscan, establecer presupuestos y gestionar campañas. Además, pueden contactar directamente con los influencers y analizar el rendimiento de las campañas.
    
-**LINK DEl About the Product:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EfSjNZ5kcEJEt0xJGTBYO5IBf0f9k4x7IJH5HsFOUDOY6A?e=UhgY6S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**LINK DEL ABOUT THE PRODUCT:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EfSjNZ5kcEJEt0xJGTBYO5IBf0f9k4x7IJH5HsFOUDOY6A?e=UhgY6S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
    
 #### **Avance de Conclusiones**

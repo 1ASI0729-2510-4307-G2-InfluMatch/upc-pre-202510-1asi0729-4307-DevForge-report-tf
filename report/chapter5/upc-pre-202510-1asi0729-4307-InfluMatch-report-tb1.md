@@ -2507,8 +2507,8 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 | **Sprint 3 Retrospective Summary** | Sabemos que con respecto a nuestro desempeño en la anterior entrega fue buena pero reconocemos que puede hacerse un mejor trabajo y más organizado. |
 | **Sprint Goal & User Stories** |  |
 | **Sprint 3 Goal** | En esta entrega se busca terminar con el desarrollo del frontend, así mismo con realizar el desarrollo de la parte del backend. |
-| **Sprint 3 Velocity** |  |
-| **Sum of Story Points** |  |
+| **Sprint 3 Velocity** | 42 |
+| **Sum of Story Points** | 42 |
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 

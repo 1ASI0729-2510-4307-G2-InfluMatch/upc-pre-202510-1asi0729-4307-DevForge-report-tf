@@ -2552,7 +2552,15 @@ Este enfoque mejora la comprensión del backend y asegura que el equipo comparta
 
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
+
+
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+<img src="https://i.imgur.com/7XyWHDB.png" />
+<img src="https://i.imgur.com/Z80FeXi.png" />
+<img src="https://i.imgur.com/ZOblSBa.png" />
+<img src="https://i.imgur.com/GlmmvDX.png" />
+<img src="https://i.imgur.com/xOOtYWS.png" />
 
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**

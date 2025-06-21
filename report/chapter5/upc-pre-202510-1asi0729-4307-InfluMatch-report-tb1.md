@@ -2551,7 +2551,14 @@ La documentación incluye:
 Este enfoque mejora la comprensión del backend y asegura que el equipo comparta un entendimiento común de la API, lo cual es clave para el avance y colaboración en *InfluMatch*. Con la documentación completa, el equipo está listo para seguir con las próximas fases de desarrollo e integración de nuevas características.
 
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+Se adjunta evidencia del deploy del backend, incluyendo el link: https://influmatch-api.azurewebsites.net/swagger-ui/index.html
 
+Captura del deploy del backend swagger:
+
+<img src="https://i.imgur.com/Hz05oKX.png" />
+<img src="https://i.imgur.com/WqmoFVZ.png" />
+<img src="https://i.imgur.com/bXaM2vi.png" />
+<img src="https://i.imgur.com/gnXSTJa.png" />
 
 
 #### **5.2.3.8. Team Collaboration Insights during Sprint**

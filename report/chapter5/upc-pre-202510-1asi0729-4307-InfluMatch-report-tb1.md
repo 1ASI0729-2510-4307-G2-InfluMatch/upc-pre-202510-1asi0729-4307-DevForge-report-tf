@@ -2757,7 +2757,7 @@ La API del backend está documentada en Swagger, facilitando el acceso a los end
 
 **LINK DEL BACKEND:** [BACKEND](https://influmatch-api.azurewebsites.net/swagger-ui/index.html)
 
-**LINK DEL FRONTED:** [FRONTED]()
+**LINK DEL FRONTED:** [FRONTED](https://happy-stone-091814410.6.azurestaticapps.net/)
 
 **LINK DEL LANDING PAGE:** [LANDING PAGE](https://calm-bush-0d063da10.6.azurestaticapps.net/)
 
@@ -3056,6 +3056,12 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 
 - Se integró la funcionalidad de búsqueda avanzada, facilitando a los usuarios la localización eficiente de influencers según criterios específicos.
 
+- Durante el Sprint 3 de InfluMatch, el equipo desarrolló y optimizó funciones clave, como los perfiles de usuarios, inicio de sesión, mensajería entre empresarios e influencers, y la gestión de solicitudes. Estas mejoras han incrementado la eficiencia y usabilidad de la plataforma, facilitando la interacción entre las partes involucradas.
+
+- La colaboración entre los miembros del equipo fue crucial para cumplir con los objetivos del Sprint. Utilizando herramientas como Trello para gestionar tareas y Figma para el diseño de interfaces, se mantuvo una organización eficiente y un seguimiento detallado del progreso, lo que permitió alcanzar las metas establecidas.
+
+- Este desarrollo ha establecido una base sólida para la escalabilidad futura de InfluMatch, asegurando su crecimiento en las próximas etapas.
+
 #### **Bibliografia**
 1. Aglowid IT Solutions. (2024). **Top 12 Angular best practices to adapt in 2024**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
 2. C# Corner. (2024). **Using trackBy with ngFor to optimize rendering**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
@@ -3071,7 +3077,7 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 #### **Anexo**
 1. **Despliegue del Landing Page:** [Landing Page](https://calm-bush-0d063da10.6.azurestaticapps.net/)
 2. **Despliegue de la App Web:** [App Web](https://happy-stone-091814410.6.azurestaticapps.net/)
-3. **Despliegue del Backend:** [Backend]()
+3. **Despliegue del Backend:** [Backend](https://influmatch-api.azurewebsites.net/swagger-ui/index.html)
 4. **Despliegue de la Landing Page con la App Web:** [App Web](https://calm-bush-0d063da10.6.azurestaticapps.net/)
 5. **Figma con los User Flow Diagrams, wireframes y mockups de la landing page:** [Figma](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=eJkhI7HPhy6idLZb-1)
 

@@ -1732,19 +1732,43 @@ En el diagrama de contenedores se muestra en alto nivel las relaciones entre la 
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-Los diagramas de componentes muestran las relaciones de los componentes principales de nuestro sistema (Pagos/suscripciones y match entre influencer/empresa)
+En esta sección, describimos la arquitectura de los componentes dentro del sistema, enfocándonos en cómo cada uno de ellos se comunica e integra con otros módulos. Los diagramas proporcionados a continuación ofrecen una representación visual de cada componente y sus interacciones.
 
-Subscription Bounded Context
+1. **Componentes Compartidos**  
+   El diagrama de componentes compartidos muestra las utilidades y modelos fundamentales que se utilizan a través de múltiples módulos dentro de la plataforma. Destaca cómo estos componentes compartidos, como los modelos de dominio y las utilidades de seguridad, interactúan con otros componentes del sistema para proporcionar funcionalidades fundamentales como el manejo de eventos, el almacenamiento de datos y la seguridad.  
+   
+   ![Diagrama de Componentes Compartidos](https://imgur.com/nInJYJD.png)
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/s7Aye8x.png[/img]" width="100%" />
-</div>
+2. **Gestión de Perfiles**  
+   El módulo de Gestión de Perfiles es responsable de gestionar los perfiles de los usuarios, incluidos los influencers y marcas. Se encarga de operaciones como la creación, actualización y validación de perfiles, asegurando una gestión de datos segura y precisa. Este componente interactúa con la base de datos para almacenar los datos del perfil e integra con el módulo de autenticación para la validación.  
+   
+   ![Diagrama de Componentes de Perfiles](https://imgur.com/6bpL4e6.png)
 
-Matching Bounded Context
+3. **Dashboard y Análisis**  
+   El módulo de Dashboard y Análisis proporciona información valiosa sobre los datos de la plataforma, ofreciendo a los usuarios análisis estadísticos y métricas de rendimiento. Se comunica con otros módulos como Gestión de Perfiles y Gestión de Colaboraciones para recopilar los datos relevantes y mostrarlos a través de paneles interactivos. El flujo de datos involucra consultar y procesar datos para generar análisis significativos.  
+   
+   ![Diagrama de Componentes de Dashboard](https://imgur.com/IZDgX8D.png)
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/FRrr2O0.png[/img]" width="100%" />
+4. **Gestión de Colaboraciones**  
+   El módulo de Gestión de Colaboraciones permite la colaboración entre influencers y marcas. Maneja el ciclo de vida de las colaboraciones, desde la creación hasta el monitoreo y la finalización de las asociaciones. Este componente interactúa con los módulos de Gestión de Perfiles y Base de Datos para garantizar una correcta gestión y actualización de los datos.  
+   
+   ![Diagrama de Componentes de Colaboraciones](https://imgur.com/YHwmWNp.png)
+
+5. **Sistema de Mensajería**  
+   El componente del Sistema de Mensajería maneja toda la comunicación entre los usuarios. Proporciona una forma segura y eficiente de enviar, recibir y almacenar mensajes. Este sistema trabaja estrechamente con el módulo de Gestión de Perfiles para la verificación de usuarios y con la base de datos para el almacenamiento de mensajes.  
+   
+   ![Diagrama de Componentes de Mensajería](https://imgur.com/nw9PC8n.png)
+
+6. **Autenticación y Autorización**  
+   El módulo de Autenticación y Autorización es responsable de asegurar el acceso a la plataforma. Maneja el inicio de sesión de los usuarios, el registro y la gestión de tokens. El sistema garantiza que cada usuario sea validado y autorizado antes de acceder a las funcionalidades sensibles de la plataforma. Este componente interactúa con el módulo de Gestión de Perfiles y utiliza JWT para una gestión segura de sesiones.  
+  
+ <div style="text-align: center;">
+  <img src="https://imgur.com/nmAZBFE.png" width="100%" />
 </div> 
+ 
+Cada uno de estos componentes juega un papel vital en la funcionalidad y la integridad de la plataforma, garantizando una experiencia fluida y segura para todos los usuarios. Las interacciones entre estos componentes forman la columna vertebral de la arquitectura del sistema, permitiendo un flujo de datos eficiente y una gestión de usuarios en las diferentes funcionalidades.
+
+
 
 ## 4.7. Software Object-Oriented Design
 

@@ -2739,8 +2739,7 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 #### **5.2.3.4. Development Evidence for Sprint Review**
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [InfluMatch <br> BackEnd](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-BackEnd/tree/main) | main | 6b08981| feat(entities): add Dialog and Message with repositories
- |  | 30/05/2025 |
+| [InfluMatch <br> BackEnd](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-BackEnd/tree/main) | main | 6b08981| feat(entities): add Dialog and Message with repositories | |30/05/2025| 
 | BackEnd | dev/test | c072f9c|feat(api): add pagination and filtering capabilities to Influencer management API endpoints |  | 31/05/2025|
 | BackEnd | main| 199915a |feat(auth): add user profile check during login and update LoginResponse to include profile status|  | 08/06/2025|
 

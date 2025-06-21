@@ -42,6 +42,10 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
                 <td style="border: 1px solid ;">Sebastian Matias Escobar Palomino</td>
                 <td style="border: 1px solid ;">u202125968</td>
             </tr>
+            <tr>
+                <td style="border: 1px solid ;">Jesús Andrés Millones Espinoza</td>
+                <td style="border: 1px solid ;">u20211b598</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -65,8 +69,13 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
 | **2.2** | 24/04/2025 | Nelson F. Pereira Vásquez, Daniel E. Rodríguez Aguilar                                                                                | Finalización de **Capítulo IV**: fully documented mock-ups y diagramas de flujos; revisión de estilo y estructura.                                                                                                                   |
 | **2.3** | 25/04/2025 | Irving W. Allcca Guerrero, Sebastián M. Escobar Palomino                                                                              | Incorporación de feedback, ajustes en diagramas UML y UI; se pone en marcha **Capítulo V: Product Implementation**, configurando entorno de desarrollo y SCM (5.1.1 a 5.1.3).                                                        |
 | **2.4** | 25/04/2025 | Sebastián M. Escobar Palomino                                                                                                         | Implementación del Software Deployment Configuration (5.1.4).                                                                                                                                                                   |
-| **3.0** | 26/04/2025 | Sebastián M. Escobar Palomino, Luis S. Rubio Ortiz                                                                                    | Incorporación del Sprint Planning 1 y el Development Evidence for Sprint Review (5.2.1 ).                                                                                                                                       |
-| **3.1** | 26/04/2025 | Sebastián M. Escobar Palomino, Luis S. Rubio Ortiz, Nelson F. Pereira Vásquez, Daniel E. Rodríguez Aguilar                            | Desarrollo del Sprint 1 (5.2.1.3 a 5.2.1.6 ).                                                                                                                                       |
+| **2.5** | 26/04/2025 | Sebastián M. Escobar Palomino, Luis S. Rubio Ortiz                                                                                    | Incorporación del Sprint Planning 1 y el Development Evidence for Sprint Review (5.2.1 ).                                                                                                                                       |
+| **2.6** | 26/04/2025 | Sebastián M. Escobar Palomino, Luis S. Rubio Ortiz, Nelson F. Pereira Vásquez, Daniel E. Rodríguez Aguilar                            | Desarrollo del Sprint 1 (5.2.1.3 a 5.2.1.6 ).                                                                                                                                       |
+| **2.7** | 14/05/2025 | Luis S. Rubio Ortiz, Nelson F. Pereira Vásquez                             | Realización del Sprint 2 Planning y el Development Evidence para el Sprint Review  (5.2.1.3 a 5.2.1.6 ).                                                                                                                                        |
+| **2.8** | 15/05/2025 | 	Luis S. Rubio Ortiz, Nelson F. Pereira                            | Realización del Sprint 2 Planning, Sprint Backlog y evidencias de desarrollo para el Sprint Review (5.2.2.1 a 5.2.2.3).                                                                                                                                       |
+| **2.9** | 15/05/2025 | Sebastián M. Escobar Palomino, Daniel E. Rodríguez Aguilar, Luis S. Rubio Ortiz                            | Finalización del Sprint 2: testing suite, ejecución, documentación de servicios y despliegue de software (5.2.2.4 a 5.2.2.7). Incorporación de Team Collaboration Insights del Sprint 2 (5.2.2.8)                                                                                                                                        |
+| **3.0** | 18/06/2025 | Sebastián M. Escobar Palomino, Luis S. Rubio Ortiz, Nelson F. Pereira Vásquez, Irving W. Allcca Guerrero                            | Desarrollo del Sprint 3: evidencias de desarrollo, testing suite, ejecución y documentación de servicios (5.2.3.3 a 5.2.3.6).                                                                                                                                       |
+| **3.1** | 20/06/2025 | 	Sebastián M. Escobar Palomino, Jesús A. Millones E.                            | Cierre de Sprint 3 con despliegue evidenciado en swagger (5.2.3.7 y 5.2.3.8).                                                                                                                                       |
 
 # Project Report Collaboration Insights
 

@@ -2754,7 +2754,7 @@ La API del backend está documentada en Swagger, facilitando el acceso a los end
 
 **Enlace a la documentación de la API en Swagger:**
 
-**LINK DEL BACKEND:** [BACKEND](https://influmatch-api.azurewebsites.net/swagger-ui/index.html)
+**LINK DEL BACKEND:** [BACKEND](https://influ-match-back-end.azurewebsites.net/swagger-ui/index.html#/)
 
 **LINK DEL FRONTED:** [FRONTED](https://happy-stone-091814410.6.azurestaticapps.net/)
 
@@ -3076,7 +3076,7 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 #### **Anexo**
 1. **Despliegue del Landing Page:** [Landing Page](https://calm-bush-0d063da10.6.azurestaticapps.net/)
 2. **Despliegue de la App Web:** [App Web](https://happy-stone-091814410.6.azurestaticapps.net/)
-3. **Despliegue del Backend:** [Backend](https://influmatch-api.azurewebsites.net/swagger-ui/index.html)
+3. **Despliegue del Backend:** [Backend](https://influ-match-back-end.azurewebsites.net/swagger-ui/index.html#/)
 4. **Despliegue de la Landing Page con la App Web:** [App Web](https://calm-bush-0d063da10.6.azurestaticapps.net/)
 5. **Figma con los User Flow Diagrams, wireframes y mockups de la landing page:** [Figma](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=eJkhI7HPhy6idLZb-1)
 

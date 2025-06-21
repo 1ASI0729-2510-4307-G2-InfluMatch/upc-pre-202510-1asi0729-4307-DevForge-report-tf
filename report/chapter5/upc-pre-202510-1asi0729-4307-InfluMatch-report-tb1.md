@@ -31,10 +31,6 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
                 <td style="border: 1px solid ;">U202213241</td>
             </tr>
             <tr>
-                <td style="border: 1px solid ;">Daniel Eduardo Rodriguez Aguilar</td>
-                <td style="border: 1px solid ;">u202311691</td>
-            </tr>
-            <tr>
                 <td style="border: 1px solid ;">Nelson Fabrizzio Pereira Vasquez</td>
                 <td style="border: 1px solid ;">u202417468</td>
             </tr>
@@ -162,7 +158,7 @@ para cada integrante del equipo:
     - [**4.4.2. Web Applications Wireflow Diagrams**](#442-web-applications-wireflow-diagrams)
   - [**4.4. Diseño UX/UI de Aplicaciones Web**](#44-diseño-uxui-de-aplicaciones-web-1)
     - [**4.4.1. Mockups de Aplicaciones Web**](#441-mockups-de-aplicaciones-web)
-    - [4**.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
+    - [**4.4.4. Web Applications User Flow Diagrams**](#444-web-applications-user-flow-diagrams)
   - [**4.5. Web Applications Prototyping**](#45-web-applications-prototyping)
   - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
     - [**4.6.1. Software Architecture Context Diagram**](#461-software-architecture-context-diagram)
@@ -199,24 +195,29 @@ para cada integrante del equipo:
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
-      - [**5.2.2. Sprint 2**](#522-sprint-2)
+    - [**5.2.2. Sprint 2**](#522-sprint-2)
       - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
-      - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
-      - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
-      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.2. Aspect Leaders and Collaborators.**](#5222-aspect-leaders-and-collaborators)
+      - [**5.2.2.3. Sprint Backlog 2**](#5223-sprint-backlog-2)
+      - [**5.2.2.4. Development Evidence for Sprint Review**](#5224-development-evidence-for-sprint-review)
       - [**5.2.2.5.Execution Evidence for Sprint Review.**](#5225execution-evidence-for-sprint-review)
       - [**5.2.2.6.Services Documentation Evidence for Sprint Review.**](#5226services-documentation-evidence-for-sprint-review)
       - [**5.2.2.7.Software Deployment Evidence for Sprint Review.**](#5227software-deployment-evidence-for-sprint-review)
       - [**5.2.2.8.Team Collaboration Insights during Sprint.**](#5228team-collaboration-insights-during-sprint)
-      - [**5.2.3. Sprint 3**](#523-sprint-3)
-      - [**5.2.3.1. Sprint Planning 3**](#5221-sprint-planning-2)
-      - [**5.2.3.2. Sprint Backlog 3**](#5222-sprint-backlog-2)
-      - [**5.2.3.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
-      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
-      - [**5.2.3.5.Execution Evidence for Sprint Review.**](#5225execution-evidence-for-sprint-review)
-      - [**5.2.3.6.Services Documentation Evidence for Sprint Review.**](#5226services-documentation-evidence-for-sprint-review)
-      - [**5.2.3.7.Software Deployment Evidence for Sprint Review.**](#5227software-deployment-evidence-for-sprint-review)
-      - [**5.2.3.8.Team Collaboration Insights during Sprint.**](#5228team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3**](#523-sprint-3)
+      - [**5.2.3.1. Sprint Planning 3**](#5231-sprint-planning-3)
+      - [**5.2.3.2. Aspect Leaders and Collaborators.**](#5232-aspect-leaders-and-collaborators)
+      - [**5.2.3.3. Sprint Backlog 3**](#5233-sprint-backlog-3)
+      - [**5.2.3.4. Development Evidence for Sprint Review**](#5234-development-evidence-for-sprint-review)
+      - [**5.2.3.5.Execution Evidence for Sprint Review.**](#5235-execution-evidence-for-sprint-review)
+      - [**5.2.3.6.Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7.Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8.Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
+  - [**5.3. Validation Interviews.**](#53-validation-interviews)
+    - [**5.3.1. Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
+    - [**5.3.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
+    - [**5.3.3. Evaluaciones según heurísticas.**](#533-evaluaciones-según-heurísticas)
+  - [**5.4. Video About-the-Product**](#54-video-about-the-product)
       - [**Avance de Conclusiones**](#avance-de-conclusiones)
       - [**Bibliografia**](#bibliografia)
       - [**Anexo**](#anexo)
@@ -2232,7 +2233,17 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 | **Sprint 2 Velocity** | 42 |
 | **Sum of Story Points** | 42 |
 
-#### **5.2.2.2. Sprint Backlog 2**
+#### **5.2.2.2. Aspect Leaders and Collaborators.**
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |
+| --------------------------------------- | ------------------- | ---------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
+| **Fabrizzio Pereira**                   | fabrizzioper        | **L**                              | **C**                                                      | **C**                                              | **C**                                 | **C**                                                                 |
+| **Luis Sebastián Rubio Ortiz**          | notoriussxd         | **C**                              | **L**                                                      | **C**                                              | **C**                                 | **C**                                                                 |
+| **Sebastian Escobar Palomino**          | sebasepe            | **C**                              | **C**                                                      | **L**                                              | **C**                                 | **C**                                                                 |
+| **Irving Allca**                        | eviterno17          | **C**                              | **C**                                                      | **C**                                              | **L**                                 | **C**                                                                 |
+| **Jesus Millones**                    | JJSON-11110               | **C**                              | **C**                                                      | **C**                                              | **C**                                 | **L**                                                                 |
+
+#### **5.2.2.3. Sprint Backlog 2**
 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/hGpysmH.png[/img]" width="100%" />
@@ -2263,7 +2274,7 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 | US19          | Listar perfiles de influencers                | TK19    | Implementar HomeComponent          | Consumir ProfileApi.listInfluencers() y mostrar lista paginada.                                                     | 10                 | Allcca Guerrero Irving            | Done   |
 | US20          | Ver detalle de perfil de usuario              | TK20    | Implementar ProfileDetailComponent | Usar GetUserDetailsUseCase para obtener y mostrar datos completos del usuario.                                      | 8                  | Sebastian Rubio                   | Done   |
 
-#### **5.2.2.3. Development Evidence for Sprint Review**
+#### **5.2.2.4. Development Evidence for Sprint Review**
 
 | Repository                                                                                           | Branch                                | Commit Id | Commit Message                                                                                   | Commit Message Body | Commited on (Date) |
 |------------------------------------------------------------------------------------------------------|---------------------------------------|-----------|--------------------------------------------------------------------------------------------------|---------------------|--------------------|
@@ -2299,14 +2310,6 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 | https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | ab82d3a       | feat(contact): implement contact form with validation, FAQ section, and styling                  |                     | 14/05/2025         |
 | https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | fd48326       | feat(landing): add landing component with theme support and routing                              |                     | 14/05/2025         |
 | https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/landing-sidebar | f63d00e       | initial commit                                                                                   |                     | 14/05/2025         |
-
-
-#### **5.2.2.4. Testing Suite Evidence for Sprint Review.**
-
-| Repositorio                                                                 | Rama     | Commit ID | Mensaje de Commit                        | Cuerpo del Mensaje                        | Fecha de Commit |
-|-----------------------------------------------------------------------------|----------|-----------|------------------------------------------|-------------------------------------------|-----------------|
-| https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-LandingPage | InfluMatch-LandingPage/main     | bb84e62   | ci: add Azure Static Web Apps workflow file |                                           | 14/05/2025      |
-
 
 #### **5.2.2.5.Execution Evidence for Sprint Review.**
 En el sprint 2, se finalizó la implementación de la landing page, la cual incluye varias secciones que permiten al usuario acceder a información clave sobre el producto y la startup, disponible en inglés y español. Además, se avanzó parcialmente en el desarrollo de la aplicación web, habilitando la interacción de los usuarios con algunas de sus funcionalidades. A continuación, se muestran algunas evidencias.

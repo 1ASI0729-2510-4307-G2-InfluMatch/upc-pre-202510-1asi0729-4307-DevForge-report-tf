@@ -1741,7 +1741,203 @@ En el diagrama de contenedores se muestra en alto nivel las relaciones entre la 
   <img src="https://i.imgur.com/fHIX4gh.png[/img]" width="100%" />
 </div>
 
-### 4.6.3. Software Architecture Components Diagrams
+### 4.6.3 Software Architecture Components Diagrams 
+
+
+### 4.6.3.1 Software Architecture Components Diagrams Frontend
+
+ ![Diagrama de Componentes](https://i.imgur.com/WhyG5Ow.png)
+
+La aplicación se estructura en módulos funcionales que encapsulan distintas vistas, servicios y modelos de dominio, cada uno con responsabilidades claras y componentes bien definidos. A continuación, se detallan los principales módulos del sistema:
+
+---
+
+### 1. Vistas de Autenticación
+
+**Propósito:**  
+Gestiona el flujo completo de autenticación y la configuración inicial del usuario.
+
+**Componentes principales:**
+
+- **Páginas:**  
+  - `Login`  
+  - `Registro`  
+  - `Onboarding`  
+  - `Setup de perfil`
+
+- **Servicios:**  
+  - `User Authentication Service`  
+  - `Route Protection Guard`  
+  - `JWT Token Interceptor`
+
+- **Casos de uso:**  
+  - `User Login Process`  
+  - `User Registration Process`  
+  - `Profile Creation Process`
+
+- **Datos:**  
+  - `Authentication API Client`  
+  - `Authentication Repository`  
+  - `User Data Assembler`
+
+**Flujo típico:**  
+Usuario se registra → Completa onboarding → Configura perfil → Accede al dashboard
+
+---
+
+### 2. Vistas del Dashboard
+
+**Propósito:**  
+Proporciona la interfaz principal de usuario y herramientas de gestión de perfiles.
+
+**Componentes principales:**
+
+- **Navegación:**  
+  - `Main Dashboard`  
+  - `Navigation Sidebar`  
+  - `Dashboard Home`
+
+- **Perfiles:**  
+  - `User Profile Page`  
+  - `Profile Detail View`  
+  - `Profile Card Widget`
+
+- **Servicios:**  
+  - `Profile Management Service`  
+  - `User Profile Retrieval`  
+  - `Profile Discovery`
+
+- **Datos:**  
+  - `Profile Management API Client`  
+  - `Profile Management Repository`
+
+**Funcionalidades:**  
+Dashboard principal, navegación contextual, visualización y administración de perfiles de usuario.
+
+---
+
+### 3. Vistas de Colaboraciones
+
+**Propósito:**  
+Gestiona la creación, edición y seguimiento de colaboraciones entre marcas e influencers.
+
+**Componentes principales:**
+
+- **Páginas:**  
+  - `Collaborations Management`  
+  - `Collaborations List`  
+  - `Collaboration Detail View`
+
+- **Servicios:**  
+  - `Collaboration Actions Service`  
+  - `Collaboration Creation`  
+  - `Collaboration Details`
+
+- **Datos:**  
+  - `Collaboration Repository`
+
+**Funcionalidades:**  
+Alta de colaboraciones, listado de colaboraciones activas, visualización de detalle y confirmación de acciones.
+
+---
+
+### 4. Vistas de Chat
+
+**Propósito:**  
+Proporciona una interfaz de mensajería instantánea para la comunicación entre usuarios.
+
+**Componentes principales:**
+
+- **Páginas:**  
+  - `Chat Conversations List`  
+  - `Chat Conversation View`  
+  - `File Attachment Viewer`
+
+- **Servicios:**  
+  - `Real-time Chat Service`
+
+**Funcionalidades:**  
+Listado de conversaciones, vista de chat en tiempo real, soporte de archivos adjuntos.
+
+---
+
+### 5. Vistas de Agenda
+
+**Propósito:**  
+Gestión y visualización de actividades, eventos y tareas programadas por el usuario.
+
+**Componentes principales:**
+
+- **Páginas:**  
+  - `Agenda Calendar`
+
+- **Servicios:**  
+  - `Calendar & Agenda Service`  
+  - `Agenda Management`
+
+- **Datos:**  
+  - `Agenda Data Repository`
+
+**Funcionalidades:**  
+Interfaz de calendario, asignación y control de eventos o tareas personales.
+
+---
+
+### 6. Infraestructura Core
+
+**Propósito:**  
+Provee servicios centrales y componentes reutilizables para toda la aplicación.
+
+**Componentes principales:**
+
+- **Servicios:**  
+  - `UI Theme Service`  
+  - `CORS Policy Interceptor`
+
+- **Configuración:**  
+  - `Root Application Component`  
+  - `Application Configuration`  
+  - `Main Application Routes`
+
+- **Módulos:**  
+  - `Core Application Module`  
+  - `Authentication Module`  
+  - `Dashboard Feature Module`
+
+- **Utilidades:**  
+  - `Password Strength Validator`  
+  - `Collaboration Status Helper`
+
+- **Datos:**  
+  - `Dashboard Data API Client`  
+  - `Dashboard Data Repository`
+
+**Funcionalidades:**  
+Temas visuales, validaciones comunes, configuración de rutas, y servicios compartidos de bajo nivel.
+
+---
+
+### 7. Modelos de Dominio
+
+**Propósito:**  
+Definir las estructuras centrales del negocio a través de entidades y objetos de valor.
+
+**Componentes principales:**
+
+- **Entidades:**  
+  - `User Domain Entity`  
+  - `Base Profile Entity`  
+  - `Influencer Profile Entity`
+
+- **Value Objects:**  
+  - `Login Credentials`  
+  - `Brand Profile Data`  
+  - `Influencer Profile Data`
+
+**Funcionalidades:**  
+Encapsulamiento de lógica de negocio, validación de integridad de datos, e interoperabilidad entre componentes.
+
+### 4.6.3.2 Software Architecture Components Diagrams Backend
 
 En esta sección, describimos la arquitectura de los componentes dentro del sistema, enfocándonos en cómo cada uno de ellos se comunica e integra con otros módulos. Los diagramas proporcionados a continuación ofrecen una representación visual de cada componente y sus interacciones.
 

@@ -2506,7 +2506,7 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 | **Sprint 3 Review Summary** | Con respecto al anterior sprint, logramos con éxito las metas propuestas, mostrar el avance de nuestro frontend y corregir los errores previos. |
 | **Sprint 3 Retrospective Summary** | Sabemos que con respecto a nuestro desempeño en la anterior entrega fue buena pero reconocemos que puede hacerse un mejor trabajo y más organizado. |
 | **Sprint Goal & User Stories** |  |
-| **Sprint 3 Goal** | En esta entrega se busca terminar con el desarrollo del frontend, así mismo con realizar el desarrollo de la parte del backend. |
+| **Sprint 3 Goal** | Desarrollar mejoras en los interfaces de inicio de sesión y perfiles de influencers/empresas. Poder contactar por mensaje de texto a los empresarios y a los influencers. Mejorar la visualización de solicitudes que permita añadirlas y eliminarlas. |
 | **Sprint 3 Velocity** | 42 |
 | **Sum of Story Points** | 42 |
 

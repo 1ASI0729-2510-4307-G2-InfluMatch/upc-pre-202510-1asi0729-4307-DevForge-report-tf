@@ -213,6 +213,11 @@ para cada integrante del equipo:
       - [**5.2.3.6.Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
       - [**5.2.3.7.Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
       - [**5.2.3.8.Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
+    - [**5.2.4. Sprint 4**](#524-sprint-4)
+      - [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
+      - [**5.2.4.2. Aspect Leaders and Collaborators**](#5242-aspect-leaders-and-collaborators)
+      - [**5.2.4.3. Sprint Backlog 4**](#5243-sprint-backlog-4)
   - [**5.3. Validation Interviews.**](#53-validation-interviews)
     - [**5.3.1. Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
     - [**5.3.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
@@ -2802,6 +2807,66 @@ Captura del deploy del backend swagger:
 <img src="https://i.imgur.com/ZOblSBa.png" />
 <img src="https://i.imgur.com/GlmmvDX.png" />
 <img src="https://i.imgur.com/xOOtYWS.png" />
+
+
+### **5.2.4. Sprint 4**
+#### **5.2.4.1. Sprint Planning 4**
+
+| **Sprint #** | Sprint 4 |
+|---|---|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-07-03 |
+| **Time** | 04:00 PM |
+| **Location** | 	Discord meeting |
+| **Prepared By** | Nelson F. Pereira Vásquez |
+| **Attendees (to planning meeting)** | Nelson F. Pereira Vásquez / Sebastián M. Escobar Palomino / Luis S. Rubio Ortiz / Irving W. Allcca Guerrero / Jesús Andrés Millones Espinoza |
+| **Sprint 1 – 4 Review Summary** | En el Sprint 3 se avanzó en la integración de endpoints para la gestión de perfiles de empresas e influencers, la documentación de la API en Swagger, el despliegue en Azure y la integración inicial con el frontend. |
+| **Sprint 1 – 4 Retrospective Summary** | Se identificó la necesidad de mejorar la cobertura de pruebas, la validación de datos y la trazabilidad de acciones. Se observó que algunas tareas técnicas se realizaron antes de documentarlas, lo que generó la necesidad de refactorizar y mejorar la consistencia del backend. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 4 Goal** | El objetivo de este sprint es fortalecer la gestión de campañas y la seguridad del backend, así como optimizar la integración con el frontend y la documentación técnica. Para ello, se abordarán los siguientes puntos:<br><br>- Implementar endpoint para crear campañas.<br>- Implementar endpoint para listar y filtrar campañas.<br>- Implementar endpoint para editar y cerrar campañas.<br>- Mejorar autenticación con JWT y control de roles.<br>- Optimizar listado y filtrado de perfiles.<br>- Integrar logs para trazabilidad de acciones.<br>- Actualizar documentación Swagger.<br>- Avanzar en pruebas automáticas e integración frontend-backend. |
+| **Sprint 4 Velocity** | 18 Story Points |
+| **Sum of Story Points** | 20 |
+
+#### **5.2.4.2. Aspect Leaders and Collaborators**
+#### **5.2.4.3. Sprint Backlog 4**
+
+El objetivo principal de este Sprint es fortalecer la gestión de campañas, la seguridad y la trazabilidad en el backend de InfluMatch, así como optimizar la integración con el frontend y la documentación técnica. El equipo está implementando endpoints REST, lógica de negocio, autenticación robusta, pruebas automáticas y mejoras de arquitectura.
+
+**Screenshot del Board del Sprint:**  
+
+<div style="text-align: center;">
+  <img src="https://imgur.com/5knc0xQ.png[/img]" width="100%" />
+</div>
+
+**Link del Trello:**  [TRELLO](https://trello.com/invite/b/68663b5c81fb36ced8ed37ba/ATTIb61805c6be20319823542a3be04b65755F005A1D/spring-4-influmatch)
+
+
+| User Story Id | User Story Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---|---|---|
+| US01 | Autenticación | TK01 | Registrar usuario | POST /api/auth/register – Registra un nuevo usuario (empresa o influencer) en la plataforma. | 5 | Fabrizzio Pereira | Doing |
+| US01 | Autenticación | TK02 | Iniciar sesión | POST /api/auth/login – Permite a un usuario iniciar sesión y obtener un JWT. | 4 | Fabrizzio Pereira | Doing |
+| US01 | Autenticación | TK03 | Refrescar token | POST /api/auth/refresh – Renueva el token JWT para mantener la sesión activa. | 3 | Fabrizzio Pereira | Doing |
+| US01 | Autenticación | TK04 | Cerrar sesión | POST /api/auth/logout – Cierra la sesión y coloca el token en blacklist. | 3 | Fabrizzio Pereira | Doing |
+| US02 | Perfiles | TK05 | Crear perfil de empresa | POST /api/profiles/brand – Crea un nuevo perfil de empresa. | 5 | Fabrizzio Pereira | Doing |
+| US02 | Perfiles | TK06 | Crear perfil de influencer | POST /api/profiles/influencer – Crea un nuevo perfil de influencer. | 5 | Fabrizzio Pereira | Doing |
+| US02 | Perfiles | TK07 | Obtener perfil de empresa propio | GET /api/profiles/brand/me – Obtiene el perfil de empresa del usuario autenticado. | 3 | Fabrizzio Pereira | Doing |
+| US02 | Perfiles | TK08 | Obtener perfil de influencer propio | GET /api/profiles/influencer/me – Obtiene el perfil de influencer del usuario autenticado. | 3 | Fabrizzio Pereira | Doing |
+| US02 | Perfiles | TK09 | Editar perfil de empresa propio | PUT /api/profiles/brand/me – Edita el perfil de empresa del usuario autenticado. | 4 | Fabrizzio Pereira | Doing |
+| US02 | Perfiles | TK10 | Editar perfil de influencer propio | PUT /api/profiles/influencer/me – Edita el perfil de influencer del usuario autenticado. | 4 | Fabrizzio Pereira | Doing |
+| US03 | Dashboard | TK11 | Listar influencers | GET /api/dashboard/influencers – Lista todos los influencers para el dashboard. | 3 | Fabrizzio Pereira | Doing |
+| US03 | Dashboard | TK12 | Listar marcas | GET /api/dashboard/brands – Lista todas las marcas para el dashboard. | 3 | Fabrizzio Pereira | Doing |
+| US03 | Dashboard | TK13 | Ver detalle de influencer | GET /api/dashboard/influencers/{id} – Muestra el detalle de un influencer específico. | 3 | Fabrizzio Pereira | Doing |
+| US03 | Dashboard | TK14 | Ver detalle de marca | GET /api/dashboard/brands/{id} – Muestra el detalle de una marca específica. | 3 | Fabrizzio Pereira | Doing |
+| US03 | Dashboard | TK15 | Buscar marca por usuario | GET /api/dashboard/brands/user/{userId} – Busca la marca asociada a un usuario. | 2 | Fabrizzio Pereira | Doing |
+| US04 | Colaboraciones | TK16 | Crear colaboración | POST /api/collaborations – Crea una nueva colaboración entre usuarios. | 5 | Fabrizzio Pereira | Doing |
+| US04 | Colaboraciones | TK17 | Listar colaboraciones | GET /api/collaborations – Lista todas las colaboraciones del usuario. | 4 | Fabrizzio Pereira | Doing |
+| US04 | Colaboraciones | TK18 | Ver detalle de colaboración | GET /api/collaborations/{id} – Muestra el detalle de una colaboración específica. | 3 | Fabrizzio Pereira | Doing |
+| US04 | Colaboraciones | TK19 | Editar colaboración | PUT /api/collaborations/{id} – Edita los datos de una colaboración existente. | 4 | Fabrizzio Pereira | Doing |
+| US04 | Colaboraciones | TK20 | Actualizar estado de colaboración | PATCH /api/collaborations/{id} – Cambia el estado de una colaboración (aceptar, finalizar, etc.). | 3 | Fabrizzio Pereira | Doing |
+| US04 | Colaboraciones | TK21 | Obtener agenda de colaboraciones | GET /api/collaborations/agenda – Obtiene la agenda de eventos de colaboraciones. | 3 | Fabrizzio Pereira | Doing |
+| US05 | Chat | TK22 | Listar chats | GET /api/chats – Lista todos los chats del usuario autenticado. | 3 | Fabrizzio Pereira | Doing |
+| US05 | Chat | TK23 | Enviar mensaje | POST /api/chats/messages/{receiverId} – Envía un mensaje a otro usuario. | 3 | Fabrizzio Pereira | Doing |
+| US05 | Chat | TK24 | Listar mensajes | GET /api/chats/{userId}/messages – Lista los mensajes intercambiados con un usuario. | 3 | Fabrizzio Pereira | Doing |
 
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**

@@ -1,11 +1,11 @@
 <div align="center">
- <h1>Informe del TB2</h1>
+ <h1>Informe del TF</h1>
     <h2>Universidad Peruana de Ciencias Aplicadas</h2>
     <img src="https://i.imgur.com/jMFBvq1.png[/img]" alt="Logo de UPC" >
      <p><strong>Ingeniería de Software</strong></p>
     <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
     <p><strong>Docente:</strong> Efraín Ricardo Bautista Ubillús</p>
-    <p><strong>"Informe de TB2"</strong></p>
+    <p><strong>"Informe de TF"</strong></p>
     <p><strong>Startup:</strong> DevForge</p>
     <p><strong>Producto:</strong> InfluMatch</p>
 </div>
@@ -80,9 +80,9 @@ URL del repositorio para el reporte del proyecto: (Github): [InfluMatch](https:/
 
 
 
-**TB2**
+**TF**
 
-Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma
+Para el desarrollo del informe perteneciente a la entrega TF, se dividió la implementación de secciones de la siguiente forma
 para cada integrante del equipo:
 
 

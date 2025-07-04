@@ -227,6 +227,7 @@ para cada integrante del equipo:
     - [**5.3.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
     - [**5.3.3. Evaluaciones según heurísticas.**](#533-evaluaciones-según-heurísticas)
   - [**5.4. Video About-the-Product**](#54-video-about-the-product)
+      - [**About The Team**](#about-the-team)
       - [**Avance de Conclusiones**](#avance-de-conclusiones)
       - [**Bibliografia**](#bibliografia)
       - [**Anexo**](#anexo)

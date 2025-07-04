@@ -3124,7 +3124,10 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
    
 **LINK DEL ABOUT THE PRODUCT:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EfSjNZ5kcEJEt0xJGTBYO5IBf0f9k4x7IJH5HsFOUDOY6A?e=UhgY6S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-   
+### **About the Team**
+
+**LINK DEL ABOUT THE TEAM:** [About the Team]()
+
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
 

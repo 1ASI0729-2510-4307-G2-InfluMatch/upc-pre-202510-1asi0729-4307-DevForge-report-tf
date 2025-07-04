@@ -2298,6 +2298,7 @@ En la siguiente sección se expondrá el sprint #1, el cual contiene la versión
 
 #### **5.2.1.3. Sprint Backlog 1**
 Durante el primer sprint, el equipo centró sus esfuerzos en desarrollar una landing page visualmente atractiva y funcional, distribuyendo las tareas a través del tablero de Sprint de acuerdo con las competencias de cada integrante.
+
 | Sprint # |   |   | Sprint 1 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | User Story |   |   | Work-Item/Task |   |   |   |   |   |   |   |   |   |
@@ -2794,14 +2795,26 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 </div>
 **Link del Trello:**  [TRELLO](https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e43b9a98607f10ea4825bead4d995F05EA73/sprint-2)
 
-| User Story Id | User Story Title                              | Task Id | Task Title                         | Description                                                                                                         | Estimation (Horas) | Assigned To                       | Status |
-| ------------- | --------------------------------------------- | ------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------ |
-| US10          | Registro de nuevo usuario                     | TK21    | Añadir más información             | Implementar la función que permite añadir imagenes y enlaces referentes a tu marca/empresa.                         | 3                  | Sebastian Matias Escobar Palomino | Done   |
-| US19          | Listar perfiles de influencers                | TK22    | Visualización de la lista          | Cambiar la visualización de la sección de influencers/empresas.                                                     | 5                  | Allcca Guerrero Irving            | Done   |
-| US20          | Ver detalle de perfil de usuario              | TK23    | Visualización completa del perfil  | Mejorar la forma en la que se visualiza la sección del perfil de la empresa o influencer.                           | 4                  | Irving Washington Allcca Guerrero | Done   |
-| US20          | Ver detalle de perfil de usuario              | TK24    | Enviar solicitud                   | Poder enviar la(s) solicitud(es) a un influencer para poder iniciar la colaboración.                                | 4                  | Luis Sebastián Rubio Ortiz        | Done   |
-| US21          | Mensajes de texto                             | TK24    | Implementar Mensajes de texto      | Añadir la función que permita a los usuario enviar mensajes de texto entre ellos para conseguir mas información.    | 8                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
-| US22          | Solicitudes                                   | TK24    | Ver solicitudes enviadas           | Poder visualizar las solicitudes y poder cancelar cualquiera de ellas.                                              | 4                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+
+| User Story Id | User Story Title                              | Task Id | Task Title                                 | Description                                                                                 | Estimation (Horas) | Assigned To                       | Status |
+| ------------- | --------------------------------------------- | ------- | ------------------------------------------ | ------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------ |
+| US10          | Registro de nuevo usuario                     | TK21    | Crear modelo de usuario                    | Implementar la entidad y repositorio para usuarios.                                         | 1                  | Sebastian Matias Escobar Palomino | Done   |
+| US10          | Registro de nuevo usuario                     | TK22    | Implementar endpoint de registro           | Crear el endpoint REST para registrar usuarios y lógica de validación.                      | 1                  | Sebastian Matias Escobar Palomino | Done   |
+| US10          | Registro de nuevo usuario                     | TK23    | Pruebas unitarias de registro              | Escribir pruebas unitarias para el registro de usuarios.                                    | 1                  | Sebastian Matias Escobar Palomino | Done   |
+| US19          | Listar perfiles de influencers                | TK24    | Crear repositorio de influencers           | Implementar el repositorio y consultas para listar influencers.                             | 2                  | Allcca Guerrero Irving            | Done   |
+| US19          | Listar perfiles de influencers                | TK25    | Implementar endpoint de listado            | Crear el endpoint REST para listar influencers.                                             | 2                  | Allcca Guerrero Irving            | Done   |
+| US19          | Listar perfiles de influencers                | TK26    | Pruebas unitarias de listado               | Escribir pruebas unitarias para el listado de influencers.                                  | 1                  | Allcca Guerrero Irving            | Done   |
+| US20          | Ver detalle de perfil de usuario              | TK27    | Implementar consulta de detalle de perfil  | Implementar la lógica y repositorio para obtener detalle de perfil.                         | 1                  | Irving Washington Allcca Guerrero | Done   |
+| US20          | Ver detalle de perfil de usuario              | TK28    | Implementar endpoint de detalle de perfil  | Crear el endpoint REST para mostrar detalle de perfil de usuario.                           | 2                  | Irving Washington Allcca Guerrero | Done   |
+| US20          | Ver detalle de perfil de usuario              | TK29    | Pruebas unitarias de detalle de perfil     | Escribir pruebas unitarias para el detalle de perfil.                                       | 1                  | Irving Washington Allcca Guerrero | Done   |
+| US20          | Ver detalle de perfil de usuario              | TK30    | Implementar envío de solicitud             | Crear la lógica y endpoint para enviar solicitud de colaboración a un influencer.            | 2                  | Luis Sebastián Rubio Ortiz        | Done   |
+| US21          | Mensajes de texto                             | TK31    | Crear modelo y repositorio de mensajes     | Implementar la entidad y repositorio para mensajes de texto.                                | 2                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+| US21          | Mensajes de texto                             | TK32    | Implementar endpoint de mensajes           | Crear el endpoint REST para enviar y recibir mensajes de texto.                             | 3                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+| US21          | Mensajes de texto                             | TK33    | Pruebas unitarias de mensajes              | Escribir pruebas unitarias para la lógica de mensajes.                                      | 3                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+| US22          | Solicitudes                                   | TK34    | Implementar consulta de solicitudes        | Implementar la lógica y repositorio para listar solicitudes enviadas.                       | 2                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+| US22          | Solicitudes                                   | TK35    | Implementar endpoint de solicitudes        | Crear el endpoint REST para visualizar y cancelar solicitudes enviadas.                     | 1                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+| US22          | Solicitudes                                   | TK36    | Pruebas unitarias de solicitudes           | Escribir pruebas unitarias para la gestión de solicitudes.                                  | 1                  | Nelson Fabrizzio Pereira Vasquez  | Done   |
+
 
 
 #### **5.2.3.4. Development Evidence for Sprint Review**

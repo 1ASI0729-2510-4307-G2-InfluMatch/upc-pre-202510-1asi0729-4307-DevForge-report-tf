@@ -2875,6 +2875,16 @@ El objetivo principal de este Sprint es fortalecer la gestión de campañas, la 
 | US05 | Chat | TK23 | Enviar mensaje | POST /api/chats/messages/{receiverId} – Envía un mensaje a otro usuario. | 3 | Fabrizzio Pereira | Doing |
 | US05 | Chat | TK24 | Listar mensajes | GET /api/chats/{userId}/messages – Lista los mensajes intercambiados con un usuario. | 3 | Fabrizzio Pereira | Doing |
 
+#### **5.2.4.4. Development Evidence for Sprint Review.**
+
+#### **5.2.4.5. Execution Evidence for Sprint Review.**
+
+#### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
+
+#### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
+
+#### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**
 

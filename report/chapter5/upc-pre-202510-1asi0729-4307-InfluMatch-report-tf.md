@@ -2793,7 +2793,7 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/lF7g9Kq.png[/img]" width="100%" />
 </div>
-**Link del Trello:**  [TRELLO](https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTIdc66e43b9a98607f10ea4825bead4d995F05EA73/sprint-2)
+**Link del Trello:**  [TRELLO](https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTI820e86d1d074632b3d33974cafc2468d716D2FB5/sprint-3)
 
 
 | User Story Id | User Story Title                              | Task Id | Task Title                                 | Description                                                                                 | Estimation (Horas) | Assigned To                       | Status |

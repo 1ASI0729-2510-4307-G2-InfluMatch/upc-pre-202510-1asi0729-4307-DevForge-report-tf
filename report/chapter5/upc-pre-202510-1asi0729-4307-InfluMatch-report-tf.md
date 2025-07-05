@@ -2793,6 +2793,7 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 <div style="text-align: center;">
   <img src="https://i.imgur.com/lF7g9Kq.png[/img]" width="100%" />
 </div>
+
 **Link del Trello:**  [TRELLO](https://trello.com/invite/b/68253b835688104c9d6ef92d/ATTI820e86d1d074632b3d33974cafc2468d716D2FB5/sprint-3)
 
 

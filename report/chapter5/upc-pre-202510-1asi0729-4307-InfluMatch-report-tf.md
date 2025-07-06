@@ -2144,11 +2144,23 @@ En la siguiente sección se expondrá el sprint #1, el cual contiene la versión
 
 #### **5.2.1.1. Sprint Planning 1**
 
-| Sprint #                                                                          | Date              | Time                | Location              | Prepared By    | Attendees                                                                                 |
-| :-------------------------------------------------------------------------------- | :---------------- | :------------------ | :-------------------- | :------------- | :---------------------------------------------------------------------------------------- |
-| 1                                                                                 | 10/04/2025        | 6:00 pm             | Reunión mediante Meet | Nelson Pereira | <p>Sebastian Escobar. </p><p>Luis Rubio.</p><p>Irving Allcca.</p><p>Daniel Rodriguez.</p> |
-| Sprint 1 Goal                                                                     | Sprint 1 Velocity | Sum of Story Points |                       |                |                                                                                           |
-| Diseñar y desarrollar la landing page informativa para la aplicación InfluMatch.. | <p>18</p><p></p>  | 18                  |                       |                |                                                                                           |
+En esta sección se especifican los aspectos principales del Sprint Planning Meeting para el Sprint 1. El objetivo es asegurar la coherencia entre la planificación y la ejecución, alineando el Sprint Goal, los User Stories y los entregables del Sprint Backlog.
+
+| **Sprint #** | Sprint 1 |
+|---|---|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-04-10 |
+| **Time** | 06:00 PM |
+| **Location** | Reunión mediante Meet |
+| **Prepared By** | Nelson Pereira |
+| **Attendees (to planning meeting)** | Sebastian Escobar / Luis Rubio / Irving Allcca / Daniel Rodriguez |
+| **Sprint 0 Review Summary** | En el Sprint 0 se definió la visión del proyecto, se establecieron los roles del equipo y se realizó la planificación inicial de la arquitectura y el diseño de la landing page. |
+| **Sprint 0 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación y la asignación de tareas, así como establecer criterios claros de aceptación para los entregables. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 1 Goal** | Nuestro enfoque está en diseñar y desarrollar la landing page informativa de InfluMatch, incluyendo las secciones de navegación, testimonios, planes, contacto y explicación del proceso de colaboración. Creemos que esto permitirá captar el interés de marcas e influencers potenciales, facilitando su registro y mejorando la percepción de la plataforma desde el primer contacto. Esto se confirmará cuando la landing page esté implementada, validada por el equipo y cumpla con los criterios de aceptación definidos para cada sección, incluyendo feedback positivo de los miembros y la aprobación del product owner. |
+| **Sprint 1 Velocity** | 18 Story Points |
+| **Sum of Story Points** | 18 |
+
 
 #### **5.2.1.2. Aspect Leaders and Collaborators.**
 | **Team Member (Last Name, First Name)** | **GitHub Username** | **Capítulo I: Introducción (L/C)** | **Capítulo II: Requirements Elicitation & Analysis (L/C)** | **Capítulo III: Requirements Specification (L/C)** | **Capítulo IV: Product Design (L/C)** | **Capítulo V: Product Implementation, Validation & Deployment (L/C)** |

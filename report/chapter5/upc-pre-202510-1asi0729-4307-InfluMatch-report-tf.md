@@ -10,7 +10,7 @@
     <p><strong>Producto:</strong> InfluMatch</p>
 </div>
 
-Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417468_upc_edu_pe/EcLdIYMJy-pKvwTf6GouyL0BF5fKNjca0X8Osm8HNQAcPw?e=kx6BA8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video de exposición del TF1:[ Video de la exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQRuZVuTT4tCjxX6BxnATaYBpH3_dKuMRQbBjLyXncz2uA?e=tRB0QW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Team members:
 <div align="center" style="width: 100%;">
@@ -3339,9 +3339,10 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 7. **Link del repositorio de la WebApplication :** [Repositorio WebApplication](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-WebApplication)
 8. **Link del repositorio del Backend :** [Repositorio Backend](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-BackEnd)
 9. **Figma con los User Flow Diagrams, wireframes y mockups de la landing page:** [Figma](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=eJkhI7HPhy6idLZb-1)
-10. **Link del Trello:** [Trello]()
+10. **Link del Trello:** [Trello](https://trello.com/invite/b/68663b5c81fb36ced8ed37ba/ATTIb61805c6be20319823542a3be04b65755F005A1D/spring-4-influmatch)
 11. **Link del About the Product:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQoHsazlXupPmdIqHAvQ4X4Bhrj16rfburuKVXwrgsvL6Q?e=w1GJ9H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 12. **Link del About the Team:** [About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQAW8I_cD35LuzVezjCC8pQB_lMu-Xagvb_GOdDhSk1yoA?e=VbgFFs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 13. **2.2.2. Registro de entrevistas** [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEBSpFbDwALwshOmVzBrZQPuQ?e=xazmZO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 14. **5.3.2. Registro de entrevistas :** [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/ERQbiiOJ3GhGgFj-4rWsdJkBA1dN8V6-EJ0SrTzvYQvFJg?e=YgIjqF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+15. Video de exposición del TF1:[ Video de la exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQRuZVuTT4tCjxX6BxnATaYBpH3_dKuMRQbBjLyXncz2uA?e=tRB0QW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 

@@ -341,9 +341,8 @@ Además, la plataforma cuenta con funcionalidades diferenciales como búsqueda a
 | :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     **Fabrizzio Pereira Vásquez(U202417468)**<br/><img src="https://i.imgur.com/P4yZztm.jpeg[/img]" width="300"/>     | <div align="justify">Me llamo Fabrizzio Pereira Vásquez, soy estudiante de Ingeniería de Software y actualmente curso el sexto ciclo. Me apasiona el desarrollo web, especialmente con tecnologías como React y disfruto aprender creando proyectos prácticos. Me considero una persona dedicada, con muchas ganas de seguir mejorando y siempre dispuesto a ayudar a mis compañeros cuando lo necesiten.</div> |
 | **Sebastian Matias Escobar Palomino (U202125968)**<br/><img src="https://i.imgur.com/JZbUwAQ.png[/img]" width="300"/> |                           <div align="justify">Me llamo Sebastian Matias Escobar Palomino  , soy estudiante de Ingeniería de Software, me propongo aportar activamente al trabajo en equipo, respetar los plazos de entrega y mantener una comunicación constante y clara con mis compañeros, utilizando mis conocimientos para cumplir con las responsabilidades del proyecto.</div>                            |
-|    **Luis Sebastián Rubio Ortiz (U202310349)**<br/><img src="https://i.imgur.com/o7XX5zk.jpeg[/img]" width="300"/>    |                                               <div align="justify">Me llamo Luis Sebastián Rubio ortiz, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar a mis compañeros con cualquier cosa que necesiten.</div>                                               |
 |     **Irving Allcca Guerrero  (U202213241)**<br/><img src="https://i.imgur.com/8nWmrKX.png[/img]" width="300"/>      |          <div align="justify">Me llamo Irving Allcca Guerrero, soy estudiante de Ingeniería de Software y actualmente estoy cursando el quinto ciclo. Considero que soy una persona responsable, me gusta aprender cosas nuevas constantemente y me gusta apoyar y cooperar con mis compañeros, tambien suelo empatizar y me gusta participar activamente con las responsabilidades del proyecto.</div>          |
-|     **Jesús Andrés Millones Espinoza (U20211B598)**<br/><img src="https://i.imgur.com/1hApPc0.png[/img]" width="300"/>      |          <div align="justify">Mi nombre es Jesús Millones, estudiante en Ingeniería de Software en la UPC. Me considero una persona puntual, orientada a encontrar soluciones rápidas y lógicas frente a los problemas. Tengo experiencia con el sistema operativo Linux y el lenguaje de programación Java.</div>          |
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -2983,7 +2982,6 @@ La documentación incluye:
 
 - Descripción de los endpoints corregidos y optimizados para gestionar perfiles de Empresas e influencers.
 - Conexión en su totalidad del fronted y backend , y subido en Azure
-- 
 Este enfoque asegura que todo el equipo comparta un entendimiento común de la API, lo cual es esencial para el avance y la colaboración en InfluMatch. Con estas correcciones y la integración completa, el equipo está listo para continuar con las siguientes fases de desarrollo y expansión de nuevas características.
 
 

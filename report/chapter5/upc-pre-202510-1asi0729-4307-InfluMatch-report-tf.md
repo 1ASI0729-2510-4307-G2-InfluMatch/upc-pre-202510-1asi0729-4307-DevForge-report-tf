@@ -1598,7 +1598,38 @@ Estas etiquetas también se reflejan en las tarjetas, formularios, menú princip
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-FUTURE APLICATION
+
+A continuación se detallan los SEO Tags y Meta Tags de las principales páginas de la experiencia InfluMatch, en la Landing Page.
+
+**Landing Page**
+- **Title:** InfluMatch: Plataforma de Marketing con Influencers
+- **Description:** Conecta marcas y creadores con nuestra plataforma impulsada por IA. Encuentra el match perfecto para campañas auténticas y medibles.
+- **Keywords:** influencer marketing, marcas, creadores, campañas, colaboraciones, InfluMatch
+- **Author:** InfluMatch Team
+
+**Cómo Funciona**
+- **Title:** Cómo Funciona InfluMatch | Influencer Marketing Efectivo
+- **Description:** Descubre el proceso de InfluMatch para conectar marcas con influencers ideales y lograr campañas exitosas.
+- **Keywords:** cómo funciona, proceso, influencer marketing, campañas, marcas, creadores
+- **Author:** InfluMatch Team
+
+**Casos de Éxito**
+- **Title:** Casos de Éxito | Historias Reales en InfluMatch
+- **Description:** Explora historias de éxito de marcas e influencers que han crecido con InfluMatch.
+- **Keywords:** casos de éxito, testimonios, resultados, marcas, influencers, campañas exitosas
+- **Author:** InfluMatch Team
+
+**Planes**
+- **Title:** Planes y Precios | InfluMatch
+- **Description:** Elige el plan ideal para potenciar tu marketing con influencers. Opciones para marcas y creadores.
+- **Keywords:** planes, precios, suscripción, marketing, influencers, marcas, creadores
+- **Author:** InfluMatch Team
+
+**Contacto*
+- **Title:** Contacto | InfluMatch
+- **Description:** Ponte en contacto con el equipo de InfluMatch para consultas, soporte o colaboraciones.
+- **Keywords:** contacto, soporte, ayuda, InfluMatch, colaboración
+- **Author:** InfluMatch Team
 
 ### 4.2.4. Searching Systems
 

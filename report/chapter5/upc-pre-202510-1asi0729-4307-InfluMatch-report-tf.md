@@ -2833,7 +2833,67 @@ El objetivo principal de este Sprint es fortalecer la gestión de campañas, la 
 
 #### **5.2.4.4. Development Evidence for Sprint Review.**
 
+En esta sección se presentan los avances de implementación realizados durante el Sprint 4 para el backend de InfluMatch.
+
+| Repository         | Branch         | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|--------------------|---------------|-----------|---------------|--------------------|--------------------|
+| InfluMatch_BackEnd | test-branch   | ec8103a   | feat(database) | add migration script to create 'id' column as BIGSERIAL PRIMARY KEY in users table refactor(User): specify table name for User entity in JPA annotations refactor(application): change Hibernate ddl-auto setting from update to validate | 2025-06-21 |
+| InfluMatch_BackEnd | feature/-publish | a28cab8 | refactor(config) | update comments in application.yml for clarity and consistency | 2025-06-21 |
+| InfluMatch_BackEnd | test-branch   | 651629f   | fix | mark mvnw as executable | 2025-06-21 |
+| InfluMatch_BackEnd | test-branch   | 31cd8fd   | refactor(config) | reorganize application.yml for improved readability and structure | 2025-06-21 |
+| InfluMatch_BackEnd | feat--tb2     | 0edb477   | feat(ci) | add CI/CD workflow for Azure deployment with JDK 17 setup and build steps | 2025-06-20 |
+| InfluMatch_BackEnd | test-branch   | a53c57f   | refactor(chat) | remove sender details from MessageDetailDto and simplify toMessageDetailDto method in ChatServiceImpl | 2025-06-16 |
+| InfluMatch_BackEnd | test-branch   | e4125c6   | feat(chat) | refactor getChatMessages method to retrieve messages by user ID, create chat if it doesn't exist, and include sender details in response | 2025-06-15 |
+| InfluMatch_BackEnd | test-branch   | cf07143   | feat(collaboration) | add initiator and counterpart IDs to AgendaEventDto and update CollaborationService to include these IDs in event creation | 2025-06-15 |
+| InfluMatch_BackEnd | test-branch   | 4b38b4b   | feat(collaboration) | add initiator and counterpart IDs to Collaboration DTOs, implement cancel action in CollaborationService, and update CollaborationStatus enum | 2025-06-15 |
+| InfluMatch_BackEnd | test-branch   | f8596c9   | feat(collaboration) | add counterpart photo URL to CollaborationListDto and implement retrieval logic in CollaborationService | 2025-06-15 |
+| InfluMatch_BackEnd | test-branch   | 0a45328   | feat(dashboard) | add support for retrieving brand details by user ID and enhance error handling in DashboardService | 2025-06-14 |
+| InfluMatch_BackEnd | test-branch   | e5fd8ef   | feat(profile) | enhance CreateInfluencerProfileRequest with Swagger annotations and improve error handling in ProfileController for profile creation | 2025-06-14 |
+| InfluMatch_BackEnd | test-branch   | 1350aa4   | refactor(profile) | update CreateBrandProfileRequest and Country class for improved validation and error handling; enhance ProfileController with structured error responses | 2025-06-14 |
+| InfluMatch_BackEnd | test-branch   | c38a147   | feat(profile) | enhance ProfileController with improved exception handling and API responses for unsupported media types and invalid data | 2025-06-13 |
+| InfluMatch_BackEnd | test-branch   | d55094e   | feat(profile) | update ProfileResponse and ProfileService to use specific response types for brand and influencer profiles, and enhance ProfileController with exception handling and improved API responses | 2025-06-13 |
+| InfluMatch_BackEnd | test-branch   | 1db5517   | feat(auth) | update photo URL retrieval in AuthService to prioritize profile-specific URLs and convert them to Base64 format for user authentication | 2025-06-13 |
+| InfluMatch_BackEnd | test-branch   | 24b1b1d   | feat(profile) | validate user role and profile existence in createBrandProfile method to prevent duplicate profiles | 2025-06-13 |
+| InfluMatch_BackEnd | test-branch   | b2cd5c1   | feat(auth) | add profileType to AuthResponse and update AuthService to include profile type during user authentication | 2025-06-13 |
+| InfluMatch_BackEnd | test-branch   | cd17119   | feat(auth) | enhance AuthResponse to include user name and update AuthService to manage user profiles and photo retrieval during authentication | 2025-06-13 |
+| InfluMatch_BackEnd | test-branch   | d7d9e86   | feat(auth) | enhance AuthResponse with user ID and profile photo URL, and update AuthService to retrieve and include these details during authentication | 2025-06-11 |
+| InfluMatch_BackEnd | test-branch   | ba66fb3   | feat(agenda) | enhance AgendaEventDto with description and location fields, and update CollaborationService to handle new event details | 2025-06-11 |
+| InfluMatch_BackEnd | test-branch   | af39974   | feat(collaboration) | add message and actionType fields to Collaboration DTO and update related services and repositories for enhanced collaboration details | 2025-06-11 |
+| InfluMatch_BackEnd | test-branch   | b64bf59   | refactor(profile) | improve user retrieval in ProfileService and enhance createBrandProfile method in ProfileController to handle request body more flexibly | 2025-06-11 |
+| InfluMatch_BackEnd | test-branch   | 8694d65   | refactor(auth) | update JWT configuration properties and clean up entity table annotations for consistency | 2025-06-10 |
+| InfluMatch_BackEnd | test-branch   | b36628f   | refactor(profile) | update repository interfaces to extend JpaRepository for better integration with Spring Data JPA | 2025-06-10 |
+| InfluMatch_BackEnd | test-branch   | 79be5f7   | refactor(profile) | simplify influencer profile creation and update endpoints by removing multipart file handling and updating API documentation | 2025-06-10 |
+| InfluMatch_BackEnd | test-branch   | 67966d2   | feat(profile) | enhance profile and attachment handling by adding support for base64 encoded files and updating DTOs for better data management | 2025-06-09 |
+| InfluMatch_BackEnd | test-branch   | 6ca0485   | fix(profile) | downgrade springdoc-openapi version and enhance DTOs with Swagger annotations for better API documentation | 2025-06-09 |
+| InfluMatch_BackEnd | test-branch   | be11f26   | fea(auth) | implement refresh token functionality with new request DTO and update user table name | 2025-06-09 |
+| InfluMatch_BackEnd | test-branch   | f3f4467   | refactor | clean up application structure by removing unused JpaUserRepository and consolidating application class | 2025-06-09 |
+| InfluMatch_BackEnd | test-branch   | 4170ea0   | chore(update) | add JWT dependencies, update application properties, and modify naming strategy | 2025-06-09 |
+| InfluMatch_BackEnd | test-branch   | 3333bb7   | chore(update) | update Maven dependencies and Spring Boot version; enable JPA auditing | 2025-06-09 |
+| InfluMatch_BackEnd | test-branch   | b52cf28   | chore(init) | initialize InfluMatch_BackEnd with Maven setup and project structure | 2025-06-09 | 
+
 #### **5.2.4.5. Execution Evidence for Sprint Review.**
+
+
+En este sprint, el equipo de *InfluMatch* implementó y desplegó con éxito la API Backend en Azure Web Services, utilizando MySQL for Azure como base de datos, garantizando un entorno seguro y escalable para gestionar los datos de marcas, influencers y campañas.
+
+Además, se lanzó una nueva versión de la landing page y del frontend, mejorando la experiencia del usuario y habilitando funcionalidades clave, como la creación y gestión de perfiles de marcas e influencers. También se incluyeron videos informativos sobre el producto y el equipo.
+
+Este despliegue establece una base robusta para el funcionamiento de *InfluMatch*, dejando el backend, el frontend y la landing page preparados para futuras integraciones y escalabilidad a medida que el proyecto crezca y sus necesidades evolucionen.
+
+La API del backend está documentada en Swagger, facilitando el acceso a los endpoints para el equipo de desarrollo y colaboradores futuros.
+
+**Enlace a la documentación de la API en Swagger:**
+
+**LINK DEL BACKEND:** [BACKEND](https://influ-match-back-end.azurewebsites.net/swagger-ui/index.html#/)
+
+**LINK DEL FRONTED:** [FRONTED](https://happy-stone-091814410.6.azurestaticapps.net/)
+
+**LINK DEL LANDING PAGE:** [LANDING PAGE](https://calm-bush-0d063da10.6.azurestaticapps.net/)
+
+**Swagger UI**: [Swagger UI](https://influ-match-back-end.azurewebsites.net/swagger-ui/index.html#/)
+
+**LINK DE LA EVIDENCIA DEL DESPLIEGUE:** [EVIDENCIA DEL DESPLIEGUE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417468_upc_edu_pe/EcKFyRrRd3dLqUs2Iyr1fCIBhcI6KANy5RQ0voor19UJNg?e=c5XbGf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D/)
+
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
 

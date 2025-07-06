@@ -2347,12 +2347,13 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre la
 | **Location** | Discord meeting |
 | **Prepared by** | Fabrizzio Pereira |
 | **Attendees (to planning meeting)** | Irving W. Allcca Guerrero, Sebastián M. Escobar Palomino, Nelson F. Pereira Vásquez, Luis S. Rubio Ortiz. |
-| **Sprint 2 Review Summary** | Nuestro trabajo ha tenido algunos erroes como en cuadros y algunos diagramas que no se han desarrollado, pero se recibió la retroalimentación correspondiente. |
-| **Sprint 2 Retrospective Summary** | Teniendo en cuenta las recomendaciones del profesor, ahora se busca que se mejore el trabajo y que se empiece con el desarrollo del frontend |
+| **Sprint 1 Review Summary** | En el Sprint 1 se logró implementar la landing page informativa, cumpliendo con los criterios de aceptación y recibiendo feedback positivo del equipo y del product owner. |
+| **Sprint 1 Retrospective Summary** | El equipo identificó oportunidades de mejora en la gestión de tareas y la comunicación, proponiendo reuniones de seguimiento más frecuentes y una mejor documentación de los avances. |
 | **Sprint Goal & User Stories** |  |
-| **Sprint 2 Goal** | Se busca resolver problemas y errores con el landing page, realizar el front end y fake API de la web application de manera que se logre ver atractiva y funcional. |
-| **Sprint 2 Velocity** | 42 |
+| **Sprint 2 Goal** | Nuestro enfoque está en resolver problemas y errores de la landing page, y desarrollar el frontend y la fake API de la web application para lograr una interfaz atractiva y funcional. Creemos que esto permitirá a los usuarios interactuar con la plataforma de manera más efectiva y visualizar el flujo principal de la aplicación. Esto se confirmará cuando el frontend y la fake API estén implementados, integrados y validados por el equipo, cumpliendo con los criterios de aceptación y recibiendo feedback positivo del product owner. |
+| **Sprint 2 Velocity** | 42 Story Points |
 | **Sum of Story Points** | 42 |
+
 
 #### **5.2.2.2. Aspect Leaders and Collaborators.**
 
@@ -2639,20 +2640,20 @@ En la entrega del segundo sprint, se completó la implementación de la landing 
 ### **5.2.3. Sprint 3**
 #### **5.2.3.1. Sprint Planning 3**
 
-| Sprint # | Sprint 3 |
-|----------|----------|
+
+| **Sprint #** | Sprint 3 |
+|---|---|
 | **Sprint Planning Background** |  |
 | **Date** | 2025-06-03 |
 | **Time** | 09:56 PM |
-|  |  |
 | **Location** | Discord meeting |
-| **Prepared by** | Sebastian Escobar |
-| **Attendees (to planning meeting)** | Irving Allcca, Frabrizzio Pereira, Sebastian Escobar, Sebastián Rubio, Jesus Millones |
-| **Sprint 3 Review Summary** | Con respecto al anterior sprint, logramos con éxito las metas propuestas, mostrar el avance de nuestro frontend y corregir los errores previos. |
-| **Sprint 3 Retrospective Summary** | Sabemos que con respecto a nuestro desempeño en la anterior entrega fue buena pero reconocemos que puede hacerse un mejor trabajo y más organizado. |
+| **Prepared By** | Sebastian Escobar |
+| **Attendees (to planning meeting)** | Irving Allcca / Frabrizzio Pereira / Sebastian Escobar / Sebastián Rubio / Jesus Millones |
+| **Sprint 2 Review Summary** | En el Sprint 2 se corrigieron errores de la landing page y se avanzó en el desarrollo del frontend y la fake API, permitiendo la visualización y navegación básica de la aplicación. |
+| **Sprint 2 Retrospective Summary** | El equipo reconoció la mejora en la organización y la colaboración, pero identificó la necesidad de optimizar la gestión del tiempo y la priorización de tareas. |
 | **Sprint Goal & User Stories** |  |
-| **Sprint 3 Goal** | Desarrollar mejoras en los interfaces de inicio de sesión y perfiles de influencers/empresas. Poder contactar por mensaje de texto a los empresarios y a los influencers. Mejorar la visualización de solicitudes que permita añadirlas y eliminarlas. |
-| **Sprint 3 Velocity** | 42 |
+| **Sprint 3 Goal** | Nuestro enfoque está en desarrollar mejoras en las interfaces de inicio de sesión y perfiles de influencers/empresas, habilitar la mensajería entre usuarios y optimizar la visualización y gestión de solicitudes. Creemos que esto mejorará la experiencia de usuario y la eficiencia en la interacción entre marcas e influencers. Esto se confirmará cuando las nuevas interfaces y funcionalidades estén implementadas, probadas y validadas por el equipo y el product owner. |
+| **Sprint 3 Velocity** | 42 Story Points |
 | **Sum of Story Points** | 42 |
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**

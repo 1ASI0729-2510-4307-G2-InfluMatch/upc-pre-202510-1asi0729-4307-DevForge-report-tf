@@ -3140,26 +3140,21 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 
 **LINK DEL ABOUT THE TEAM:** [ABOUT THE TEAM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQAW8I_cD35LuzVezjCC8pQB_lMu-Xagvb_GOdDhSk1yoA?e=VbgFFs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-#### **Avance de Conclusiones**
-- Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
+## Conclusiones 
 
-- La construcción de InfluMatch ha servido como evidencia de la capacidad del equipo para transformar requerimientos y especificaciones en soluciones funcionales, logrando una estructura sólida y un diseño atractivo que mejora la interacción entre marcas e influencers.
+- En nuestro equipo, hemos implementado con éxito las funcionalidades clave de la plataforma, mejorando la experiencia de usuario y facilitando la conexión entre marcas e influencers.
 
-- La colaboración y el trabajo conjunto han sido claves para el logro del proyecto, permitiendo compartir conocimientos y habilidades en el uso de herramientas avanzadas.
+- La colaboración eficaz entre todos nosotros y el uso de herramientas como Figma y Trello nos ha permitido mantener una estructura sólida y un diseño atractivo, asegurando la eficiencia en el proceso de desarrollo.
 
-- Igualmente, el uso de plataformas de diseño como Figma ha permitido crear una interfaz uniforme y estéticamente agradable que refuerza la imagen profesional de InfluMatch. Por su parte, Trello ha sido útil para mantener una organización eficiente y un seguimiento adecuado de las tareas, lo que ha favorecido el cumplimiento de los objetivos.
+- Hemos establecido una base sólida para el futuro crecimiento de InfluMatch, con módulos de autenticación y gestión de perfiles funcionales y una integración eficiente de la búsqueda avanzada.
 
-- Este segundo desarrollo ha establecido una base sólida para la expansión de la plataforma en etapas futuras, garantizando una infraestructura tecnológica estable y con potencial de escalabilidad.
+- La optimización de la gestión de campañas y la mejora de la seguridad mediante JWT y control de roles ha fortalecido la plataforma, aunque sabemos que aún es necesario mejorar la cobertura de pruebas y la validación de datos.
 
-- Se desarrollaron y probaron con éxito los módulos de autenticación y gestión de perfiles de usuario, permitiendo una experiencia de inicio de sesión segura y personalizada.
+- InfluMatch, utilizando tecnologías avanzadas como Angular, Spring Boot y Azure, ha logrado conectar el mundo digital con el físico. La integración de IoT y herramientas avanzadas nos ha permitido crear una plataforma escalable, segura y eficiente.
 
-- Se integró la funcionalidad de búsqueda avanzada, facilitando a los usuarios la localización eficiente de influencers según criterios específicos.
+- La integración entre el backend y el frontend ha avanzado significativamente, mejorando tanto la usabilidad como el rendimiento de la plataforma. Esto nos ha permitido ofrecer una experiencia de usuario más fluida y eficiente.
 
-- Durante el Sprint 3 de InfluMatch, el equipo desarrolló y optimizó funciones clave, como los perfiles de usuarios, inicio de sesión, mensajería entre empresarios e influencers, y la gestión de solicitudes. Estas mejoras han incrementado la eficiencia y usabilidad de la plataforma, facilitando la interacción entre las partes involucradas.
-
-- La colaboración entre los miembros del equipo fue crucial para cumplir con los objetivos del Sprint. Utilizando herramientas como Trello para gestionar tareas y Figma para el diseño de interfaces, se mantuvo una organización eficiente y un seguimiento detallado del progreso, lo que permitió alcanzar las metas establecidas.
-
-- Este desarrollo ha establecido una base sólida para la escalabilidad futura de InfluMatch, asegurando su crecimiento en las próximas etapas.
+- Este desarrollo ha sentado las bases para la escalabilidad futura, asegurando que InfluMatch pueda expandirse y adaptarse a nuevas necesidades a medida que crece el mercado de marketing de influencia.
 
 #### **Bibliografia**
 1. Aglowid IT Solutions. (2024). **Top 12 Angular best practices to adapt in 2024**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)

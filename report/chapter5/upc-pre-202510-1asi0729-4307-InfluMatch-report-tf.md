@@ -1835,7 +1835,7 @@ En el diagrama de contenedores se muestra en alto nivel las relaciones entre la 
 
 ### 4.6.3.1 Software Architecture Components Diagrams Frontend
 
- ![Diagrama de Componentes](https://imgur.com/a/JdSKmtK.png)
+ ![Diagrama de Componentes](https://imgur.com/r2h9OTK.png)
 
 
 

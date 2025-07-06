@@ -23,10 +23,6 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
         </thead>
         <tbody>
             <tr>
-                <td style="border: 1px solid ;">Luis Sebastián Rubio Ortiz</td>
-                <td style="border: 1px solid ;">U202310349</td>
-            </tr>
-            <tr>
                 <td style="border: 1px solid ;">Irving Washington Allcca Guerrero</td>
                 <td style="border: 1px solid ;">U202213241</td>
             </tr>
@@ -37,10 +33,6 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
             <tr>
                 <td style="border: 1px solid ;">Sebastian Matias Escobar Palomino</td>
                 <td style="border: 1px solid ;">u202125968</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid ;">Jesús Andrés Millones Espinoza</td>
-                <td style="border: 1px solid ;">u20211b598</td>
             </tr>
         </tbody>
     </table>
@@ -72,6 +64,8 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
 | **2.9** | 15/05/2025 | Sebastián M. Escobar Palomino, Daniel E. Rodríguez Aguilar, Luis S. Rubio Ortiz                            | Finalización del Sprint 2: testing suite, ejecución, documentación de servicios y despliegue de software (5.2.2.4 a 5.2.2.7). Incorporación de Team Collaboration Insights del Sprint 2 (5.2.2.8)                                                                                                                                        |
 | **3.0** | 18/06/2025 | Sebastián M. Escobar Palomino, Luis S. Rubio Ortiz, Nelson F. Pereira Vásquez, Irving W. Allcca Guerrero                            | Desarrollo del Sprint 3: evidencias de desarrollo, testing suite, ejecución y documentación de servicios (5.2.3.3 a 5.2.3.6).                                                                                                                                       |
 | **3.1** | 20/06/2025 | 	Sebastián M. Escobar Palomino, Jesús A. Millones E.                            | Cierre de Sprint 3 con despliegue evidenciado en swagger (5.2.3.7 y 5.2.3.8).                                                                                                                                       |
+| **4.0** | 28/06/2025 | 	Sebastián M. Escobar Palomino, Nelson F. Pereira Vásquez, Irving W. Allcca Guerrero                        | Elaboración por completo del backend con todos los endpoints.                                              |
+| **4.1** | 03/07/2025 | 	Sebastián M. Escobar Palomino, Jesús A. Millones E.                            | Cierre de Sprint 4 con despliegue evidenciado en swagger, fronted y landing page.                                                                                                                                       |
 
 # Project Report Collaboration Insights
 
@@ -228,7 +222,7 @@ para cada integrante del equipo:
     - [**5.3.3. Evaluaciones según heurísticas.**](#533-evaluaciones-según-heurísticas)
   - [**5.4. Video About-the-Product**](#54-video-about-the-product)
       - [**About The Team**](#about-the-team)
-      - [**Avance de Conclusiones**](#avance-de-conclusiones)
+      - [**Conclusiones**](#conclusiones)
       - [**Bibliografia**](#bibliografia)
       - [**Anexo**](#anexo)
 

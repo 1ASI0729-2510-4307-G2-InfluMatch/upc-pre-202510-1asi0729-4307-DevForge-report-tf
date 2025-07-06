@@ -1485,7 +1485,7 @@ Las tarjetas representan los perfiles de influencers disponibles para colaboraci
 
 Estas tarjetas se presentan en una vista de grilla responsiva para explorar fácilmente las opciones disponibles desde cualquier dispositivo.
 
-#### Imágenes
+**Imágenes**
 Las imágenes tienen una función clave dentro del diseño, priorizando representaciones claras del influencer y contenido visual que acompañe las campañas:
 - **Imagen de perfil** para influencers y empresas.
 - **Imagen de encabezado** en el perfil de cada influencer, que puede incluir fotos promocionales o contenido destacado.
@@ -1494,13 +1494,13 @@ Las imágenes tienen una función clave dentro del diseño, priorizando represen
 No se utilizan imágenes de fondo para evitar distracciones y mantener el foco en el contenido dinámico.
 
 
-#### Botones
+**Botones**
 Los botones están diseñados para guiar al usuario en acciones clave:
 - **Primarios (Azul Confianza):** iniciar contratación, enviar propuesta, contactar influencer.
 - **Secundarios (Púrpura Digital):** ver detalles, compartir perfil, agregar a favoritos.
 - **Acciones Críticas (Rojo):** cancelar colaboración, eliminar propuesta.
 
-Todos los botones poseen texto legible, padding generoso y se ubican en la parte inferior derecha o en tarjetas según el flujo.}
+Todos los botones poseen texto legible, padding generoso y se ubican en la parte inferior derecha o en tarjetas según el flujo.
 
 **Vistas y Flujo General de Interacción**
 
@@ -1683,7 +1683,7 @@ En base al Wireframe del landing page, que sirvio para determinar la organizacio
 Enlace para acceder al  los Wireframes en Figma: [InfluMatch – Mockups & Wireframes](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=fVdv09SPC8hr8jTS-1)
 
 
-### 4.4.1. Wireframes de Aplicaciones Web
+### 4.4.1. Web Applications Wireframes
 
 **Inicio de sesión**  
 
@@ -1730,8 +1730,6 @@ Enlace para acceder al  los Wireframes en Figma: [InfluMatch – Mockups & Wiref
 </div>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-
-## 4.4. Diseño UX/UI de Aplicaciones Web
 
 Enlace para acceder al  los Mockups en Figma: [InfluMatch – Mockups & Wireframes](https://www.figma.com/design/o8mqq96SoWiUWDlFJZYB8T/InfluMatch---Mockups-Wireframes?node-id=0-1&p=f)
 
@@ -1781,8 +1779,15 @@ Enlace para acceder al  los Mockups en Figma: [InfluMatch – Mockups & Wirefram
   <img src="https://imgur.com/O4izpWM.png" width="100%" />
 </div>
 
+### 4.4.3. Web Applications User Flow Diagrams
 
-### 4.4.4. Web Applications User Flow Diagrams
+**User Flow Diagrams**  
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/38z1kJo.jpeg" width="100%" />
+</div>
+
+### 4.4.4. Diseño UX/UI de Aplicaciones Web
+
 
 ## 4.5. Web Applications Prototyping
 

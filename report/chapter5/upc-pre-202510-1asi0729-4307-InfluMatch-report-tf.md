@@ -1776,236 +1776,79 @@ En el diagrama de contenedores se muestra en alto nivel las relaciones entre la 
 
 ### 4.6.3.1 Software Architecture Components Diagrams Frontend
 
- ![Diagrama de Componentes](https://i.imgur.com/WhyG5Ow.png)
+ ![Diagrama de Componentes](https://imgur.com/a/JdSKmtK.png)
 
-La aplicación se estructura en módulos funcionales que encapsulan distintas vistas, servicios y modelos de dominio, cada uno con responsabilidades claras y componentes bien definidos. A continuación, se detallan los principales módulos del sistema:
 
----
-
-### 1. Vistas de Autenticación
-
-**Propósito:**  
-Gestiona el flujo completo de autenticación y la configuración inicial del usuario.
-
-**Componentes principales:**
-
-- **Páginas:**  
-  - `Login`  
-  - `Registro`  
-  - `Onboarding`  
-  - `Setup de perfil`
-
-- **Servicios:**  
-  - `User Authentication Service`  
-  - `Route Protection Guard`  
-  - `JWT Token Interceptor`
-
-- **Casos de uso:**  
-  - `User Login Process`  
-  - `User Registration Process`  
-  - `Profile Creation Process`
-
-- **Datos:**  
-  - `Authentication API Client`  
-  - `Authentication Repository`  
-  - `User Data Assembler`
-
-**Flujo típico:**  
-Usuario se registra → Completa onboarding → Configura perfil → Accede al dashboard
-
----
-
-### 2. Vistas del Dashboard
-
-**Propósito:**  
-Proporciona la interfaz principal de usuario y herramientas de gestión de perfiles.
-
-**Componentes principales:**
-
-- **Navegación:**  
-  - `Main Dashboard`  
-  - `Navigation Sidebar`  
-  - `Dashboard Home`
-
-- **Perfiles:**  
-  - `User Profile Page`  
-  - `Profile Detail View`  
-  - `Profile Card Widget`
-
-- **Servicios:**  
-  - `Profile Management Service`  
-  - `User Profile Retrieval`  
-  - `Profile Discovery`
-
-- **Datos:**  
-  - `Profile Management API Client`  
-  - `Profile Management Repository`
-
-**Funcionalidades:**  
-Dashboard principal, navegación contextual, visualización y administración de perfiles de usuario.
-
----
-
-### 3. Vistas de Colaboraciones
-
-**Propósito:**  
-Gestiona la creación, edición y seguimiento de colaboraciones entre marcas e influencers.
-
-**Componentes principales:**
-
-- **Páginas:**  
-  - `Collaborations Management`  
-  - `Collaborations List`  
-  - `Collaboration Detail View`
-
-- **Servicios:**  
-  - `Collaboration Actions Service`  
-  - `Collaboration Creation`  
-  - `Collaboration Details`
-
-- **Datos:**  
-  - `Collaboration Repository`
-
-**Funcionalidades:**  
-Alta de colaboraciones, listado de colaboraciones activas, visualización de detalle y confirmación de acciones.
-
----
-
-### 4. Vistas de Chat
-
-**Propósito:**  
-Proporciona una interfaz de mensajería instantánea para la comunicación entre usuarios.
-
-**Componentes principales:**
-
-- **Páginas:**  
-  - `Chat Conversations List`  
-  - `Chat Conversation View`  
-  - `File Attachment Viewer`
-
-- **Servicios:**  
-  - `Real-time Chat Service`
-
-**Funcionalidades:**  
-Listado de conversaciones, vista de chat en tiempo real, soporte de archivos adjuntos.
-
----
-
-### 5. Vistas de Agenda
-
-**Propósito:**  
-Gestión y visualización de actividades, eventos y tareas programadas por el usuario.
-
-**Componentes principales:**
-
-- **Páginas:**  
-  - `Agenda Calendar`
-
-- **Servicios:**  
-  - `Calendar & Agenda Service`  
-  - `Agenda Management`
-
-- **Datos:**  
-  - `Agenda Data Repository`
-
-**Funcionalidades:**  
-Interfaz de calendario, asignación y control de eventos o tareas personales.
-
----
-
-### 6. Infraestructura Core
-
-**Propósito:**  
-Provee servicios centrales y componentes reutilizables para toda la aplicación.
-
-**Componentes principales:**
-
-- **Servicios:**  
-  - `UI Theme Service`  
-  - `CORS Policy Interceptor`
-
-- **Configuración:**  
-  - `Root Application Component`  
-  - `Application Configuration`  
-  - `Main Application Routes`
-
-- **Módulos:**  
-  - `Core Application Module`  
-  - `Authentication Module`  
-  - `Dashboard Feature Module`
-
-- **Utilidades:**  
-  - `Password Strength Validator`  
-  - `Collaboration Status Helper`
-
-- **Datos:**  
-  - `Dashboard Data API Client`  
-  - `Dashboard Data Repository`
-
-**Funcionalidades:**  
-Temas visuales, validaciones comunes, configuración de rutas, y servicios compartidos de bajo nivel.
-
----
-
-### 7. Modelos de Dominio
-
-**Propósito:**  
-Definir las estructuras centrales del negocio a través de entidades y objetos de valor.
-
-**Componentes principales:**
-
-- **Entidades:**  
-  - `User Domain Entity`  
-  - `Base Profile Entity`  
-  - `Influencer Profile Entity`
-
-- **Value Objects:**  
-  - `Login Credentials`  
-  - `Brand Profile Data`  
-  - `Influencer Profile Data`
-
-**Funcionalidades:**  
-Encapsulamiento de lógica de negocio, validación de integridad de datos, e interoperabilidad entre componentes.
 
 ### 4.6.3.2 Software Architecture Components Diagrams Backend
 
 En esta sección, describimos la arquitectura de los componentes dentro del sistema, enfocándonos en cómo cada uno de ellos se comunica e integra con otros módulos. Los diagramas proporcionados a continuación ofrecen una representación visual de cada componente y sus interacciones.
 
-1. **Componentes Compartidos**  
-   El diagrama de componentes compartidos muestra las utilidades y modelos fundamentales que se utilizan a través de múltiples módulos dentro de la plataforma. Destaca cómo estos componentes compartidos, como los modelos de dominio y las utilidades de seguridad, interactúan con otros componentes del sistema para proporcionar funcionalidades fundamentales como el manejo de eventos, el almacenamiento de datos y la seguridad.  
-   
-   ![Diagrama de Componentes Compartidos](https://imgur.com/nInJYJD.png)
+### 1. **Contexto de Gestión de Identidad y Acceso (IAM)**
+Este contexto es fundamental para la autenticación y autorización de usuarios dentro del sistema. Gestiona los accesos mediante el uso de JWT (JSON Web Tokens) y asegura que solo los usuarios autenticados puedan acceder a los recursos protegidos.
 
-2. **Gestión de Perfiles**  
-   El módulo de Gestión de Perfiles es responsable de gestionar los perfiles de los usuarios, incluidos los influencers y marcas. Se encarga de operaciones como la creación, actualización y validación de perfiles, asegurando una gestión de datos segura y precisa. Este componente interactúa con la base de datos para almacenar los datos del perfil e integra con el módulo de autenticación para la validación.  
-   
-   ![Diagrama de Componentes de Perfiles](https://imgur.com/6bpL4e6.png)
+#### Componentes Principales:
+- **Authentication Controller**: Maneja las solicitudes de inicio de sesión y registro de los usuarios.
+- **Authentication Service**: Lógica de negocio que valida y autentica a los usuarios.
+- **JWT Service**: Genera y valida los tokens JWT utilizados para autenticar a los usuarios.
+- **Blacklist Service**: Administra los tokens inválidos, asegurando que no puedan ser reutilizados.
+- **User Repository**: Accede a los datos de los usuarios, almacenados en una base de datos.
 
-3. **Dashboard y Análisis**  
-   El módulo de Dashboard y Análisis proporciona información valiosa sobre los datos de la plataforma, ofreciendo a los usuarios análisis estadísticos y métricas de rendimiento. Se comunica con otros módulos como Gestión de Perfiles y Gestión de Colaboraciones para recopilar los datos relevantes y mostrarlos a través de paneles interactivos. El flujo de datos involucra consultar y procesar datos para generar análisis significativos.  
-   
-   ![Diagrama de Componentes de Dashboard](https://imgur.com/IZDgX8D.png)
+![Diagrama de ComponentesIAM](https://imgur.com/W5u46e8.png)
 
-4. **Gestión de Colaboraciones**  
-   El módulo de Gestión de Colaboraciones permite la colaboración entre influencers y marcas. Maneja el ciclo de vida de las colaboraciones, desde la creación hasta el monitoreo y la finalización de las asociaciones. Este componente interactúa con los módulos de Gestión de Perfiles y Base de Datos para garantizar una correcta gestión y actualización de los datos.  
-   
-   ![Diagrama de Componentes de Colaboraciones](https://imgur.com/YHwmWNp.png)
+### 2. **Contexto de Gestión de Perfiles**
+El perfil de los usuarios, tanto de influenciadores como de marcas, es fundamental para las interacciones dentro de la plataforma. Este contexto permite crear, leer, actualizar y eliminar perfiles de usuario.
 
-5. **Sistema de Mensajería**  
-   El componente del Sistema de Mensajería maneja toda la comunicación entre los usuarios. Proporciona una forma segura y eficiente de enviar, recibir y almacenar mensajes. Este sistema trabaja estrechamente con el módulo de Gestión de Perfiles para la verificación de usuarios y con la base de datos para el almacenamiento de mensajes.  
-   
-   ![Diagrama de Componentes de Mensajería](https://imgur.com/nw9PC8n.png)
+#### Componentes Principales:
+- **Profile Controller**: Maneja las solicitudes relacionadas con los perfiles de los usuarios.
+- **Profile Service**: Contiene la lógica de negocio para manejar la creación y actualización de los perfiles.
+- **Brand Profile Repository**: Accede a los perfiles de marcas en la base de datos.
+- **Influencer Profile Repository**: Accede a los perfiles de influenciadores en la base de datos.
 
-6. **Autenticación y Autorización**  
-   El módulo de Autenticación y Autorización es responsable de asegurar el acceso a la plataforma. Maneja el inicio de sesión de los usuarios, el registro y la gestión de tokens. El sistema garantiza que cada usuario sea validado y autorizado antes de acceder a las funcionalidades sensibles de la plataforma. Este componente interactúa con el módulo de Gestión de Perfiles y utiliza JWT para una gestión segura de sesiones.  
-  
- <div style="text-align: center;">
-  <img src="https://imgur.com/nmAZBFE.png" width="100%" />
-</div> 
- 
-Cada uno de estos componentes juega un papel vital en la funcionalidad y la integridad de la plataforma, garantizando una experiencia fluida y segura para todos los usuarios. Las interacciones entre estos componentes forman la columna vertebral de la arquitectura del sistema, permitiendo un flujo de datos eficiente y una gestión de usuarios en las diferentes funcionalidades.
+![Diagrama de ComponentesMP](https://imgur.com/e8WmKjk.png)
+
+### 3. **Contexto de Gestión de Colaboraciones**
+Este contexto facilita la creación y gestión de colaboraciones entre influenciadores y marcas. Se encarga de todo el ciclo de vida de una colaboración, desde la solicitud hasta la finalización.
+
+#### Componentes Principales:
+- **Collaboration Controller**: Maneja las solicitudes de colaboración de los usuarios.
+- **Collaboration Service**: Contiene la lógica de negocio para las colaboraciones.
+- **Collaboration Repository**: Accede a los datos de las colaboraciones.
+- **Collaboration Events**: Emite eventos durante el ciclo de vida de una colaboración.
+
+![Diagrama de ComponentesCM](https://imgur.com/mw7yuT8.png)
 
 
+### 4. **Contexto de Mensajería**
+Este contexto permite la comunicación en tiempo real entre los usuarios de la plataforma, facilitando la interacción entre influenciadores, marcas y otros actores.
+
+#### Componentes Principales:
+- **Chat Controller**: Maneja las solicitudes de mensajes entre usuarios.
+- **Chat Service**: Gestiona la lógica de negocio detrás del sistema de mensajería.
+- **Chat Repository**: Almacena los mensajes intercambiados entre usuarios.
+- **Message Repository**: Gestiona los datos de los mensajes enviados.
+
+![Diagrama de ComponentesCM](https://imgur.com/24pG8aB.png)
+
+### 5. **Contexto de Panel de Control y Análisis**
+Este contexto se encarga de la visualización y análisis de los datos del sistema, proporcionando estadísticas y métricas importantes tanto para marcas como influenciadores.
+
+#### Componentes Principales:
+- **Dashboard Controller**: Gestiona las solicitudes del panel de control.
+- **Dashboard Service**: Contiene la lógica de negocio para los análisis y estadísticas.
+
+![Diagrama de ComponentesCM](https://imgur.com/isNcCwy.png)
+
+### 6. **Contexto de Dominio Compartido**
+El dominio compartido contiene componentes que son utilizados por varios otros contextos, como los eventos de dominio, las entidades audibles, y las utilidades de seguridad.
+
+#### Componentes Principales:
+- **Auditable Entity**: Entidad base utilizada para rastrear cambios en otras entidades.
+- **Domain Event**: Base para eventos del dominio utilizados en otros contextos.
+- **Security Utils**: Métodos de utilidad utilizados en varios contextos para manejar la seguridad.
+- **Naming Strategy**: Estrategia utilizada para el nombrado en la base de datos.
+
+![Diagrama de ComponentesCM](https://imgur.com/QXYa8gN.png)
 
 ## 4.7. Software Object-Oriented Design
 

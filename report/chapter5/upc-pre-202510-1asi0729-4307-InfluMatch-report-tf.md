@@ -2975,9 +2975,47 @@ La API del backend está documentada en Swagger, facilitando el acceso a los end
 
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review.**
 
+En el Sprint 4 de InfluMatch, nos enfocamos en realizar correcciones para el backend, solucionando errores en algunos endpoints. Además, completamos la integración total del backend con el frontend, asegurando una comunicación eficiente entre ambos.
+
+Durante este sprint, se documentaron los servicios web utilizando Swagger, lo que facilita el acceso a la API y permite una mejor comprensión de los endpoints disponibles para desarrolladores y colaboradores.
+
+La documentación incluye:
+
+- Descripción de los endpoints corregidos y optimizados para gestionar perfiles de Empresas e influencers.
+- Conexión en su totalidad del fronted y backend , y subido en Azure
+- 
+Este enfoque asegura que todo el equipo comparta un entendimiento común de la API, lo cual es esencial para el avance y la colaboración en InfluMatch. Con estas correcciones y la integración completa, el equipo está listo para continuar con las siguientes fases de desarrollo y expansión de nuevas características.
+
+
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 
+Se incluye evidencia del despliegue del backend, con el siguiente enlace: [Backend](https://influmatch-api.azurewebsites.net/swagger-ui/index.html)
+
+Captura del despliegue del backend en Swagger:
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/EucghW9.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/VzxGefK.png" width="100%" />
+</div>
+
 #### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+Se muestra la evidencia de los insights para esta entrega: 
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/2GN6FoP.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/dlGSsRU.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/i5pHyes.png" width="100%" />
+</div>
 
 ### **5.3. Validation Interviews**
 #### **5.3.1. Diseño de Entrevistas**

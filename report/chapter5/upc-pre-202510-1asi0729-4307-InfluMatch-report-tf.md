@@ -1731,6 +1731,13 @@ Enlace para acceder al  los Wireframes en Figma: [InfluMatch – Mockups & Wiref
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+**Wireflow Diagrams**  
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/8jFPEnV.jpeg" width="100%" />
+</div>
+
+### 4.4.3. Web Applications Mock-ups
+
 Enlace para acceder al  los Mockups en Figma: [InfluMatch – Mockups & Wireframes](https://www.figma.com/design/o8mqq96SoWiUWDlFJZYB8T/InfluMatch---Mockups-Wireframes?node-id=0-1&p=f)
 
 **Inicio de sesión**  
@@ -1779,15 +1786,12 @@ Enlace para acceder al  los Mockups en Figma: [InfluMatch – Mockups & Wirefram
   <img src="https://imgur.com/O4izpWM.png" width="100%" />
 </div>
 
-### 4.4.3. Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
 **User Flow Diagrams**  
 <div style="text-align: center;">
   <img src="https://i.imgur.com/38z1kJo.jpeg" width="100%" />
 </div>
-
-### 4.4.4. Diseño UX/UI de Aplicaciones Web
-
 
 ## 4.5. Web Applications Prototyping
 

@@ -3061,11 +3061,11 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 4. **Funciones para Empresas**  
    Las empresas pueden crear su perfil, especificar el tipo de influencer que buscan, establecer presupuestos y gestionar campañas. Además, pueden contactar directamente con los influencers y analizar el rendimiento de las campañas.
    
-**LINK DEL ABOUT THE PRODUCT:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EfSjNZ5kcEJEt0xJGTBYO5IBf0f9k4x7IJH5HsFOUDOY6A?e=UhgY6S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**LINK DEL ABOUT THE PRODUCT:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQoHsazlXupPmdIqHAvQ4X4Bhrj16rfburuKVXwrgsvL6Q?e=w1GJ9H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### **About the Team**
 
-**LINK DEL ABOUT THE TEAM:** [About the Team]()
+**LINK DEL ABOUT THE TEAM:** [About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQAW8I_cD35LuzVezjCC8pQB_lMu-Xagvb_GOdDhSk1yoA?e=VbgFFs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### **Avance de Conclusiones**
 - Durante el desarrollo de la plataforma InfluMatch, el equipo ha conseguido implementar con éxito las funcionalidades y características previstas, generando una experiencia de usuario eficaz que facilita la vinculación entre influencers y empresas.
@@ -3111,8 +3111,8 @@ El video resalta las principales funcionalidades de la aplicación, incluyendo:
 8. **Link del repositorio del Backend :** [Repositorio Backend](https://github.com/1ASI0729-2510-4307-G2-InfluMatch/InfluMatch-BackEnd)
 9. **Figma con los User Flow Diagrams, wireframes y mockups de la landing page:** [Figma](https://www.figma.com/design/S8V0CHIMssBACyzlgRw6Yd/Influmatch-team-library?node-id=3313-8&t=eJkhI7HPhy6idLZb-1)
 10. **Link del Trello:** [TRELLO]()
-11. **Link del About the Product:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EfSjNZ5kcEJEt0xJGTBYO5IBf0f9k4x7IJH5HsFOUDOY6A?e=UhgY6S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-12. **Link del About the Team:** [About the Team]()
+11. **Link del About the Product:** [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQoHsazlXupPmdIqHAvQ4X4Bhrj16rfburuKVXwrgsvL6Q?e=w1GJ9H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+12. **Link del About the Team:** [About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQAW8I_cD35LuzVezjCC8pQB_lMu-Xagvb_GOdDhSk1yoA?e=VbgFFs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 13. **2.2.2. Registro de entrevistas** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EaeSxT2lAFxBjV2DGf1eOxEBSpFbDwALwshOmVzBrZQPuQ?e=xazmZO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-14. **5.3.2. Registro de Entrevistas :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/ERQbiiOJ3GhGgFj-4rWsdJkBA1dN8V6-EJ0SrTzvYQvFJg?e=YgIjqF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+14. **5.3.2. Registro de entrevistas :** [ENTREVISTAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/ERQbiiOJ3GhGgFj-4rWsdJkBA1dN8V6-EJ0SrTzvYQvFJg?e=YgIjqF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 

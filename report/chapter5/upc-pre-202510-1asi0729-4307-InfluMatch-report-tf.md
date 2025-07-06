@@ -70,14 +70,81 @@ Video de exposición:[ Video de la exposicion](https://upcedupe-my.sharepoint.co
 # Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: (Github): [InfluMatch](https://github.com/1ASI0729-2510-4307-G2-InfluMatch)
+## TB1
 
+Las tareas de la TB1 han sido completadas y documentadas en el repositorio de GitHub de InfluMatch, al que puedes acceder [InfluMatch](https://github.com/orgs/1ASI0729-2510-4307-G2-InfluMatch/repositories).
 
+Durante la elaboración del informe, se asignaron contenidos a cada miembro en formato Markdown, utilizando "Conventional Commits" para registrar el progreso. Además, se generaron recursos e imágenes que se subieron a la carpeta "assets" en cada rama. También se organizaron reuniones para coordinar el avance de los componentes y proporcionar actualizaciones sobre el Sprint 1, centrado en el desarrollo de la Landing Page.
 
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/aWSgCVN.png" width="100%" />
+</div>
 
-**TF1**
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/5oDxEYC.png" width="100%" />
+</div>
 
-Para el desarrollo del informe perteneciente a la entrega TF1, se dividió la implementación de secciones de la siguiente forma
-para cada integrante del equipo:
+## TP1
+
+Las tareas correspondientes a la entrega del TP1 han sido completadas y debidamente documentadas en el repositorio de GitHub del equipo: [InfluMatch](https://github.com/orgs/1ASI0729-2510-4307-G2-InfluMatch/repositories).
+
+También se generaron los artefactos necesarios con las herramientas recomendadas, y se organizaron reuniones periódicas para coordinar el avance de los componentes del informe y compartir los progresos del Sprint 2, enfocado en el desarrollo de la aplicación web.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xIzch76.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/D0qeGKP.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/YUSRpui.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/DF3wXVo.png" width="100%" />
+</div>
+
+## TB2
+
+Las tareas correspondientes al TB2 han sido completadas y documentadas en el repositorio de GitHub del equipo: [InfluMatch](https://github.com/orgs/1ASI0729-2510-4307-G2-InfluMatch/repositories).
+
+Se organizaron reuniones para coordinar el avance de los componentes del informe y compartir los progresos del Sprint 3, enfocado en el desarrollo del frontend y los avances en el backend.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/xIzch76.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/5oDxEYC.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/d2W3TCC.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/uEEeZhG.png" width="100%" />
+</div>
+
+## TF1
+
+Las tareas del TF1 han sido completadas y documentadas en el repositorio de GitHub del equipo: [InfluMatch](https://github.com/orgs/1ASI0729-2510-4307-G2-InfluMatch/repositories).
+
+Se actualizaron el frontend y backend para asegurar su integración. El frontend ahora consume eficientemente las APIs del backend, mientras que el backend se desplegó en la nube en Azure, garantizando disponibilidad y escalabilidad. Se realizaron pruebas para asegurar el correcto funcionamiento de los servicios y se coordinaron reuniones periódicas para alinear los avances con los objetivos del Sprint 4.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/2GN6FoP.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/dlGSsRU.png" width="100%" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/i5pHyes.png" width="100%" />
+</div>
 
 
 # Contenido
